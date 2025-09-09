@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Listy</title>
+</head>
+<body>
+	<!-- listy numerowane (ol) -->
+	<section id="daily-schedule">
+		<h2>Plan dnia</h2>
+		<ol>
+			<li>Śniadanie</li>
+			<li>Szkoła</li>
+			<li>Obiad</li>
+			<li>Sport</li>
+		</ol>
+	</section>
+
+	<!-- lista zagnieżdżona -->
+	<section id="shopping-list">
+		<h2>Lista zakupów</h2>
+		<ul>
+			<li>Owoce
+				<ol>
+					<li>Jabłka</li>
+					<li>Banany</li>
+					<li>Truskawki</li>
+				</ol>
+			</li>
+			<li>Warzywa
+				<ol type="a">
+					<li>Marchew</li>
+					<li>Cebula</li>
+				</ol>
+			</li>
+		</ul>
+	</section>
+
+	<!-- lista definicji -->
+	 <section id="glossary">
+		<h2>Słownik</h2>
+		<!-- dl - definition list (lista definicji) -->
+		<dl>
+			<!-- dt - definition term (termin, pojecie, które definiujemy) -->
+			<dt>HTML</dt>
+			<!-- dd - definition description - opis definicji (wyjaśnienie terminu) -->
+			<dd>Język znaczników używany do tworzenia stron internetowych</dd>
+			<dt>CSS</dt>
+			<dd>Język stylów służący do formatowania wyglądu strony</dd>
+		</dl>
+	 </section>
+	 <hr>
+
+	 <!-- zadanie 1 -->
+	 <h2>Lista zwierząt</h2>
+	 <ul>
+		<li>Ssaki
+			<ol>
+				<li>Pies
+					<ul type="disc">
+						<li>Rasy
+							<ul type="disc">
+								<li>Owczarek niemiecki</li>
+								<li>Labrador</li>
+								<li>Husky</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li>Kot
+					<ul type="disc">
+						<li>Typy:
+							<ul type="disc">
+								<li>Kot domowy</li>
+								<li>Kot dziki</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+			</ol>
+		</li>
+		<li>Ptaki
+			<ol type="a">
+				<li>Orzeł
+					<ul type="disc">
+						<li>Gatunki
+							<ul type="disc">
+								<li>Orzeł bielik</li>
+								<li>Orzeł stepowy</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li>Sowa
+					<ul type="disc">
+						<li>Odmiany
+							<ul type="disc">
+								<li>Puchacz</li>
+								<li>Sóweczka</li>
+								<li>Sowa śnieżna</li>
+								<li>Wróbel</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+			</ol>
+		</li>
+		<li>Ryby
+			<ul type="disc">
+				<li>Karp</li>
+				<li>Węgorz
+					<ul type="disc">
+						<li>Występowanie:
+							<ul type="disc">
+								<li>Rzeki</li>
+								<li>Morza</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+	 </ul>
+</body>
+</html>
