@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Formularz</title>
+</head>
+<body>
+	<h1>Formularz</h1>
+	<form action="form.php" method="post">
+		<label>Imię: <input type="text" name="name"></label><br><br>
+		<label>Email: <input type="email" name="email"></label><br><br>
+		<label>Wiadomość:<br>
+			<textarea name="message" cols="30" rows="5"></textarea>
+		</label><br><br>
+
+		<!-- pola typu radio -->
+		<p>Płeć:</p>
+		<label><input type="radio" name="gender" value="Mężczyzna">Mężczyzna</label><br>
+		<label><input type="radio" name="gender" value="Kobieta">Kobieta</label><br>
+		<label><input type="radio" name="gender" value="Inna">Inna</label><br><br>
+
+		<!-- checkbox -->
+		 <p>Zainteresowania:</p>
+		 <label><input type="checkbox" name="hobbies[]" value="Sport">Sport</label><br>
+		 <label><input type="checkbox" name="hobbies[]" value="Muzyka">Muzyka</label><br>
+		 <label><input type="checkbox" name="hobbies[]" value="Podróże">Podróże</label><br><br>
+
+		<!-- select -->
+		 <p>Kraj</p>
+		 <select name="country">
+			<option value="">-- wybierz kraj --</option>
+			<option value="Polska">Polska</option>
+			<option value="Włochy">Włochy</option>
+			<option value="Hiszpania">Hiszpania</option>
+		 </select><br><br>
+
+		 <!-- kolor -->
+			<p>Wybierz kolor tekstu:</p>
+			<input type="color" name="textColor" value="#000000"><br><br>
+
+		<button type="submit">Wyślij</button>
+	</form>
+</body>
+</html>
