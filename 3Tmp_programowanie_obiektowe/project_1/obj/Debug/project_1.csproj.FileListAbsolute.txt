@@ -1,0 +1,7 @@
+C:\xampp2\htdocs\git\ZST\3Tmp_programowanie_obiektowe\project_1\bin\Debug\project_1.exe.config
+C:\xampp2\htdocs\git\ZST\3Tmp_programowanie_obiektowe\project_1\bin\Debug\project_1.exe
+C:\xampp2\htdocs\git\ZST\3Tmp_programowanie_obiektowe\project_1\bin\Debug\project_1.pdb
+C:\xampp2\htdocs\git\ZST\3Tmp_programowanie_obiektowe\project_1\obj\Debug\project_1.csproj.AssemblyReference.cache
+C:\xampp2\htdocs\git\ZST\3Tmp_programowanie_obiektowe\project_1\obj\Debug\project_1.csproj.CoreCompileInputs.cache
+C:\xampp2\htdocs\git\ZST\3Tmp_programowanie_obiektowe\project_1\obj\Debug\project_1.exe
+C:\xampp2\htdocs\git\ZST\3Tmp_programowanie_obiektowe\project_1\obj\Debug\project_1.pdb
