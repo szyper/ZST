@@ -1,0 +1,14 @@
+C:\MS\desktopowe\1_delegaty_zadanie_1\bin\Debug\net8.0\1_delegaty_zadanie_1.exe
+C:\MS\desktopowe\1_delegaty_zadanie_1\bin\Debug\net8.0\1_delegaty_zadanie_1.deps.json
+C:\MS\desktopowe\1_delegaty_zadanie_1\bin\Debug\net8.0\1_delegaty_zadanie_1.runtimeconfig.json
+C:\MS\desktopowe\1_delegaty_zadanie_1\bin\Debug\net8.0\1_delegaty_zadanie_1.dll
+C:\MS\desktopowe\1_delegaty_zadanie_1\bin\Debug\net8.0\1_delegaty_zadanie_1.pdb
+C:\MS\desktopowe\1_delegaty_zadanie_1\obj\Debug\net8.0\1_delegaty_zadanie_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\MS\desktopowe\1_delegaty_zadanie_1\obj\Debug\net8.0\1_delegaty_zadanie_1.AssemblyInfoInputs.cache
+C:\MS\desktopowe\1_delegaty_zadanie_1\obj\Debug\net8.0\1_delegaty_zadanie_1.AssemblyInfo.cs
+C:\MS\desktopowe\1_delegaty_zadanie_1\obj\Debug\net8.0\1_delegaty_zadanie_1.csproj.CoreCompileInputs.cache
+C:\MS\desktopowe\1_delegaty_zadanie_1\obj\Debug\net8.0\1_delegaty_zadanie_1.dll
+C:\MS\desktopowe\1_delegaty_zadanie_1\obj\Debug\net8.0\refint\1_delegaty_zadanie_1.dll
+C:\MS\desktopowe\1_delegaty_zadanie_1\obj\Debug\net8.0\1_delegaty_zadanie_1.pdb
+C:\MS\desktopowe\1_delegaty_zadanie_1\obj\Debug\net8.0\1_delegaty_zadanie_1.genruntimeconfig.cache
+C:\MS\desktopowe\1_delegaty_zadanie_1\obj\Debug\net8.0\ref\1_delegaty_zadanie_1.dll
