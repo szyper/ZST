@@ -1,0 +1,14 @@
+C:\xampp\htdocs\klasa_3\obiektowe\project_3_tablice\project_3_tablice\bin\Debug\net9.0\project_3_tablice.exe
+C:\xampp\htdocs\klasa_3\obiektowe\project_3_tablice\project_3_tablice\bin\Debug\net9.0\project_3_tablice.deps.json
+C:\xampp\htdocs\klasa_3\obiektowe\project_3_tablice\project_3_tablice\bin\Debug\net9.0\project_3_tablice.runtimeconfig.json
+C:\xampp\htdocs\klasa_3\obiektowe\project_3_tablice\project_3_tablice\bin\Debug\net9.0\project_3_tablice.dll
+C:\xampp\htdocs\klasa_3\obiektowe\project_3_tablice\project_3_tablice\bin\Debug\net9.0\project_3_tablice.pdb
+C:\xampp\htdocs\klasa_3\obiektowe\project_3_tablice\project_3_tablice\obj\Debug\net9.0\project_3_tablice.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\klasa_3\obiektowe\project_3_tablice\project_3_tablice\obj\Debug\net9.0\project_3_tablice.AssemblyInfoInputs.cache
+C:\xampp\htdocs\klasa_3\obiektowe\project_3_tablice\project_3_tablice\obj\Debug\net9.0\project_3_tablice.AssemblyInfo.cs
+C:\xampp\htdocs\klasa_3\obiektowe\project_3_tablice\project_3_tablice\obj\Debug\net9.0\project_3_tablice.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\klasa_3\obiektowe\project_3_tablice\project_3_tablice\obj\Debug\net9.0\project_3_tablice.dll
+C:\xampp\htdocs\klasa_3\obiektowe\project_3_tablice\project_3_tablice\obj\Debug\net9.0\refint\project_3_tablice.dll
+C:\xampp\htdocs\klasa_3\obiektowe\project_3_tablice\project_3_tablice\obj\Debug\net9.0\project_3_tablice.pdb
+C:\xampp\htdocs\klasa_3\obiektowe\project_3_tablice\project_3_tablice\obj\Debug\net9.0\project_3_tablice.genruntimeconfig.cache
+C:\xampp\htdocs\klasa_3\obiektowe\project_3_tablice\project_3_tablice\obj\Debug\net9.0\ref\project_3_tablice.dll
