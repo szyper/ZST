@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabele</title>
+</head>
+<body>
+    <!-- 
+        tr - table row  -> wiersz tabeli
+        td - table data -> komórka tabeli z danymi
+        th - table header -> komórka nagłówka tabeli (zwykle pogrubiona)
+    -->
+    <h1>Tabela 1</h1>
+
+    <table border="1" cellpadding="4" cellspacing="4">
+        <thead>
+            <tr>
+                <th>Pozycja</th>
+                <th>Drużyna</th>
+                <th>Punkty</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>12</td>
+                <td>Mieszko Gniezno</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Stal Pleszew</td>
+                <td>7</td>
+            </tr><tr>
+                <td>1</td>
+                <td>Huragan Pobiedziska</td>
+                <td>18</td>
+            </tr>
+        </tbody>
+    </table><hr>
+
+    <table border="1" cellpadding="4" cellspacing="4">
+        <thead>
+            <tr>
+                <th>Data</th>
+                <th colspan="2">Mecz</th>
+                <th>Wynik</th>
+            </tr>
+            <tr>
+                <td>2025-09-2</td>
+                <td rowspan="2">Stal Pleszew</td>
+                <td>Mieszko Gniezno</td>
+                <td>2:1</td>
+            </tr>
+            <tr>
+                <td>2025-09-9</td>
+                <td>Huragan Pobiedziska</td>
+                <td>5:1</td>
+            </tr>
+            <tr>
+                <td>2025-09-16</td>
+                <td>Huragan Pobiedziska</td>
+                <td>Stal Pleszew</td>
+                <td>0:10</td>
+            </tr>
+            <tr>
+                <td colspan="4">Koniec sezonu: 2025-05-15</td>
+            </tr>
+        </thead>
+    </table>
+</body>
+</html>
