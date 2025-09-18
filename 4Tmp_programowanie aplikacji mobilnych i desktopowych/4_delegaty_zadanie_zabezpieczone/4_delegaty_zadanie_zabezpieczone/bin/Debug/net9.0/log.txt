@@ -1,0 +1,12 @@
+[ 2025-09-18 10:20:04] Wysłano: SendEmail, wiadomość: wiadomość testowa
+[ 2025-09-18 10:21:02] Wysłano: SendSMS, wiadomość: nowa
+[ 2025-09-18 10:21:02] Wysłano: SendPush, wiadomość: nowa
+[ 2025-09-18 10:33:00] Wysłano: SendEmail, wiadomość: 
+[ 2025-09-18 12:27:40] Wysłano: SendEmail, wiadomość: test
+[ 2025-09-18 12:27:40] Wysłano: SendSMS, wiadomość: test
+[ 2025-09-18 12:27:40] Wysłano: SendPush, wiadomość: test
+[ 2025-09-18 12:27:40] Wysłano: SendEmail, wiadomość: test
+[ 2025-09-18 12:27:40] Wysłano: SendSMS, wiadomość: test
+[ 2025-09-18 12:27:40] Wysłano: SendPush, wiadomość: test
+[ 2025-09-18 12:29:01] Wysłano: SendEmail, wiadomość: test2
+[ 2025-09-18 12:29:01] Wysłano: SendSMS, wiadomość: test2
