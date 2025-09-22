@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabele</title>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+
+        th {
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <!-- 
+        tr - table row (wiersz tabeli)
+        th - table header (komórka nagłówkowa tabeli)
+        td - table data (komórka danych tabeli)
+    -->
+    <h3>Prosta tabela</h3>
+    <table border="1">
+        <tr>
+            <th>Imię</th>
+            <th>Nazwisko</th>
+            <th>Wiek</th>
+        </tr>
+        <tr>
+            <td>Anna</td>
+            <td>Nowak</td>
+            <td>25</td>
+        </tr><tr>
+            <td>Paweł</td>
+            <td>Nowak</td>
+            <td>20</td>
+        </tr>
+    </table><hr>
+
+    <!-- tabela z nagłówkiem i podpisem -->
+    <table border="1">
+        <caption>Lista pracowników firmy</caption>
+        <thead>
+            <tr>
+                <th>Identyfikator</th>
+                <th>Nazwisko</th>
+                <th>Stanowisko</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>001</td>
+                <td>Wiśniewski</td>
+                <td>Kierownik</td>
+            </tr>
+            <tr>
+                <td>002</td>
+                <td>Nowak</td>
+                <td>Prezes</td>
+            </tr>
+        </tbody>
+    </table><hr>
+
+    <!-- Tabela z połączonymi komórkami -->
+    <!-- rowspan -->
+    <!-- colspan -->
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th rowspan="2">Kategoria</th>
+                <th colspan="2">Wyniki</th>
+            </tr>
+            <tr>
+                <th>2024</th>
+                <th>2025</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Sprzedaż</td>
+                <td>5000</td>
+                <td>6000</td>
+            </tr>
+            <tr>
+                <td>Marketing</td>
+                <td>3000</td>
+                <td>4000</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
