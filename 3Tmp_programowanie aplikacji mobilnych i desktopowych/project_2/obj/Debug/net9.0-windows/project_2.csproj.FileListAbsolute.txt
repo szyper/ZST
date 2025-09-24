@@ -1,0 +1,16 @@
+C:\Users\administrator.SBSMEN.000\Desktop\24_09\project_2\bin\Debug\net9.0-windows\project_2.exe
+C:\Users\administrator.SBSMEN.000\Desktop\24_09\project_2\bin\Debug\net9.0-windows\project_2.deps.json
+C:\Users\administrator.SBSMEN.000\Desktop\24_09\project_2\bin\Debug\net9.0-windows\project_2.runtimeconfig.json
+C:\Users\administrator.SBSMEN.000\Desktop\24_09\project_2\bin\Debug\net9.0-windows\project_2.dll
+C:\Users\administrator.SBSMEN.000\Desktop\24_09\project_2\bin\Debug\net9.0-windows\project_2.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\24_09\project_2\obj\Debug\net9.0-windows\project_2.Form1.resources
+C:\Users\administrator.SBSMEN.000\Desktop\24_09\project_2\obj\Debug\net9.0-windows\project_2.csproj.GenerateResource.cache
+C:\Users\administrator.SBSMEN.000\Desktop\24_09\project_2\obj\Debug\net9.0-windows\project_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator.SBSMEN.000\Desktop\24_09\project_2\obj\Debug\net9.0-windows\project_2.AssemblyInfoInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\24_09\project_2\obj\Debug\net9.0-windows\project_2.AssemblyInfo.cs
+C:\Users\administrator.SBSMEN.000\Desktop\24_09\project_2\obj\Debug\net9.0-windows\project_2.csproj.CoreCompileInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\24_09\project_2\obj\Debug\net9.0-windows\project_2.dll
+C:\Users\administrator.SBSMEN.000\Desktop\24_09\project_2\obj\Debug\net9.0-windows\refint\project_2.dll
+C:\Users\administrator.SBSMEN.000\Desktop\24_09\project_2\obj\Debug\net9.0-windows\project_2.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\24_09\project_2\obj\Debug\net9.0-windows\project_2.genruntimeconfig.cache
+C:\Users\administrator.SBSMEN.000\Desktop\24_09\project_2\obj\Debug\net9.0-windows\ref\project_2.dll
