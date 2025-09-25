@@ -12,3 +12,18 @@ C:\MS\desktopowe\2_delegaty_zadanie_4\obj\Debug\net8.0\refint\2_delegaty_zadanie
 C:\MS\desktopowe\2_delegaty_zadanie_4\obj\Debug\net8.0\2_delegaty_zadanie_4.pdb
 C:\MS\desktopowe\2_delegaty_zadanie_4\obj\Debug\net8.0\2_delegaty_zadanie_4.genruntimeconfig.cache
 C:\MS\desktopowe\2_delegaty_zadanie_4\obj\Debug\net8.0\ref\2_delegaty_zadanie_4.dll
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\2_delegaty_zadanie_4\bin\Debug\net8.0\2_delegaty_zadanie_4.exe
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\2_delegaty_zadanie_4\bin\Debug\net8.0\2_delegaty_zadanie_4.deps.json
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\2_delegaty_zadanie_4\bin\Debug\net8.0\2_delegaty_zadanie_4.runtimeconfig.json
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\2_delegaty_zadanie_4\bin\Debug\net8.0\2_delegaty_zadanie_4.dll
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\2_delegaty_zadanie_4\bin\Debug\net8.0\2_delegaty_zadanie_4.pdb
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\2_delegaty_zadanie_4\obj\Debug\net8.0\2_delegaty_zadanie_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\2_delegaty_zadanie_4\obj\Debug\net8.0\2_delegaty_zadanie_4.AssemblyInfoInputs.cache
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\2_delegaty_zadanie_4\obj\Debug\net8.0\2_delegaty_zadanie_4.AssemblyInfo.cs
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\2_delegaty_zadanie_4\obj\Debug\net8.0\2_delegaty_zadanie_4.csproj.CoreCompileInputs.cache
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\2_delegaty_zadanie_4\obj\Debug\net8.0\2_delegaty_zadanie_4.sourcelink.json
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\2_delegaty_zadanie_4\obj\Debug\net8.0\2_delegaty_zadanie_4.dll
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\2_delegaty_zadanie_4\obj\Debug\net8.0\refint\2_delegaty_zadanie_4.dll
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\2_delegaty_zadanie_4\obj\Debug\net8.0\2_delegaty_zadanie_4.pdb
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\2_delegaty_zadanie_4\obj\Debug\net8.0\2_delegaty_zadanie_4.genruntimeconfig.cache
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\2_delegaty_zadanie_4\obj\Debug\net8.0\ref\2_delegaty_zadanie_4.dll
