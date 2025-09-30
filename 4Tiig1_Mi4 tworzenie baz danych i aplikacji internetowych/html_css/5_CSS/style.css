@@ -1,0 +1,30 @@
+h1 {
+    color: green;
+    font-size: 35px;
+}
+
+/* 
+    jednostki CSS:
+
+    - stałe
+        px - piksele np. font-size: 16px
+    - względne
+        em - względem rozmiaru czcionki elementu rodzica
+        rem - względem czcionki ustawionej w html
+        % - względem rodzica (np. width: 50%)
+        vw / vh - procent /szerokości / wysokości okna (50vw = połowa szerokości)
+        fr - jednostka do CSS Grid (np. grid-template-columns: 1fr 2fr;)
+*/
+
+#akapit {
+    font-size: 1.2em; /* 120% względem rodzica) */
+    width: 50%; /* połowa szerokości rodzica */
+    margin: 10px;
+}
+
+/*
+    kolory w CSS
+    RGB, HEX, RGBA, HSL, SHLA
+    https://mmcschool.pl/frontend/kolory-w-css-jak-korzystac/8685/
+*/
+

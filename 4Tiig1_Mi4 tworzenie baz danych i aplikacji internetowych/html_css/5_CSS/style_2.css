@@ -1,0 +1,28 @@
+/*
+    SELEKTORY TAGÓW, KLAS, ID
+    Selektor tagu (elementu) - wybiera elementy HTMl po nazwie tagu np. p, button, h1
+    Selektor klasy - wybiera elementy, które mają określoną klasę np.   .btn
+    Selektor ID - wybiera elementy o unikalnym id np. #header
+*/
+
+h1 {
+    font-size: 2rem; 
+} /* selektor tagu */
+
+
+.lead {
+    font-size: 1.2rem;
+} /*selektro klasy*/
+
+#intro {
+    color: grey;
+}
+
+.btn {
+    padding: .5rem 1rem;
+}
+
+.btn .primary {
+    background: blue;
+    color: white;
+}

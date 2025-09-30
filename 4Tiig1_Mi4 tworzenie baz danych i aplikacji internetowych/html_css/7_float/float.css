@@ -1,0 +1,33 @@
+#one {
+    background-color: antiquewhite;
+}
+
+#two {
+    background-color: aqua;
+    float: left;
+}
+
+#three {
+    background-color: brown;
+    float: left;
+}
+
+#four {
+    background-color: black;
+    clear: both;
+}
+
+#five {
+    background-color: blueviolet;
+    float: left;
+}
+
+#six {
+    background-color: rgb(58, 162, 247);
+    float: left;
+} 
+
+#seven {
+    background-color: rgb(255, 0, 0);
+    clear: both;
+}
