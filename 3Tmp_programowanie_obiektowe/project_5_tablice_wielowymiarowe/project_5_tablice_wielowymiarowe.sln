@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project_5_tablice_wielowymiarowe", "project_5_tablice_wielowymiarowe.csproj", "{88192D89-5CDE-458F-92B0-521D5D2CF80E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88192D89-5CDE-458F-92B0-521D5D2CF80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88192D89-5CDE-458F-92B0-521D5D2CF80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88192D89-5CDE-458F-92B0-521D5D2CF80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88192D89-5CDE-458F-92B0-521D5D2CF80E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42196843-9991-442D-93DA-627947687D3D}
+	EndGlobalSection
+EndGlobal

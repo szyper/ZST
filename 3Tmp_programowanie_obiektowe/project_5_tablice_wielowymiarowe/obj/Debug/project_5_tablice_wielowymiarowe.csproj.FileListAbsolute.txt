@@ -1,0 +1,8 @@
+C:\xampp\htdocs\klasa_3\po\project_5_tablice_wielowymiarowe\bin\Debug\project_5_tablice_wielowymiarowe.exe.config
+C:\xampp\htdocs\klasa_3\po\project_5_tablice_wielowymiarowe\bin\Debug\project_5_tablice_wielowymiarowe.exe
+C:\xampp\htdocs\klasa_3\po\project_5_tablice_wielowymiarowe\bin\Debug\project_5_tablice_wielowymiarowe.pdb
+C:\xampp\htdocs\klasa_3\po\project_5_tablice_wielowymiarowe\obj\Debug\project_5_tablice_wielowymiarowe.csproj.AssemblyReference.cache
+C:\xampp\htdocs\klasa_3\po\project_5_tablice_wielowymiarowe\obj\Debug\project_5_tablice_wielowymiarowe.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\klasa_3\po\project_5_tablice_wielowymiarowe\obj\Debug\project_5_tablice_wielowymiarowe.exe
+C:\xampp\htdocs\klasa_3\po\project_5_tablice_wielowymiarowe\obj\Debug\project_5_tablice_wielowymiarowe.pdb
+C:\xampp\htdocs\klasa_3\po\project_5_tablice_wielowymiarowe\obj\Debug\project_5_tablice_wielowymiarowe.exe.config
