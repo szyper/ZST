@@ -1,0 +1,8 @@
+C:\xampp\htdocs\klasa_4\xxxx\project_5_tablice_stolowka\bin\Debug\project_5_tablice_stolowka.exe.config
+C:\xampp\htdocs\klasa_4\xxxx\project_5_tablice_stolowka\bin\Debug\project_5_tablice_stolowka.exe
+C:\xampp\htdocs\klasa_4\xxxx\project_5_tablice_stolowka\bin\Debug\project_5_tablice_stolowka.pdb
+C:\xampp\htdocs\klasa_4\xxxx\project_5_tablice_stolowka\obj\Debug\project_5_tablice_stolowka.csproj.AssemblyReference.cache
+C:\xampp\htdocs\klasa_4\xxxx\project_5_tablice_stolowka\obj\Debug\project_5_tablice_stolowka.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\klasa_4\xxxx\project_5_tablice_stolowka\obj\Debug\project_5_tablice_stolowka.exe
+C:\xampp\htdocs\klasa_4\xxxx\project_5_tablice_stolowka\obj\Debug\project_5_tablice_stolowka.pdb
+C:\xampp\htdocs\klasa_4\xxxx\project_5_tablice_stolowka\obj\Debug\project_5_tablice_stolowka.exe.config
