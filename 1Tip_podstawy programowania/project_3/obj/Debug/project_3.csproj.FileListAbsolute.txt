@@ -1,0 +1,8 @@
+C:\xampp\htdocs\klasa_4\xxxx\project_3\bin\Debug\project_3.exe.config
+C:\xampp\htdocs\klasa_4\xxxx\project_3\bin\Debug\project_3.exe
+C:\xampp\htdocs\klasa_4\xxxx\project_3\bin\Debug\project_3.pdb
+C:\xampp\htdocs\klasa_4\xxxx\project_3\obj\Debug\project_3.csproj.AssemblyReference.cache
+C:\xampp\htdocs\klasa_4\xxxx\project_3\obj\Debug\project_3.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\klasa_4\xxxx\project_3\obj\Debug\project_3.exe
+C:\xampp\htdocs\klasa_4\xxxx\project_3\obj\Debug\project_3.pdb
+C:\xampp\htdocs\klasa_4\xxxx\project_3\obj\Debug\project_3.exe.config

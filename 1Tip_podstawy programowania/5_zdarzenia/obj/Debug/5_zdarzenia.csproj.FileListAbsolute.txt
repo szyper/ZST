@@ -1,8 +1,0 @@
-C:\xampp\htdocs\klasa_4\xxxx\5_zdarzenia\bin\Debug\5_zdarzenia.exe.config
-C:\xampp\htdocs\klasa_4\xxxx\5_zdarzenia\bin\Debug\5_zdarzenia.exe
-C:\xampp\htdocs\klasa_4\xxxx\5_zdarzenia\bin\Debug\5_zdarzenia.pdb
-C:\xampp\htdocs\klasa_4\xxxx\5_zdarzenia\obj\Debug\5_zdarzenia.csproj.AssemblyReference.cache
-C:\xampp\htdocs\klasa_4\xxxx\5_zdarzenia\obj\Debug\5_zdarzenia.csproj.CoreCompileInputs.cache
-C:\xampp\htdocs\klasa_4\xxxx\5_zdarzenia\obj\Debug\5_zdarzenia.exe
-C:\xampp\htdocs\klasa_4\xxxx\5_zdarzenia\obj\Debug\5_zdarzenia.pdb
-C:\xampp\htdocs\klasa_4\xxxx\5_zdarzenia\obj\Debug\5_zdarzenia.exe.config
