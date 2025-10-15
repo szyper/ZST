@@ -1,0 +1,7 @@
+C:\dane\ti\zsk\2023\zajęcia\po\wykład\c#\1\7_1_tablice\6_tablice_podstawy — kopia\bin\Debug\6_tablice_podstawy.exe.config
+C:\dane\ti\zsk\2023\zajęcia\po\wykład\c#\1\7_1_tablice\6_tablice_podstawy — kopia\bin\Debug\6_tablice_podstawy.exe
+C:\dane\ti\zsk\2023\zajęcia\po\wykład\c#\1\7_1_tablice\6_tablice_podstawy — kopia\bin\Debug\6_tablice_podstawy.pdb
+C:\dane\ti\zsk\2023\zajęcia\po\wykład\c#\1\7_1_tablice\6_tablice_podstawy — kopia\obj\Debug\6_tablice_podstawy.csproj.AssemblyReference.cache
+C:\dane\ti\zsk\2023\zajęcia\po\wykład\c#\1\7_1_tablice\6_tablice_podstawy — kopia\obj\Debug\6_tablice_podstawy.csproj.CoreCompileInputs.cache
+C:\dane\ti\zsk\2023\zajęcia\po\wykład\c#\1\7_1_tablice\6_tablice_podstawy — kopia\obj\Debug\6_tablice_podstawy.exe
+C:\dane\ti\zsk\2023\zajęcia\po\wykład\c#\1\7_1_tablice\6_tablice_podstawy — kopia\obj\Debug\6_tablice_podstawy.pdb
