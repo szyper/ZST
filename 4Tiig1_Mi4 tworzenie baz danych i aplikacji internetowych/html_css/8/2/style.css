@@ -1,0 +1,104 @@
+body {
+    font-family: Arial, sans-serif; /* czcionka bezszeryfowa */
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+/* ustawienia wspólne dla wszystkich sekcji */
+header, nav, main, aside, section, footer {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    font-size: 18px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+#main, #sidebar, #ad {
+}
+
+/* nagłówek na górze strony - zawsze pełna szerokość */
+#header {
+    /* background-color: #ffb703; */
+    background: linear-gradient( 90deg, #ffb703, #fb8500);
+    height: 100px;
+    clear: both;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+
+}
+
+#header a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+#header a:hover {
+    text-decoration: underline;
+}
+
+/* lewa kolumna - menu boczne */
+#sidebar {
+    background-color: #023047;
+    width: 20%; /* zajmuje 20% szerokości strony */
+    height: 300px;
+    float: left; /* ustawienie przy lewej krawędzi strony */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+
+}
+
+/* główna treść artykułu - środkowa kolumna */
+#main {
+    background-color: #219ebc;
+    width: 55%;
+    height: 300px;
+    float: left; /* ustawienie obok menu */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+
+}
+
+/* prawa kolumna - np. reklama lub dodatkowa sekcja */
+#ad {
+    background-color: #8ecae6;
+    width: 25%;
+    height: 300px;
+    float: left; /* obok głównej treści strony */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+
+}
+
+/* dodatkowy artykuł / galeria - poniżej kolumn */
+#extra {
+    background-color: #fb8500;
+    height: 200px;
+    clear: both;
+}
+
+#sidebar:hover, main:hover, aside:hover {
+    filter: brightness(1.1);
+    cursor: pointer;
+}
+
+.card {
+    float: left;
+    width: 30%;
+    margin: 1.5%;
+    height: 150px;
+    background-color: #ffb703;
+    border-radius: 10px;
+    line-height: 150px;
+    text-align: center;
+}
+
+#footer {
+    background-color: #333;
+    height: 100px;
+    clear: both;
+    color: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}

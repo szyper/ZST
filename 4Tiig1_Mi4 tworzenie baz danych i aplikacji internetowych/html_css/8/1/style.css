@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif; /* czcionka bezszeryfowa */
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+/* ustawienia wspólne dla wszystkich sekcji */
+header, nav, main, aside, section, footer {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
+/* nagłówek na górze strony - zawsze pełna szerokość */
+#header {
+    background-color: #ffb703;
+    height: 100px;
+    clear: both;
+}
+
+/* lewa kolumna - menu boczne */
+#sidebar {
+    background-color: #023047;
+    width: 20%; /* zajmuje 20% szerokości strony */
+    height: 300px;
+    float: left; /* ustawienie przy lewej krawędzi strony */
+}
+
+/* główna treść artykułu - środkowa kolumna */
+#main {
+    background-color: #219ebc;
+    width: 55%;
+    height: 300px;
+    float: left; /* ustawienie obok menu */
+}
+
+/* prawa kolumna - np. reklama lub dodatkowa sekcja */
+#ad {
+    background-color: #8ecae6;
+    width: 25%;
+    height: 300px;
+    float: left; /* obok głównej treści strony */
+}
+
+/* dodatkowy artykuł / galeria - poniżej kolumn */
+#extra {
+    background-color: #fb8500;
+    height: 200px;
+    clear: both;
+}
