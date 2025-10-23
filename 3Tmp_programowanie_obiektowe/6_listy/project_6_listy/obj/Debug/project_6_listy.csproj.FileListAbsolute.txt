@@ -1,0 +1,8 @@
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\project_6_listy\bin\Debug\project_6_listy.exe.config
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\project_6_listy\bin\Debug\project_6_listy.exe
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\project_6_listy\bin\Debug\project_6_listy.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\project_6_listy\obj\Debug\project_6_listy.csproj.AssemblyReference.cache
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\project_6_listy\obj\Debug\project_6_listy.csproj.CoreCompileInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\project_6_listy\obj\Debug\project_6_listy.exe
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\project_6_listy\obj\Debug\project_6_listy.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\project_6_listy\obj\Debug\project_6_listy.exe.config

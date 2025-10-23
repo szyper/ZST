@@ -1,0 +1,11 @@
+body {
+    background-color: rgba(166, 162, 162, 0.946);
+}
+
+h1 {
+    color: beige;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    font-weight: bold, normal, 800;
+}

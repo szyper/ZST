@@ -1,0 +1,11 @@
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\czwartek\4_\RectangleSolution\RectangleApp\bin\Debug\net9.0\RectangleApp.deps.json
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\czwartek\4_\RectangleSolution\RectangleApp\bin\Debug\net9.0\RectangleApp.dll
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\czwartek\4_\RectangleSolution\RectangleApp\bin\Debug\net9.0\RectangleApp.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\czwartek\4_\RectangleSolution\RectangleApp\obj\Debug\net9.0\RectangleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\czwartek\4_\RectangleSolution\RectangleApp\obj\Debug\net9.0\RectangleApp.AssemblyInfoInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\czwartek\4_\RectangleSolution\RectangleApp\obj\Debug\net9.0\RectangleApp.AssemblyInfo.cs
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\czwartek\4_\RectangleSolution\RectangleApp\obj\Debug\net9.0\RectangleApp.csproj.CoreCompileInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\czwartek\4_\RectangleSolution\RectangleApp\obj\Debug\net9.0\RectangleApp.dll
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\czwartek\4_\RectangleSolution\RectangleApp\obj\Debug\net9.0\refint\RectangleApp.dll
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\czwartek\4_\RectangleSolution\RectangleApp\obj\Debug\net9.0\RectangleApp.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\czwartek\4_\RectangleSolution\RectangleApp\obj\Debug\net9.0\ref\RectangleApp.dll
