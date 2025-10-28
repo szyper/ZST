@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularz kontaktowy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>Formularz kontaktowy</h2>
+    <form action="#" method="get">
+        <label for="name">Imię</label>
+        <input type="text" name="name" id="name" placeholder="Imię"><br><br>
+        
+        <label for="suname">Nazwisko</label>
+        <input type="text" name="surname" id="surname" placeholder="Nazwisko"><br><br>
+        
+        <label for="phone">Numer telefonu</label>
+        <input type="tel" name="phone" id="phone" placeholder="Np. 123-456-789"><br><br>
+        
+        <label for="email">E-mail</label>
+        <input type="email" name="email" id="email" placeholder="Np. jan@o2.pl"><br><br>
+        
+        <label for="subject">Temat</label>
+        <input type="email" name="subject" id="subject" placeholder="Wpisz temat wiadomości"><br><br>
+
+        <label for="topic">Wybierz kategorię</label>
+        <select name="topic" id="topic">
+            <option value="">-- wybierz --</option>
+            <option value="support">Pomoc techniczna</option>
+            <option value="offer">Oferta handlowa</option>
+            <option value="feedback">Opinia</option>
+        </select><br><br>
+
+        <label for="date">Preferowana data kontaktu</label>
+        <input type="date" name="date" id="date">
+
+        <label for="message">Wiadomość</label>
+        <textarea name="message" id="message" rows="4" placeholder="Wpisz treść wiadomości ..."></textarea><br><br>
+
+        <label for="satisfaction">Jak oceniasz naszą obsługę? (1-10)</label>
+        <div class="range-group">
+            <input type="range" name="satisfaction" id="satisfaction" min="1" max="10" value="5">
+            <span id="rangeValue">5</span>
+        </div>
+
+        <label>
+            <input type="checkbox" name="consent">
+            Zgadzam się na przetwarzanie danych osobowych 
+        </label>
+
+        <button type="submit">Wyślij</button>
+    </form>
+</body>
+</html>
