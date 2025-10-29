@@ -1,0 +1,5 @@
+[2025-10-29 13:10:20] [✓] [Success] Dodano produkt: 12345
+[2025-10-29 13:10:31] [i] [Info] Zakończono działanie programu
+[2025-10-29 13:10:51] [✓] [Success] Dodano produkt: wqeweeq
+[2025-10-29 13:10:53] [i] [Info] Zakończono działanie programu
+[2025-10-29 13:11:08] [✓] [Success] Dodano produkt: 21312121

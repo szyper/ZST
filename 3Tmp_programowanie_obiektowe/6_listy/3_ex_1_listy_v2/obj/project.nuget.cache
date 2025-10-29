@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "JQfa+C8pz58=",
+  "success": true,
+  "projectFilePath": "C:\\xampp2\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\6_listy\\3_ex_1_listy_v2\\ex_1_listy_v2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\10.0.100-preview.1.25120.13\\microsoft.net.sdk.compilers.toolset.10.0.100-preview.1.25120.13.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.1\\microsoft.windowsdesktop.app.ref.9.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.1\\microsoft.netcore.app.ref.9.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.1\\microsoft.aspnetcore.app.ref.9.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.1\\microsoft.netcore.app.host.win-x64.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

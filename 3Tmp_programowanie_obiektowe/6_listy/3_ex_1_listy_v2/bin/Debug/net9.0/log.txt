@@ -1,0 +1,40 @@
+[2025-10-29 10:14:14] Dodano produkt: mleko
+[2025-10-29 10:14:37] Dodano produkt: kawa
+[2025-10-29 10:32:34] Wczytano listę zakupów z pliku (4 produktów)
+[2025-10-29 10:42:51] Zakończono działanie programu
+[2025-10-29 12:10:21] Dodano produkt: nowy
+[2025-10-29 12:11:59] Wczytano listę zakupów z pliku (4 produktów)
+[2025-10-29 12:12:54] Dodano produkt: nowy produkt test
+[2025-10-29 12:17:10] Dodano produkt: test
+[2025-10-29 12:17:58] Dodano produkt: wqewqeqwe
+[2025-10-29 12:18:24] Błąd:  'wqewqeqwe' już istnieje na liście!
+[2025-10-29 12:18:54] Błąd: nazwa produktu nie może być pusta!
+[2025-10-29 12:19:13] nazwa produktu nie może być pusta!
+[2025-10-29 12:20:58] [Success] Dodano produkt: a
+[2025-10-29 12:21:08] [Info] Wyświetlono listę zakupów
+[2025-10-29 12:22:33] [Success] Usunięto produkt: a
+[2025-10-29 12:22:45] [Info] Zakończono działanie programu
+[2025-10-29 12:27:10] [Info] Wyświetlono listę zakupów
+[2025-10-29 12:29:51] [Info] Wyświetlono listę zakupów
+[2025-10-29 12:29:54] [Info] Zakończono działanie programu
+[2025-10-29 12:33:14] [Info] Wyświetlono listę zakupów
+[2025-10-29 12:34:23] [Info] Wyświetlono listę zakupów
+[2025-10-29 12:34:31] [Success] Dodano produkt: qwert
+[2025-10-29 12:34:36] [Info] Wyświetlono listę zakupów
+[2025-10-29 12:34:55] [Info] Zakończono działanie programu
+[2025-10-29 12:44:21]  [Success] Dodano produkt: qqq
+[2025-10-29 12:44:50] ❕ [Success] Dodano produkt: wqewqwewq
+[2025-10-29 13:02:42] [s] [Success] Dodano produkt: q
+[2025-10-29 13:03:07] [❤] [Success] Dodano produkt: 11
+[2025-10-29 13:05:17] [☻] [Success] Dodano produkt: 1122
+[2025-10-29 13:06:39] [❤] [Success] Dodano produkt: 213321
+[2025-10-29 13:08:21] [✓] [Success] Dodano produkt: wqwqwqwq
+[2025-10-29 13:08:37] [✓] [Success] Dodano produkt: 213121
+[2025-10-29 13:15:02] [V] [Success] Dodano produkt: q
+[2025-10-29 13:15:10] [V] [Success] Dodano produkt: 1
+[2025-10-29 13:15:14] [X] [Error] '1' już istnieje na liście!
+[2025-10-29 13:15:21] [i] [Info] Zakończono działanie programu
+[2025-10-29 13:59:22] [V] [Success] Dodano produkt: wqe
+[2025-10-29 13:59:26] [V] [Success] Dodano produkt: ert
+[2025-10-29 13:59:27] [i] [Info] Wyświetlono listę zakupów
+[2025-10-29 14:01:16] [i] [Info] Zakończono działanie programu
