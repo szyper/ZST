@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(166, 162, 162, 0.946);
+}
+
+h1 {
+    color: beige;
+    font-size: 60px;
+    background: linear-gradient(90deg, #000000, #333333);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    font-weight: bold, normal, 800;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    padding: 20px 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}

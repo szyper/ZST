@@ -1,0 +1,14 @@
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\1\project_8_petle_while\bin\Debug\net9.0\project_8_petle_while.exe
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\1\project_8_petle_while\bin\Debug\net9.0\project_8_petle_while.deps.json
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\1\project_8_petle_while\bin\Debug\net9.0\project_8_petle_while.runtimeconfig.json
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\1\project_8_petle_while\bin\Debug\net9.0\project_8_petle_while.dll
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\1\project_8_petle_while\bin\Debug\net9.0\project_8_petle_while.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\1\project_8_petle_while\obj\Debug\net9.0\project_8_petle_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\1\project_8_petle_while\obj\Debug\net9.0\project_8_petle_while.AssemblyInfoInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\1\project_8_petle_while\obj\Debug\net9.0\project_8_petle_while.AssemblyInfo.cs
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\1\project_8_petle_while\obj\Debug\net9.0\project_8_petle_while.csproj.CoreCompileInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\1\project_8_petle_while\obj\Debug\net9.0\project_8_petle_while.dll
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\1\project_8_petle_while\obj\Debug\net9.0\refint\project_8_petle_while.dll
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\1\project_8_petle_while\obj\Debug\net9.0\project_8_petle_while.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\1\project_8_petle_while\obj\Debug\net9.0\project_8_petle_while.genruntimeconfig.cache
+C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\sroda\1\project_8_petle_while\obj\Debug\net9.0\ref\project_8_petle_while.dll

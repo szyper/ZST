@@ -9,3 +9,15 @@ C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\czwartek\4_\RectangleSolution\
 C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\czwartek\4_\RectangleSolution\RectangleApp\obj\Debug\net9.0\refint\RectangleApp.dll
 C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\czwartek\4_\RectangleSolution\RectangleApp\obj\Debug\net9.0\RectangleApp.pdb
 C:\Users\administrator.SBSMEN.000\Desktop\xxxxxxx\czwartek\4_\RectangleSolution\RectangleApp\obj\Debug\net9.0\ref\RectangleApp.dll
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\8_testy\RectangleSolution\RectangleApp\bin\Debug\net9.0\RectangleApp.deps.json
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\8_testy\RectangleSolution\RectangleApp\bin\Debug\net9.0\RectangleApp.dll
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\8_testy\RectangleSolution\RectangleApp\bin\Debug\net9.0\RectangleApp.pdb
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\8_testy\RectangleSolution\RectangleApp\obj\Debug\net9.0\RectangleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\8_testy\RectangleSolution\RectangleApp\obj\Debug\net9.0\RectangleApp.AssemblyInfoInputs.cache
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\8_testy\RectangleSolution\RectangleApp\obj\Debug\net9.0\RectangleApp.AssemblyInfo.cs
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\8_testy\RectangleSolution\RectangleApp\obj\Debug\net9.0\RectangleApp.csproj.CoreCompileInputs.cache
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\8_testy\RectangleSolution\RectangleApp\obj\Debug\net9.0\RectangleApp.sourcelink.json
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\8_testy\RectangleSolution\RectangleApp\obj\Debug\net9.0\RectangleApp.dll
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\8_testy\RectangleSolution\RectangleApp\obj\Debug\net9.0\refint\RectangleApp.dll
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\8_testy\RectangleSolution\RectangleApp\obj\Debug\net9.0\RectangleApp.pdb
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\8_testy\RectangleSolution\RectangleApp\obj\Debug\net9.0\ref\RectangleApp.dll
