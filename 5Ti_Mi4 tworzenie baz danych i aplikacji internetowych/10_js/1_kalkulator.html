@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title> Kalkulator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background: #f0f8ff;
+        }
+        h1 { font-size: 40px; margin: 20px; }
+        input {
+            font-size: 24px;
+            padding: 12px;
+            width: 220px;
+            margin: 10px;
+            border: 3px solid #ccc;
+            border-radius: 8px;
+            transition: border-color 0.3s, box-shadow 0.3s;
+        }
+        input:focus { outline: none; box-shadow: 0 0 10px #4CAF50; }
+        button {
+            font-size: 28px;
+            padding: 12px 20px;
+            margin: 8px;
+            width: 70px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+        button:hover { transform: scale(1.1); }
+        .op { background: #4CAF50; color: white; }
+        .clear { background: #f44336; }
+        #result {
+            font-size: 32px;
+            margin-top: 30px;
+            min-height: 60px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1> Kalkulator</h1>
+
+    <input type="text" id="num1" placeholder="Wpisz pierwszą liczbę" autocomplete="off">
+    <br>
+    <button class="op" onclick="calc('+')">+</button>
+    <button class="op" onclick="calc('-')">−</button>
+    <button class="op" onclick="calc('*')">×</button>
+    <button class="op" onclick="calc('/')">÷</button>
+    <button class="clear" onclick="clearAll()">C</button>
+    <br>
+    <input type="text" id="num2" placeholder="Wpisz drugą liczbę" autocomplete="off">
+
+    <div id="result">Gotowy na nowe obliczenia!</div>
+
+    <script>
+        const RED   = "#ff4444";
+        const GREEN = "#4CAF50";
+        const GRAY  = "#ccc";
+
+        // ENTER = oblicz ostatnią operację
+        let ostatniOperator = "+";
+        document.addEventListener("keydown", e => {
+            if (e.key === "Enter") calc(ostatniOperator);
+        });
+
+        function calc(op) {
+            ostatniOperator = op;  // zapamiętujemy na Enter
+
+            const p1 = document.getElementById('num1');
+            const p2 = document.getElementById('num2');
+            const t1 = p1.value.trim();
+            const t2 = p2.value.trim();
+
+            // reset ramki
+            p1.style.borderColor = GRAY;
+            p2.style.borderColor = GRAY;
+
+            const a = parseFloat(t1);
+            const b = parseFloat(t2);
+
+            // SPRAWDZENIE CZY TO NAPRAWDĘ LICZBA
+            const ok1 = t1 !== "" && !isNaN(a) && Number(t1) == a;
+            const ok2 = t2 !== "" && !isNaN(b) && Number(t2) == b;
+
+            if (!ok1 || !ok2) {
+                if (!ok1) p1.style.borderColor = RED;
+                if (!ok2) p2.style.borderColor = RED;
+                document.getElementById('result').innerHTML =
+                    "❌ Tylko cyfry, kropka lub minus!";
+                return;
+            }
+
+            // poprawne → zielone
+            p1.style.borderColor = GREEN;
+            p2.style.borderColor = GREEN;
+
+            let wynik;
+            switch (op) {
+                case "+": wynik = a + b; break;
+                case "-": wynik = a - b; break;
+                case "*": wynik = a * b; break;
+                case "/":
+                    if (b === 0) {
+                        p2.style.borderColor = RED;
+                        document.getElementById('result').innerHTML = "⚠️ Nie dziel przez 0!";
+                        return;
+                    }
+                    wynik = a / b;
+                    break;
+            }
+
+            document.getElementById('result').innerHTML =
+                `${a} ${op} ${b} = <b>${wynik}</b>`;
+        }
+
+        function clearAll() {
+            document.getElementById('num1').value = '';
+            document.getElementById('num2').value = '';
+            document.getElementById('num1').style.borderColor = GRAY;
+            document.getElementById('num2').style.borderColor = GRAY;
+            document.getElementById('result').innerHTML = 'Gotowy!';
+        }
+    </script>
+</body>
+</html>
