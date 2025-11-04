@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalkulator malowania</title>
+</head>
+<body>
+    <h2>Malowanie pokoju: 8 zł za m<sup>2</sup></h2>
+
+    <label>Wymiary pokoju (m):</label>
+    <div>
+        <input type="number" id="length" placeholder="Długość" step="0.1" min="0">
+        <input type="number" id="width" placeholder="Szerokość" step="0.1" min="0">
+    </div>
+    <div class="checkbox">
+        <input type="checkbox" id="paintCeiling">
+        <label for="paintCeiling">Malować sufit?</label>
+    </div>
+
+    <button onclick="obliczKoszt()">OBLICZ KOSZT</button>
+    <div class="result" id="wynik">
+        <p><strong>Powierzchnia całkowita:</strong><span id="powierzchnia">0</span></p>
+        <p><strong>Koszt malowania:</strong><span id="koszt">0</span>zł</p>
+        <p>Potrzebujesz: <strong><span id="paint">0</span> litrów</strong></p>
+    </div>
+    <script>
+        function obliczKoszt() {
+            let dlugosc = document.getElementById('length').value;
+            let szerokosc = document.getElementById('width').value;
+            let malujSufit = document.getElementById('paintCeiling').checked;
+            let farba = document.getElementById('paint').value;
+            
+
+            // walidacja
+            if (isNaN(dlugosc) || isNaN(szerokosc) || dlugosc <= 0 || szerokosc <= 0) {
+                alert('Podaj poprawne wymiary');
+                return;
+            }
+
+            const wysokosc = 2.5;
+            const cenaZaM2 = 8;
+            
+            let powierzchnia = 2 * (dlugosc * wysokosc) + 2 * (szerokosc * wysokosc);
+            
+            if (malujSufit) {
+                powierzchnia += dlugosc * szerokosc;
+            }
+
+            let koszt = powierzchnia * cenaZaM2;
+
+            let warstwy = 1;
+            let ileFarby = Math.ceil((powierzchnia * warstwy) / 10);
+
+            //wyświetlenie
+            document.getElementById('powierzchnia').textContent = powierzchnia.toFixed(2);
+            document.getElementById('koszt').textContent = koszt.toFixed(2);
+            document.getElementById('paint').textContent = ileFarby;
+            
+
+        }
+    </script>
+</body>
+</html>

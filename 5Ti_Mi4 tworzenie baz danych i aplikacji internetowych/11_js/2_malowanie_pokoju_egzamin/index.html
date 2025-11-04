@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalkulator malowania pokoju</title>
+</head>
+<body>
+    <h2>Malowanie pokoju: 8zł za m²</h2>
+
+    <label for="length">Wymiary pokoju w metrach:</label>
+    <div style="display: flex; gap: 10px;">
+        <input type="number" id="length" placeholder="Długość" step="0.1" min="0">
+        <input type="number" id="width" placeholder="Szerokość" step="0.1" min="0">
+    </div>
+
+    <div class="checkbox">
+        <input type="checkbox" id="paintingCeiling">
+        <label for="paintingCeiling">Malować sufit?</label>
+    </div>
+
+    <button onclick="obliczKoszt()">OBLICZ KOSZT</button>
+
+    <!-- style="display: none;" -->
+    <div class="result" id="wynik">
+        <p><strong>Powierzchnia całkowita ścian:</strong><span id="powierzchnia">0</span>m<sup>2</sup></p>
+        <p><strong>Koszt malowania:</strong><span id="koszt">0</span>zł</p>
+    </div>
+
+    <script>
+        function obliczKoszt() {
+            // pobieramy wartości z inputów
+            const dlugosc = parseFloat(document.getElementById('length').value);
+            const szerokosc = parseFloat(document.getElementById('width').value);
+            const malujSufit = document.getElementById('paintingCeiling').checked;
+
+            // sprawdzenie czy wartości są poprawne
+            if (isNaN(dlugosc) || isNaN(szerokosc) || dlugosc <= 0 || szerokosc <= 0) {
+                alert("Proszę podać poprawne wymiary pokoju");
+                return;
+            }
+
+            // standardowa wysokość pomieszczenia
+            const wysokosc = 2.5;
+            const cenaZaM2 = 8;
+
+            // oblicz pole ścian (bez podłogi i sufitu)
+            let powierzchnia = 2 * (dlugosc + wysokosc) + 2 * (szerokosc * wysokosc);
+
+            // dodaj sufit , jeśli zaznaczono
+            if (malujSufit) {
+                powierzchnia += dlugosc * szerokosc;
+            }
+
+            const koszt = powierzchnia * cenaZaM2;
+
+            // wyświetlenie wyniku
+            document.getElementById('powierzchnia').textContent = powierzchnia.toFixed(2);
+            document.getElementById('koszt').innerHTML = koszt.toFixed(2);
+
+
+        }
+    </script>
+</body>
+</html>
