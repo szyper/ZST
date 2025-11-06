@@ -31,19 +31,42 @@
             Console.WriteLine("Dostęp przyznany");
 
             // nieskończona pętla
-            while (true)
-            {
-                Console.Write("Wpisz 'q', aby zakończyć");
-                string input = Console.ReadLine();
+            //while (true)
+            //{
+            //    Console.Write("Wpisz 'q', aby zakończyć");
+            //    string input = Console.ReadLine();
 
-                if (input == "q")
-                {
-                    Console.WriteLine("Dziękujemy za zakończenie");
-                    break;
-                }
-            }
+            //    if (input == "q")
+            //    {
+            //        Console.WriteLine("Dziękujemy za zakończenie");
+            //        break;
+            //    }
+            //}
 
             // dwa warunki keepRunning i counter
+            int counter_ = 0;
+            bool keepRunning = true;
+
+            while (keepRunning && counter_ < 5) 
+            {
+                Console.Write("Wpisz 'stop', aby zakończyć lub naciśnij Enter, aby kontynuować: ");
+                string input = Console.ReadLine();
+
+                if (input == "stop")
+                {
+                    keepRunning = false;
+                    Console.WriteLine("Zatrzymano pętlę przez użytkownika");
+                }
+                else
+                {
+                    // counter_ = counter_ + 1
+                    counter_++;
+                    Console.WriteLine("Zwiększenie licznika o 1: " + counter_);
+                }
+
+            }
+
+            Console.WriteLine("Koniec programu");
         }
     }
 }

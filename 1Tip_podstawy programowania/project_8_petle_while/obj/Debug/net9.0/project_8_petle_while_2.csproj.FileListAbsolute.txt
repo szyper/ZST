@@ -1,0 +1,14 @@
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_8_petle_while_2\bin\Debug\net9.0\project_8_petle_while_2.exe
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_8_petle_while_2\bin\Debug\net9.0\project_8_petle_while_2.deps.json
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_8_petle_while_2\bin\Debug\net9.0\project_8_petle_while_2.runtimeconfig.json
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_8_petle_while_2\bin\Debug\net9.0\project_8_petle_while_2.dll
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_8_petle_while_2\bin\Debug\net9.0\project_8_petle_while_2.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_8_petle_while_2\obj\Debug\net9.0\project_8_petle_while_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_8_petle_while_2\obj\Debug\net9.0\project_8_petle_while_2.AssemblyInfoInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_8_petle_while_2\obj\Debug\net9.0\project_8_petle_while_2.AssemblyInfo.cs
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_8_petle_while_2\obj\Debug\net9.0\project_8_petle_while_2.csproj.CoreCompileInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_8_petle_while_2\obj\Debug\net9.0\project_8_petle_while_2.dll
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_8_petle_while_2\obj\Debug\net9.0\refint\project_8_petle_while_2.dll
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_8_petle_while_2\obj\Debug\net9.0\project_8_petle_while_2.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_8_petle_while_2\obj\Debug\net9.0\project_8_petle_while_2.genruntimeconfig.cache
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_8_petle_while_2\obj\Debug\net9.0\ref\project_8_petle_while_2.dll

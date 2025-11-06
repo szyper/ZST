@@ -1,0 +1,14 @@
+C:\Users\administrator.SBSMEN.000\Desktop\sroda\6_biblioteka_listy\bin\Debug\net9.0\6_biblioteka_listy.exe
+C:\Users\administrator.SBSMEN.000\Desktop\sroda\6_biblioteka_listy\bin\Debug\net9.0\6_biblioteka_listy.deps.json
+C:\Users\administrator.SBSMEN.000\Desktop\sroda\6_biblioteka_listy\bin\Debug\net9.0\6_biblioteka_listy.runtimeconfig.json
+C:\Users\administrator.SBSMEN.000\Desktop\sroda\6_biblioteka_listy\bin\Debug\net9.0\6_biblioteka_listy.dll
+C:\Users\administrator.SBSMEN.000\Desktop\sroda\6_biblioteka_listy\bin\Debug\net9.0\6_biblioteka_listy.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\sroda\6_biblioteka_listy\obj\Debug\net9.0\6_biblioteka_listy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator.SBSMEN.000\Desktop\sroda\6_biblioteka_listy\obj\Debug\net9.0\6_biblioteka_listy.AssemblyInfoInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\sroda\6_biblioteka_listy\obj\Debug\net9.0\6_biblioteka_listy.AssemblyInfo.cs
+C:\Users\administrator.SBSMEN.000\Desktop\sroda\6_biblioteka_listy\obj\Debug\net9.0\6_biblioteka_listy.csproj.CoreCompileInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\sroda\6_biblioteka_listy\obj\Debug\net9.0\6_biblioteka_listy.dll
+C:\Users\administrator.SBSMEN.000\Desktop\sroda\6_biblioteka_listy\obj\Debug\net9.0\refint\6_biblioteka_listy.dll
+C:\Users\administrator.SBSMEN.000\Desktop\sroda\6_biblioteka_listy\obj\Debug\net9.0\6_biblioteka_listy.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\sroda\6_biblioteka_listy\obj\Debug\net9.0\6_biblioteka_listy.genruntimeconfig.cache
+C:\Users\administrator.SBSMEN.000\Desktop\sroda\6_biblioteka_listy\obj\Debug\net9.0\ref\6_biblioteka_listy.dll

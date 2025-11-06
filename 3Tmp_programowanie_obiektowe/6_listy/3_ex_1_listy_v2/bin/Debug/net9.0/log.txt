@@ -38,3 +38,4 @@
 [2025-10-29 13:59:26] [V] [Success] Dodano produkt: ert
 [2025-10-29 13:59:27] [i] [Info] Wyświetlono listę zakupów
 [2025-10-29 14:01:16] [i] [Info] Zakończono działanie programu
+[2025-11-05 08:32:26] [i] [Info] Zakończono działanie programu

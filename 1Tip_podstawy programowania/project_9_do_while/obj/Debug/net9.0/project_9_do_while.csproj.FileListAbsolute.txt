@@ -1,0 +1,14 @@
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_9_do_while\obj\Debug\net9.0\project_9_do_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_9_do_while\obj\Debug\net9.0\project_9_do_while.AssemblyInfoInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_9_do_while\obj\Debug\net9.0\project_9_do_while.AssemblyInfo.cs
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_9_do_while\obj\Debug\net9.0\project_9_do_while.csproj.CoreCompileInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_9_do_while\bin\Debug\net9.0\project_9_do_while.exe
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_9_do_while\bin\Debug\net9.0\project_9_do_while.deps.json
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_9_do_while\bin\Debug\net9.0\project_9_do_while.runtimeconfig.json
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_9_do_while\bin\Debug\net9.0\project_9_do_while.dll
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_9_do_while\bin\Debug\net9.0\project_9_do_while.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_9_do_while\obj\Debug\net9.0\project_9_do_while.dll
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_9_do_while\obj\Debug\net9.0\refint\project_9_do_while.dll
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_9_do_while\obj\Debug\net9.0\project_9_do_while.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_9_do_while\obj\Debug\net9.0\project_9_do_while.genruntimeconfig.cache
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\6_11\1\project_9_do_while\obj\Debug\net9.0\ref\project_9_do_while.dll

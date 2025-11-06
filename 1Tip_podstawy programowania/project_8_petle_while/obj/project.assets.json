@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\xxxxxxx\\sroda\\1\\project_8_petle_while\\project_8_petle_while.csproj",
-      "projectName": "project_8_petle_while",
-      "projectPath": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\xxxxxxx\\sroda\\1\\project_8_petle_while\\project_8_petle_while.csproj",
+      "projectUniqueName": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek\\6_11\\1\\project_8_petle_while_2\\project_8_petle_while_2.csproj",
+      "projectName": "project_8_petle_while_2",
+      "projectPath": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek\\6_11\\1\\project_8_petle_while_2\\project_8_petle_while_2.csproj",
       "packagesPath": "C:\\Users\\administrator.SBSMEN.000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\xxxxxxx\\sroda\\1\\project_8_petle_while\\obj\\",
+      "outputPath": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek\\6_11\\1\\project_8_petle_while_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
