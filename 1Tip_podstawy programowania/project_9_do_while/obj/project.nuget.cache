@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "a58unWVNa/0=",
+  "dgSpecHash": "ONNO9pQ6xc0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek\\6_11\\1\\project_9_do_while\\project_9_do_while.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\xampp2\\htdocs\\git\\ZST\\1Tip_podstawy programowania\\project_9_do_while\\project_9_do_while.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\10.0.100-preview.1.25120.13\\microsoft.net.sdk.compilers.toolset.10.0.100-preview.1.25120.13.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.1\\microsoft.windowsdesktop.app.ref.9.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.1\\microsoft.netcore.app.ref.9.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.1\\microsoft.aspnetcore.app.ref.9.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.1\\microsoft.netcore.app.host.win-x64.9.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

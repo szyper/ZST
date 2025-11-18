@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\sroda\\6_biblioteka_listy\\",
+  "WorkspaceRootPath": "C:\\xampp2\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\6_listy\\4_ex_biblioteka_listy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B04AA13F-5F87-4AB7-A85F-58FE70E02238}|6_biblioteka_listy.csproj|c:\\users\\administrator.sbsmen.000\\desktop\\sroda\\6_biblioteka_listy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B04AA13F-5F87-4AB7-A85F-58FE70E02238}|6_biblioteka_listy.csproj|c:\\xampp2\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\6_listy\\4_ex_biblioteka_listy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B04AA13F-5F87-4AB7-A85F-58FE70E02238}|6_biblioteka_listy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\sroda\\6_biblioteka_listy\\Program.cs",
+              "DocumentMoniker": "C:\\xampp2\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\6_listy\\4_ex_biblioteka_listy\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\sroda\\6_biblioteka_listy\\Program.cs",
+              "ToolTip": "C:\\xampp2\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\6_listy\\4_ex_biblioteka_listy\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T09:19:53.39Z",
               "EditorCaption": ""
