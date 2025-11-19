@@ -1,0 +1,20 @@
+﻿cat: kot
+dog: pies, piesek
+cat: kot
+dog: pies, piesek
+house: dom
+cat: kot
+dog: pies, piesek
+house: dom
+cat: kot
+dog: pies, piesek
+house: dom
+cat: kot
+dog: pies, piesek
+house: dom
+cat: kot
+dog: pies, piesek
+house: dom
+cat: kot
+dog: pies, piesek
+house: dom

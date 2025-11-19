@@ -1,0 +1,10 @@
+﻿[ 2025-11-19 09:21] [Dodano] dog -> pies
+[ 2025-11-19 09:21] [Dodano] dog -> piesek
+[ 2025-11-19 09:21] [Dodano] cat -> kot
+[ 2025-11-19 09:22] [Dodano] bird -> ptak
+[ 2025-11-19 09:22] [Dodano] bird -> ptak
+[ 2025-11-19 09:22] [Dodano] dog -> pies
+[ 2025-11-19 10:19] [Dodano] dog -> pies
+[ 2025-11-19 10:19] [Dodano] dog -> piesek
+[ 2025-11-19 10:19] [Dodano] cat -> kot
+[ 2025-11-19 13:20] [Dodano] house -> dom
