@@ -1,0 +1,14 @@
+C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\bin\Debug\net9.0\project_10_petle.exe
+C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\bin\Debug\net9.0\project_10_petle.deps.json
+C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\bin\Debug\net9.0\project_10_petle.runtimeconfig.json
+C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\bin\Debug\net9.0\project_10_petle.dll
+C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\bin\Debug\net9.0\project_10_petle.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\obj\Debug\net9.0\project_10_petle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\obj\Debug\net9.0\project_10_petle.AssemblyInfoInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\obj\Debug\net9.0\project_10_petle.AssemblyInfo.cs
+C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\obj\Debug\net9.0\project_10_petle.csproj.CoreCompileInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\obj\Debug\net9.0\project_10_petle.dll
+C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\obj\Debug\net9.0\refint\project_10_petle.dll
+C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\obj\Debug\net9.0\project_10_petle.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\obj\Debug\net9.0\project_10_petle.genruntimeconfig.cache
+C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\obj\Debug\net9.0\ref\project_10_petle.dll

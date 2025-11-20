@@ -1,0 +1,51 @@
+﻿[2025-11-20 09:39:04] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 09:39:05] [Success] Wczytano 4 książek z pliku book.csv
+[2025-11-20 09:40:06] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 09:40:06] [Success] Wczytano 4 książek z pliku book.csv
+[2025-11-20 09:40:08] [Error  ] Nieznana opcja. Wybierz ponownie
+[2025-11-20 09:40:11] [Error  ] Nieznana opcja. Wybierz ponownie
+[2025-11-20 09:40:42] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 09:40:42] [Success] Wczytano 4 książek z pliku book.csv
+[2025-11-20 09:40:49] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 09:40:49] [Success] Wczytano 4 książek z pliku book.csv
+[2025-11-20 09:40:59] [Success] Dodano książkę: qq - ww (2002), gatunek: ee)
+[2025-11-20 09:41:04] [Success] Zapisano bibliotekę do pliku (5 książek)
+[2025-11-20 09:41:04] [Info   ] Dane zapisane automatycznie przy wyjściu
+[2025-11-20 09:42:18] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 09:42:19] [Success] Wczytano 5 książek z pliku book.csv
+[2025-11-20 09:42:20] [Info   ] === Zakończono działanie programu ===
+[2025-11-20 09:43:07] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 09:43:07] [Info   ] Plik book.csv nie istnieje - tworzony nowy
+[2025-11-20 09:43:16] [Info   ] Brak książek
+[2025-11-20 09:43:16] [Info   ] Wyświetlono całą bibliotekę
+[2025-11-20 09:44:11] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 09:44:11] [Info   ] Plik book.csv nie istnieje - tworzony nowy
+[2025-11-20 09:44:14] [Error  ] Nieznana opcja. Wybierz ponownie
+[2025-11-20 09:44:19] [Info   ] Brak książek
+[2025-11-20 09:44:19] [Info   ] Wyświetlono całą bibliotekę
+[2025-11-20 09:44:49] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 09:44:49] [Info   ] Plik book.csv nie istnieje - tworzony nowy
+[2025-11-20 09:45:07] [Success] Dodano książkę: q - w (2000), gatunek: e)
+[2025-11-20 09:45:10] [Info   ] Wyświetlono całą bibliotekę
+[2025-11-20 09:45:13] [Success] Zapisano bibliotekę do pliku (1 książek)
+[2025-11-20 09:45:13] [Info   ] Dane zapisane automatycznie przy wyjściu
+[2025-11-20 09:45:13] [Info   ] === Zakończono działanie programu ===
+[2025-11-20 09:45:46] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 09:45:46] [Info   ] Plik jest pusty
+[2025-11-20 09:46:26] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 09:46:26] [Info   ] Plik jest pusty
+[2025-11-20 09:46:32] [Success] Dodano książkę: q - w (2000), gatunek: e)
+[2025-11-20 09:46:33] [Success] Zapisano bibliotekę do pliku (1 książek)
+[2025-11-20 09:46:33] [Info   ] Dane zapisane automatycznie przy wyjściu
+[2025-11-20 09:46:33] [Info   ] === Zakończono działanie programu ===
+[2025-11-20 09:46:39] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 09:46:39] [Success] Wczytano 1 książek z pliku book.csv
+[2025-11-20 09:46:47] [Info   ] === Zakończono działanie programu ===
+[2025-11-20 09:47:08] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 09:47:08] [Success] Wczytano 1 książek z pliku book.csv
+[2025-11-20 09:47:14] [Success] Dodano książkę: a - s (2002), gatunek: d)
+[2025-11-20 09:47:17] [Success] Zapisano bibliotekę do pliku (2 książek)
+[2025-11-20 09:47:20] [Success] Zapisano bibliotekę do pliku (2 książek)
+[2025-11-20 09:47:21] [Error  ] Nieznana opcja. Wybierz ponownie
+[2025-11-20 09:47:23] [Error  ] Nieznana opcja. Wybierz ponownie
+[2025-11-20 09:47:56] [Info   ] Wyświetlono całą bibliotekę
