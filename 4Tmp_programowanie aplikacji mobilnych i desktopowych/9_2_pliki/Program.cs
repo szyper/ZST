@@ -235,7 +235,7 @@ namespace _9_pliki
                 Console.WriteLine(message);
                 Console.ForegroundColor = original;
             }
-
+            Console.ReadKey();
         }
 
         private static void DisplayMenu()
@@ -254,5 +254,7 @@ namespace _9_pliki
             Console.WriteLine("9. Pokaż logi");
             Console.WriteLine("0. Wyjdź");
         }
+        
+        
     }
 }

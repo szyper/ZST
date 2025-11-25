@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Rejestracja użytkownika</title>
+	<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+	<div class="container">
+		<h1>Rejestracja konta</h1>
+
+		<form id="registerForm" novalidate>
+			<!-- Imię i nazwisko -->
+			 <div class="form-group">
+				<label for="firstName">Imię</label>
+				<input type="text" name="firstName" id="firstName" required minlength="2" maxlength="30">
+				<div class="error-message">Imię musi mieć co najmniej 2 znaki</div>
+			 </div>
+
+			 <div class="form-group">
+				<label for="firstName">Nazwisko</label>
+				<input type="text" name="lastName" id="lastName" required minlength="2" maxlength="40">
+				<div class="error-message">Nazwisko musi mieć co najmniej 2 znaki</div>
+			 </div>
+
+			 <!-- Email -->
+				<div class="form-group">
+					<label for="email">Email</label>
+					<input type="email" name="email" id="email" required>
+					<div class="error-message">Podaj poprawny adres email</div>
+				</div>
+
+				<!-- Hasło -->
+				<div class="form-group">
+					<label for="password">Hasło</label>
+					<input type="password" name="password" id="password" required minlength="8">
+					<div class="error-message">Hasło musi mieć min. 8 znaków, zawierać duża literę, cyfrę i znak specjalny</div>
+					<div class="password-strength">Siła hasła: <span id="strengthText">Brak</span></div>
+				</div>
+
+				<!-- Powtórz hasło -->
+				<div class="form-group">
+					<label for="confirmPassword">Powtórz hasło</label>
+					<input type="password" name="confirmPassword" id="confirmPassword" required>
+					<div class="error-message">Hasła muszą być identyczne</div>
+				</div>
+
+				<!-- Wiek -->
+				<div class="form-group">
+					<label for="age">Wiek</label>
+					<input type="number" name="age" id="age" min="13" max="120" required>
+					<div class="error-message">Musisz mieć co najmniej 13 lat</div>
+				</div>
+
+				<!-- Płeć -->
+				 <div class="form-group">
+					<label for="gender">Płeć</label>
+					<select name="gender" id="gender" required>
+						<option value="">-- Wybierz płeć --</option>
+						<option value="male">Mężczyzna</option>
+						<option value="female">Kobieta</option>
+						<option value="other">Inna</option>
+						<option value="prefer-not">Wolę nie podawać</option>
+					</select>
+					<div class="error-message">Wybierz płeć</div>
+				 </div>
+
+				 <div class="form-group">
+					<label for="country">Kraj</label>
+					<select name="country" id="country" required>
+						<option value="">-- Wybierz kraj --</option>
+						<option value="PL">Polska</option>
+						<option value="GB">Wielka Brytania</option>
+						<option value="US">Stany zjednoczone</option>
+					</select>
+					<div class="error-message">Wybierz kraj</div>
+				 </div>
+
+				 <!-- Regulamin -->
+				  <div class="form-group checkbox-group">
+					<input type="checkbox" name="terms" id="terms" required>
+					<label for="terms">Akceptuję <a href="#" style="color: #667eea">Regulamin serwisu</a> i <a href="#" style="color: #667eea">politykę prywatności</a></label>
+				  </div>
+				  <div class="error-message">Musisz zaakceptować regulamin</div>
+
+				  <!-- Newsletter -->
+				   <div class="form-group checkbox-group">
+					<input type="checkbox" name="newsletter" id="newsletter">
+					<label for="newsletter">Chcę otrzymywać newsletter i oferty specjalne</label>
+				   </div>
+
+				   <!-- Przycisk -->
+					<button type="submit" id="submitBtn">Utwórz konto</button>
+		</form>
+		<div class="success-message" id="successMessage">
+			Konto zostało utworzone pomyślnie! Witamy w serwisie!
+		</div>
+	</div>
+	<script>
+		// pobranie elementów
+		const form = document.querySelector('#registerForm');
+		const inputs = document.querySelectorAll('input, select'); 
+		const submitBtn = document.querySelector('#submitBtn');
+		const successMessage = document.querySelector('#successMessage');
+		const strengthText = document.querySelector('#strengthText');
+
+		// funkcje pomocnicze
+		const showError = (input, message) => {
+			console.log(message);
+			
+		};
+
+		showError(submitBtn, "test przycisk");
+		showError(submitBtn, "test przycisk2");
+	</script>
+</body>
+</html>

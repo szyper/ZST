@@ -12,3 +12,18 @@ C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\obj\Debug\net9.0\r
 C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\obj\Debug\net9.0\project_10_petle.pdb
 C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\obj\Debug\net9.0\project_10_petle.genruntimeconfig.cache
 C:\Users\administrator.SBSMEN.000\Desktop\10\project_10_petle\obj\Debug\net9.0\ref\project_10_petle.dll
+C:\xampp2\htdocs\git\ZST\1Tip_podstawy programowania\project_11_petle\bin\Debug\net9.0\project_10_petle.exe
+C:\xampp2\htdocs\git\ZST\1Tip_podstawy programowania\project_11_petle\bin\Debug\net9.0\project_10_petle.deps.json
+C:\xampp2\htdocs\git\ZST\1Tip_podstawy programowania\project_11_petle\bin\Debug\net9.0\project_10_petle.runtimeconfig.json
+C:\xampp2\htdocs\git\ZST\1Tip_podstawy programowania\project_11_petle\bin\Debug\net9.0\project_10_petle.dll
+C:\xampp2\htdocs\git\ZST\1Tip_podstawy programowania\project_11_petle\bin\Debug\net9.0\project_10_petle.pdb
+C:\xampp2\htdocs\git\ZST\1Tip_podstawy programowania\project_11_petle\obj\Debug\net9.0\project_10_petle.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp2\htdocs\git\ZST\1Tip_podstawy programowania\project_11_petle\obj\Debug\net9.0\project_10_petle.AssemblyInfoInputs.cache
+C:\xampp2\htdocs\git\ZST\1Tip_podstawy programowania\project_11_petle\obj\Debug\net9.0\project_10_petle.AssemblyInfo.cs
+C:\xampp2\htdocs\git\ZST\1Tip_podstawy programowania\project_11_petle\obj\Debug\net9.0\project_10_petle.csproj.CoreCompileInputs.cache
+C:\xampp2\htdocs\git\ZST\1Tip_podstawy programowania\project_11_petle\obj\Debug\net9.0\project_10_petle.sourcelink.json
+C:\xampp2\htdocs\git\ZST\1Tip_podstawy programowania\project_11_petle\obj\Debug\net9.0\project_10_petle.dll
+C:\xampp2\htdocs\git\ZST\1Tip_podstawy programowania\project_11_petle\obj\Debug\net9.0\refint\project_10_petle.dll
+C:\xampp2\htdocs\git\ZST\1Tip_podstawy programowania\project_11_petle\obj\Debug\net9.0\project_10_petle.pdb
+C:\xampp2\htdocs\git\ZST\1Tip_podstawy programowania\project_11_petle\obj\Debug\net9.0\project_10_petle.genruntimeconfig.cache
+C:\xampp2\htdocs\git\ZST\1Tip_podstawy programowania\project_11_petle\obj\Debug\net9.0\ref\project_10_petle.dll

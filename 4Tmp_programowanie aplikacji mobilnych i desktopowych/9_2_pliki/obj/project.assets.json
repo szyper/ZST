@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\20\\4tmp\\9_2_pliki\\9_pliki.csproj",
+      "projectUniqueName": "C:\\xampp2\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\9_2_pliki\\9_pliki.csproj",
       "projectName": "9_pliki",
-      "projectPath": "D:\\20\\4tmp\\9_2_pliki\\9_pliki.csproj",
+      "projectPath": "C:\\xampp2\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\9_2_pliki\\9_pliki.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\20\\4tmp\\9_2_pliki\\obj\\",
+      "outputPath": "C:\\xampp2\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\9_2_pliki\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -46,7 +46,7 @@ namespace project_10_petle
             // jeśli za dużo błędów - blokada karty
             if (!accessGranted)
             {
-                Console.WriteLine("\n Za dużo nieudanych prób. Karta zostałą zablokowana!");
+                Console.WriteLine("\n Za dużo nieudanych prób. Karta została zablokowana!");
                 return;
             }
 

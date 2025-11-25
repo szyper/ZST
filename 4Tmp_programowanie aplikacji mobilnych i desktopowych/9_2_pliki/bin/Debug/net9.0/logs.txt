@@ -49,3 +49,33 @@
 [2025-11-20 09:47:21] [Error  ] Nieznana opcja. Wybierz ponownie
 [2025-11-20 09:47:23] [Error  ] Nieznana opcja. Wybierz ponownie
 [2025-11-20 09:47:56] [Info   ] Wyświetlono całą bibliotekę
+[2025-11-20 16:21:23] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 16:21:23] [Success] Wczytano 2 książek z pliku book.csv
+[2025-11-20 16:21:34] [Info   ] === Zakończono działanie programu ===
+[2025-11-20 16:23:11] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 16:23:18] [Success] Wczytano 2 książek z pliku book.csv
+[2025-11-20 16:23:27] [Info   ] Wyświetlono całą bibliotekę
+[2025-11-20 16:24:43] [Error  ] Nieznana opcja. Wybierz ponownie
+[2025-11-20 16:24:52] [Error  ] Nieznana opcja. Wybierz ponownie
+[2025-11-20 16:25:07] [Success] Dodano książkę: test1 - Piotr (2025), gatunek: q)
+[2025-11-20 16:25:14] [Info   ] Wyświetlono całą bibliotekę
+[2025-11-20 16:25:20] [Error  ] Nieznana opcja. Wybierz ponownie
+[2025-11-20 16:25:22] [Error  ] Nieznana opcja. Wybierz ponownie
+[2025-11-20 16:25:30] [Success] Zapisano bibliotekę do pliku (3 książek)
+[2025-11-20 16:25:37] [Info   ] === Zakończono działanie programu ===
+[2025-11-20 16:26:55] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 16:26:57] [Success] Wczytano 5 książek z pliku book.csv
+[2025-11-20 16:27:03] [Info   ] Wyświetlono całą bibliotekę
+[2025-11-20 16:28:58] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 16:29:00] [Info   ] Plik book.csv nie istnieje - tworzony nowy
+[2025-11-20 16:29:14] [Success] Dodano książkę: t1 - a1 (2000), gatunek: q)
+[2025-11-20 16:29:17] [Info   ] Wyświetlono całą bibliotekę
+[2025-11-20 16:29:30] [Success] Dodano książkę: t2 - a2 (2002), gatunek: w)
+[2025-11-20 16:29:32] [Info   ] Wyświetlono całą bibliotekę
+[2025-11-20 16:29:43] [Success] Zapisano bibliotekę do pliku (2 książek)
+[2025-11-20 16:29:47] [Info   ] Dane zapisane automatycznie przy wyjściu
+[2025-11-20 16:29:50] [Info   ] === Zakończono działanie programu ===
+[2025-11-20 16:30:19] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-20 16:30:21] [Success] Wczytano 2 książek z pliku book.csv
+[2025-11-20 16:30:27] [Info   ] Wyświetlono całą bibliotekę
+[2025-11-20 16:30:34] [Info   ] === Zakończono działanie programu ===
