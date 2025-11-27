@@ -1,0 +1,26 @@
+﻿[2025-11-27 08:40:38] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-27 08:40:44] [Info   ] Plik book.csv nie istnieje - tworzony nowy
+[2025-11-27 08:40:54] [Error  ] Nieznana opcja. Wybierz ponownie
+[2025-11-27 08:41:08] [Success] Dodano książkę: tytuł1 - a1 (2000), gatunek: g1)
+[2025-11-27 08:41:16] [Info   ] Wyświetlono całą bibliotekę
+[2025-11-27 08:41:20] [Error  ] Nieznana opcja. Wybierz ponownie
+[2025-11-27 08:41:24] [Error  ] Nieznana opcja. Wybierz ponownie
+[2025-11-27 08:41:35] [Info   ] Wyświetlono całą bibliotekę
+[2025-11-27 08:41:42] [Error  ] Nieprawidłowy numer: 0. Dostępne: 1-1
+[2025-11-27 08:41:49] [Success] Zapisano bibliotekę do pliku (1 książek)
+[2025-11-27 08:41:49] [Info   ] Dane zapisane automatycznie przy wyjściu
+[2025-11-27 08:41:56] [Info   ] === Zakończono działanie programu ===
+[2025-11-27 08:54:01] [Info   ] === Uruchomiono program biblioteki ===
+[2025-11-27 08:54:02] [Success] Wczytano 1 książek z pliku book.csv
+[2025-11-27 08:54:15] [Success] Dodano książkę: t1 - a1 (2000), gatunek: g1)
+[2025-11-27 08:54:27] [Success] Dodano książkę: t2 - a2 (2001), gatunek: g2)
+[2025-11-27 08:54:30] [Info   ] Wyświetlono całą bibliotekę
+[2025-11-27 08:54:51] [Error  ] Nieznana opcja. Wybierz ponownie
+[2025-11-27 08:55:01] [Error  ] Nieprawidłowy numer: 0. Dostępne: 1-3
+[2025-11-27 08:55:37] [Success] Usunięto książkę: t1 - a1
+[2025-11-27 08:55:41] [Info   ] Wyświetlono całą bibliotekę
+[2025-11-27 08:55:53] [Info   ] Anulowano usuwanie książki
+[2025-11-27 08:55:58] [Info   ] Wyświetlono całą bibliotekę
+[2025-11-27 08:56:02] [Success] Zapisano bibliotekę do pliku (2 książek)
+[2025-11-27 08:56:03] [Info   ] Dane zapisane automatycznie przy wyjściu
+[2025-11-27 08:56:09] [Info   ] === Zakończono działanie programu ===

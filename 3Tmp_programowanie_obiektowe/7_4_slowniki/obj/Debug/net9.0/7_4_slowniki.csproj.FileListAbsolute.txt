@@ -1,0 +1,14 @@
+C:\Users\administrator.SBSMEN.000\Desktop\sroda___\7_4_slowniki\bin\Debug\net9.0\7_4_slowniki.exe
+C:\Users\administrator.SBSMEN.000\Desktop\sroda___\7_4_slowniki\bin\Debug\net9.0\7_4_slowniki.deps.json
+C:\Users\administrator.SBSMEN.000\Desktop\sroda___\7_4_slowniki\bin\Debug\net9.0\7_4_slowniki.runtimeconfig.json
+C:\Users\administrator.SBSMEN.000\Desktop\sroda___\7_4_slowniki\bin\Debug\net9.0\7_4_slowniki.dll
+C:\Users\administrator.SBSMEN.000\Desktop\sroda___\7_4_slowniki\bin\Debug\net9.0\7_4_slowniki.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\sroda___\7_4_slowniki\obj\Debug\net9.0\7_4_slowniki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator.SBSMEN.000\Desktop\sroda___\7_4_slowniki\obj\Debug\net9.0\7_4_slowniki.AssemblyInfoInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\sroda___\7_4_slowniki\obj\Debug\net9.0\7_4_slowniki.AssemblyInfo.cs
+C:\Users\administrator.SBSMEN.000\Desktop\sroda___\7_4_slowniki\obj\Debug\net9.0\7_4_slowniki.csproj.CoreCompileInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\sroda___\7_4_slowniki\obj\Debug\net9.0\7_4_slowniki.dll
+C:\Users\administrator.SBSMEN.000\Desktop\sroda___\7_4_slowniki\obj\Debug\net9.0\refint\7_4_slowniki.dll
+C:\Users\administrator.SBSMEN.000\Desktop\sroda___\7_4_slowniki\obj\Debug\net9.0\7_4_slowniki.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\sroda___\7_4_slowniki\obj\Debug\net9.0\7_4_slowniki.genruntimeconfig.cache
+C:\Users\administrator.SBSMEN.000\Desktop\sroda___\7_4_slowniki\obj\Debug\net9.0\ref\7_4_slowniki.dll
