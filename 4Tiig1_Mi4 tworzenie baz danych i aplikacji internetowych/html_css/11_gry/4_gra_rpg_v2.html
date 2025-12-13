@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Generator bohaterów RPG</title>
+</head>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: #222;
+    color: #fefefe;
+    margin: 0;
+    padding: 20px;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  .container {
+    max-width: 500px;
+    margin: auto;
+    background: #333;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+  }
+
+  label {
+    display: block;
+    margin-top: 10px;
+  }
+
+  input, select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: none;
+  }
+
+  .stats label {
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+  button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 15px;
+    font-size: 16px;
+    background: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+
+  button:hover {
+    background: #45a049;;
+  }
+
+  .result {
+    margin-top: 20px;
+    background: #111;
+    padding: 15px;
+    border-radius: 10px;
+    display: none;
+  }
+
+  ul {
+    padding-left: 20px;
+  }
+
+  .error {
+    color: #ff4444;
+    font-size: 14px;
+    margin-top: 4px;
+    min-height: 20px;
+    display: block;
+  }
+</style>
+<body>
+  <h2>Generator bohatera RPG</h2>
+  
+  <div class="container">
+    <label>Imię postaci:</label>
+    <input type="text" id="characterName">
+    <span class="error" id="errorName"></span>
+
+    <label>Klasa postaci:</label>
+    <select id="characterClass">
+      <option value="warrior">Wojownik</option>
+      <option value="mage">Mag</option>
+      <option value="archer">Łucznik</option>
+    </select>
+    <span class="error" id="errorClass"></span>
+
+    <label>Wiek postaci:</label>
+    <input type="number" id="characterAge" min="1" placeholder="np. 25">
+    <span class="error" id="errorAge"></span>
+
+    <label>Cechy dodatkowe (opcjonalne):</label>
+    <div class="stats">
+      <label><input type="checkbox" value="strength" class="stat">Siła</label>
+      <label><input type="checkbox" value="intelligence" class="stat">Inteligencja</label>
+      <label><input type="checkbox" value="agility" class="stat">Zręczność</label>
+    </div>
+
+    <label>Ile przedmiotów w ekwipunku? (1-10)</label>
+    <input type="number" id="itemsCount" min="1" max="10">
+    <span class="error" id="errorItems"></span>
+
+    <button onclick="generateCharacter()">GENERUJ POSTAĆ</button>
+
+    <div class="result" id="resultBox"></div>
+  </div>
+  <script>
+    // lista losowych przedmiotów
+    const itemsDatabase = [
+      "Tarcza",
+      "Łuk",
+      "Płaszcz",
+      "Buty szybkości",
+      "Sakiewska ze złotem"
+    ];
+
+    // funkcja czyszcząca komunikaty o błędach
+    function clearErrors(){
+      document.getElementById("errorName").textContent = "";
+      document.getElementById("errorClass").textContent = "";
+      document.getElementById("errorAge").textContent = "";
+      document.getElementById("errorItems").textContent = "";
+    }
+
+    // główna funkcja - uruchamia się po kliknięciu przycisku
+    function generateCharacter(){
+      // czyścimy stare komunikaty o błędach
+      clearErrors();
+
+      // pobieranie danych z formularza
+      const name = document.getElementById("characterName").value;
+      const charClass = document.getElementById("characterClass").value;
+      const age = Number(document.getElementById("characterAge").value);
+      const itemsCountInput = Number(document.getElementById("itemsCount").value);
+
+      // walidacja danych
+      let hasError = false;
+
+      if (name === "") {
+        document.getElementById("errorName").textContent = "Podaj imię postaci!";
+        hasError = true;
+      }
+
+      if (isNaN(age) || age <= 0) {
+        document.getElementById("errorAge").textContent = "Wiek musi być większy od 0!";
+        hasError = true;
+      }
+
+      if (isNaN(itemsCountInput) || itemsCountInput < 1 || itemsCountInput > 10) {
+        document.getElementById("errorItems").textContent = "Liczba przedmiotów od 1 do 10!";
+        hasError = true;
+      }
+
+      // jeśli jest błąd to kończymy działanie funkcji
+      if (hasError) return;
+
+      // pobieranie zaznaczonych cech
+      const checkboxes = document.querySelectorAll(".stat:checked");
+      let englishStats = []; 
+      let polishStats = []; 
+
+      let statsCount = 0;
+
+      for (let box of checkboxes){
+        englishStats.push(box.value); // dodajemy angielską nazwę
+      }
+
+      // tłumaczenie na język polski 
+
+      for (let stat of englishStats){
+        if (stat === "strength") polishStats.push("siła");
+        if (stat === "intelligence") polishStats.push("inteligencja");
+        if (stat === "agility") polishStats.push("zręczność");
+      }
+
+      const statsText = polishStats.length > 0 ? polishStats.join(", ") : "Brak";
+
+      // inicjalizacja zmiennej power
+      let power = 10;
+      power += age / 10;
+
+      // bonusy w zależności od klasy
+      if (charClass === "warrior") power += 10; 
+      if (charClass === "mage") power += 8; 
+      if (charClass === "archer") power += 6; 
+
+      power += statsCount * 5; // +5 za każdą cechę
+       
+      // kategoria postaci
+      let category = "Początkujący";
+      if (power > 35 && age < 50) category = "Elitarny bohater";
+      else if (power > 20 && age < 70) category = "Doświadczony";
+
+      // ekwipunek (losowe przedmioty)
+      let inventory = [];
+      for (let i = 0; i < itemsCountInput; i++){
+        const randomIndex = Math.floor(Math.random() * itemsDatabase.length);
+        inventory.push(itemsDatabase[randomIndex]);
+      }
+      //console.log(inventory);
+      
+      // function formatItem(item){
+      //   return `<li>${item}</li>`;
+      // }
+      // funkcja strzałkowa
+      const formatItem = item => `<li>${item}</li>`;
+
+      function showResult(){
+        const box = document.getElementById("resultBox");
+        box.style.display = "block";
+
+        box.innerHTML = `
+          <h3>Twoja postać:</h3>
+          <p><strong>Imię:</strong> ${name}</p>
+          <p><strong>Klasa:</strong> ${charClass}</p>
+          <p><strong>Wiek:</strong> ${age}</p>
+          <p><strong>Moc postaci:</strong> ${power.toFixed(1)}</p>
+          <p><strong>Kategoria:</strong> ${category}</p>
+          <p><strong>Cechy:</strong> ${statsText}</p>
+          <p><strong>Ekwipunek:</strong></p>
+          <ul>
+            ${inventory.map(formatItem).join("")}  
+          </ul>
+        `;
+
+      }
+
+      showResult();
+      // console.log(power," ", category);
+      
+    }
+  </script>
+</body>
+</html>

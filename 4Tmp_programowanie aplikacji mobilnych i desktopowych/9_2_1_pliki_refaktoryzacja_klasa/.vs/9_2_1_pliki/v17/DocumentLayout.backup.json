@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{778A012D-5305-466F-A120-1459F70687B3}|9_2_1_pliki.csproj|c:\\users\\administrator.sbsmen.000\\desktop\\czwartek_____27_11\\4tmp\\9_2_1_pliki_refaktoryzacja_klasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{778A012D-5305-466F-A120-1459F70687B3}|9_2_1_pliki.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778A012D-5305-466F-A120-1459F70687B3}|9_2_1_pliki.csproj|c:\\users\\administrator.sbsmen.000\\desktop\\czwartek_____27_11\\4tmp\\9_2_1_pliki_refaktoryzacja_klasa\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778A012D-5305-466F-A120-1459F70687B3}|9_2_1_pliki.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778A012D-5305-466F-A120-1459F70687B3}|9_2_1_pliki.csproj|c:\\users\\administrator.sbsmen.000\\desktop\\czwartek_____27_11\\4tmp\\9_2_1_pliki_refaktoryzacja_klasa\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778A012D-5305-466F-A120-1459F70687B3}|9_2_1_pliki.csproj|solutionrelative:logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778A012D-5305-466F-A120-1459F70687B3}|9_2_1_pliki.csproj|c:\\users\\administrator.sbsmen.000\\desktop\\czwartek_____27_11\\4tmp\\9_2_1_pliki_refaktoryzacja_klasa\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778A012D-5305-466F-A120-1459F70687B3}|9_2_1_pliki.csproj|solutionrelative:librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryManager.cs",
+              "DocumentMoniker": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek_____27_11\\4tmp\\9_2_1_pliki_refaktoryzacja_klasa\\LibraryManager.cs",
+              "RelativeDocumentMoniker": "LibraryManager.cs",
+              "ToolTip": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek_____27_11\\4tmp\\9_2_1_pliki_refaktoryzacja_klasa\\LibraryManager.cs",
+              "RelativeToolTip": "LibraryManager.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAqwF4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T09:10:20.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek_____27_11\\4tmp\\9_2_1_pliki_refaktoryzacja_klasa\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger.cs",
+              "ToolTip": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek_____27_11\\4tmp\\9_2_1_pliki_refaktoryzacja_klasa\\Logger.cs",
+              "RelativeToolTip": "Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T08:41:15.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek_____27_11\\4tmp\\9_2_1_pliki_refaktoryzacja_klasa\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek_____27_11\\4tmp\\9_2_1_pliki_refaktoryzacja_klasa\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T08:19:54.067Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek_____27_11\\4tmp\\9_2_1_pliki_refaktoryzacja_klasa\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAPEAAAAAAAAAAAAswPUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T07:39:42.02Z",
               "EditorCaption": ""

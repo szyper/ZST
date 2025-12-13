@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dane użytkownika</title>
+</head>
+<body>
+    <h4>Dane użytkownika pobrane z pliku json</h4>
+    <div id="output">Wczytywanie danych ...</div>
+
+    <script>
+        fetch("files/filesperson.json")
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById("output").innerHTML = 
+            "Imię: " + data.FirstName + "<br>" +
+            "Nazwisko: " + data.LastName + "<br>" +
+            "Wiek: " + data.Age + "<br>";
+        })
+        .catch(err => {
+            document.getElementById("outpurt").innerHTML = "Błąd: " + err;
+        });
+    </script>
+</body>
+</html>

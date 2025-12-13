@@ -1,0 +1,14 @@
+C:\Users\administrator.SBSMEN.000\Desktop\środa\8_1_klasy\bin\Debug\net9.0\8_1_klasy.exe
+C:\Users\administrator.SBSMEN.000\Desktop\środa\8_1_klasy\bin\Debug\net9.0\8_1_klasy.deps.json
+C:\Users\administrator.SBSMEN.000\Desktop\środa\8_1_klasy\bin\Debug\net9.0\8_1_klasy.runtimeconfig.json
+C:\Users\administrator.SBSMEN.000\Desktop\środa\8_1_klasy\bin\Debug\net9.0\8_1_klasy.dll
+C:\Users\administrator.SBSMEN.000\Desktop\środa\8_1_klasy\bin\Debug\net9.0\8_1_klasy.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\środa\8_1_klasy\obj\Debug\net9.0\8_1_klasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator.SBSMEN.000\Desktop\środa\8_1_klasy\obj\Debug\net9.0\8_1_klasy.AssemblyInfoInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\środa\8_1_klasy\obj\Debug\net9.0\8_1_klasy.AssemblyInfo.cs
+C:\Users\administrator.SBSMEN.000\Desktop\środa\8_1_klasy\obj\Debug\net9.0\8_1_klasy.csproj.CoreCompileInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\środa\8_1_klasy\obj\Debug\net9.0\8_1_klasy.dll
+C:\Users\administrator.SBSMEN.000\Desktop\środa\8_1_klasy\obj\Debug\net9.0\refint\8_1_klasy.dll
+C:\Users\administrator.SBSMEN.000\Desktop\środa\8_1_klasy\obj\Debug\net9.0\8_1_klasy.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\środa\8_1_klasy\obj\Debug\net9.0\8_1_klasy.genruntimeconfig.cache
+C:\Users\administrator.SBSMEN.000\Desktop\środa\8_1_klasy\obj\Debug\net9.0\ref\8_1_klasy.dll

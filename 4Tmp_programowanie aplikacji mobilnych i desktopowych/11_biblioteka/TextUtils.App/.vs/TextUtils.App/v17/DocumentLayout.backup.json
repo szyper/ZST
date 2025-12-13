@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek\\4tmp\\TextUtils.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{676FEF07-2CB2-DCF4-CC44-B7B6DE74D9C9}|TextUtils.App.csproj|c:\\users\\administrator.sbsmen.000\\desktop\\czwartek\\4tmp\\textutils.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676FEF07-2CB2-DCF4-CC44-B7B6DE74D9C9}|TextUtils.App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek\\4tmp\\TextUtils.App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek\\4tmp\\TextUtils.App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:43:57.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

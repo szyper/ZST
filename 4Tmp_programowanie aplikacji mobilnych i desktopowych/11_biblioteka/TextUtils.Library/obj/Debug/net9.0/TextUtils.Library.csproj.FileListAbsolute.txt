@@ -1,0 +1,11 @@
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\TextUtils.Library\bin\Debug\net9.0\TextUtils.Library.deps.json
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\TextUtils.Library\bin\Debug\net9.0\TextUtils.Library.dll
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\TextUtils.Library\bin\Debug\net9.0\TextUtils.Library.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\TextUtils.Library\obj\Debug\net9.0\TextUtils.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\TextUtils.Library\obj\Debug\net9.0\TextUtils.Library.AssemblyInfoInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\TextUtils.Library\obj\Debug\net9.0\TextUtils.Library.AssemblyInfo.cs
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\TextUtils.Library\obj\Debug\net9.0\TextUtils.Library.csproj.CoreCompileInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\TextUtils.Library\obj\Debug\net9.0\TextUtils.Library.dll
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\TextUtils.Library\obj\Debug\net9.0\refint\TextUtils.Library.dll
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\TextUtils.Library\obj\Debug\net9.0\TextUtils.Library.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\TextUtils.Library\obj\Debug\net9.0\ref\TextUtils.Library.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek\\4tmp\\TextUtils.Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{930E714A-0F6D-7222-DB7A-0D22C1164286}|TextUtils.Library.csproj|c:\\users\\administrator.sbsmen.000\\desktop\\czwartek\\4tmp\\textutils.library\\texttools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930E714A-0F6D-7222-DB7A-0D22C1164286}|TextUtils.Library.csproj|solutionrelative:texttools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextTools.cs",
+              "DocumentMoniker": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek\\4tmp\\TextUtils.Library\\TextTools.cs",
+              "RelativeDocumentMoniker": "TextTools.cs",
+              "ToolTip": "C:\\Users\\administrator.SBSMEN.000\\Desktop\\czwartek\\4tmp\\TextUtils.Library\\TextTools.cs",
+              "RelativeToolTip": "TextTools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:11:15.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

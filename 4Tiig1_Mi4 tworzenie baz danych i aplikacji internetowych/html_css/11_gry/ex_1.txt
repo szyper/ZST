@@ -1,0 +1,4 @@
+Zmieńsposób losowania przedmiotów tak, aby:
+- każdy wylposowany przedmiot był usuwany z listy dostępnych przedmiotów
+- nie było możliwości wulosowania tego samego przedmiotu dwa razy w jednej postaci
+- dodaj zabezpieczenie, na wypadek gdyby gracz wpisał więcej przedmiotów niz mamy w bazie

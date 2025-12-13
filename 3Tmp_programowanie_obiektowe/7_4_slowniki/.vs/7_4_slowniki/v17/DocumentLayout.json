@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\sroda___\\7_4_slowniki\\",
+  "WorkspaceRootPath": "C:\\xampp2\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\7_4_slowniki\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7C061BC-49F2-449B-8DFC-24C206D07812}|7_4_slowniki.csproj|e:\\sroda___\\7_4_slowniki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7C061BC-49F2-449B-8DFC-24C206D07812}|7_4_slowniki.csproj|c:\\xampp2\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\7_4_slowniki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7C061BC-49F2-449B-8DFC-24C206D07812}|7_4_slowniki.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\sroda___\\7_4_slowniki\\Program.cs",
+              "DocumentMoniker": "C:\\xampp2\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\7_4_slowniki\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\sroda___\\7_4_slowniki\\Program.cs",
+              "ToolTip": "C:\\xampp2\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\7_4_slowniki\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAN4AAAAAAAAAAAAuwFIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAAAO0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T08:04:59.935Z",
               "EditorCaption": ""

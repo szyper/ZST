@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "egzamin_1_INF_04_2025_czerwiec/1.0.0": {
+        "runtime": {
+          "egzamin_1_INF_04_2025_czerwiec.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "egzamin_1_INF_04_2025_czerwiec/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

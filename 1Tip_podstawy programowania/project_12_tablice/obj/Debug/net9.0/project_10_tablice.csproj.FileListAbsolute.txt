@@ -1,0 +1,14 @@
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\1\project_10_tablice\bin\Debug\net9.0\project_10_tablice.exe
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\1\project_10_tablice\bin\Debug\net9.0\project_10_tablice.deps.json
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\1\project_10_tablice\bin\Debug\net9.0\project_10_tablice.runtimeconfig.json
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\1\project_10_tablice\bin\Debug\net9.0\project_10_tablice.dll
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\1\project_10_tablice\bin\Debug\net9.0\project_10_tablice.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\1\project_10_tablice\obj\Debug\net9.0\project_10_tablice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\1\project_10_tablice\obj\Debug\net9.0\project_10_tablice.AssemblyInfoInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\1\project_10_tablice\obj\Debug\net9.0\project_10_tablice.AssemblyInfo.cs
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\1\project_10_tablice\obj\Debug\net9.0\project_10_tablice.csproj.CoreCompileInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\1\project_10_tablice\obj\Debug\net9.0\project_10_tablice.dll
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\1\project_10_tablice\obj\Debug\net9.0\refint\project_10_tablice.dll
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\1\project_10_tablice\obj\Debug\net9.0\project_10_tablice.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\1\project_10_tablice\obj\Debug\net9.0\project_10_tablice.genruntimeconfig.cache
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\1\project_10_tablice\obj\Debug\net9.0\ref\project_10_tablice.dll

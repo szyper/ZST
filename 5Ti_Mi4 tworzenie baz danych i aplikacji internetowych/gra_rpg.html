@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Generator bohaterów RPG</title>
+</head>
+<style>
+	body {
+		font-family: Arial, sans-serif;
+		background: #222;
+		color: #fefefe;
+		margin: 0;
+		padding: 20px;
+	}
+
+	h2 {
+		text-align: center;
+	}
+
+	.container {
+		max-width: 500px;
+		margin: auto;
+		background: #333;
+		padding: 20px;
+		border-radius: 10px;
+		box-shadow: 0 0 10px #000;;
+	}
+
+	label {
+		display: block;
+		margin-top: 10px;
+	}
+
+	input, select {
+		width: 100%;
+		padding: 8px;
+		margin-top: 5px;
+		border-radius: 5px;
+		border: none;
+	}
+
+	.stats label {
+		display: inline-block;
+		margin-right: 10px;
+	}
+
+	button {
+		width: 100%;
+		padding: 12px;
+		margin-top: 15px;
+		font-size: 16px;
+		background: #4caf50;
+		color: #fff;
+		border: none;
+		border-radius: 5px;
+		cursor: pointer;
+	}
+
+	.result {
+		margin-top: 20px;
+		background: #111;
+		padding: 15px;
+		border-radius: 10px;
+		display: none;
+	}
+
+	ul {
+		padding-left: 20px;
+	}
+</style>
+<body>
+	<h2>Generator bohatera RPG</h2>
+	<div class="container">
+		<label>Imię postaci:</label>
+		<input type="text" id="characterName">
+
+		<label>Klasa postaci:</label>
+		<select id="charClass">
+			<option value="warrior">Wojownik</option>
+			<option value="mage">Mag</option>
+			<option value="archer">Łucznik</option>
+		</select>
+
+		<label>Wiek postaci:</label>
+		<input type="number" id="characterAge" min="1">
+
+		<label>Cechy dodatkowe:</label>
+		<div class="stats">
+			<label><input type="checkbox" value="strength" class="stats">Siła</label>
+			<label><input type="checkbox" value="intelligence" class="stats">Inteligencja</label>
+			<label><input type="checkbox" value="agility" class="stats">Zręczność</label>
+		</div>
+
+		<label>Ile przedmiotów w ekwipunku?</label>
+		<input type="number" id="itemsCount" min="1" max="10">
+
+		<button onclick="generateCharacter()">GENERUJ POSTAĆ</button>
+
+		<div class="result" id="resultBox"></div>
+	</div>
+	<script>
+		function generateCharacter(){
+			const name = document.getElementById("characterName").value;
+			const charClass = document.getElementById("charClass").value;
+			const age = Number(document.getElementById("characterAge").value);
+			const itemsCount = Number(document.getElementById("itemsCount").value);
+			const selectedStats = document.querySelectorAll(".stats:checked");
+
+			// walidacja danych
+			if (!name || !age || age <= 0 || itemsCount < 1) {
+				alert("Wypełnij wszystkie pola poprawnie!");
+				return;
+			}
+
+			let power = 10;
+			power += age / 10;
+
+			if (charClass === "warrior") power += 10; 
+			if (charClass === "mage") power += 8; 
+			if (charClass === "archer") power += 6; 
+
+			let bonus = 0;
+
+			for (let stat of selectedStats){
+				bonus++;
+			}
+
+			power += bonus * 5;
+
+			let category;
+
+			if (power > 35 && age ){
+				category = "Elitarny bohater";
+			} else if (power > 20 && age < 70){
+				category = "Doświadczony";
+			} else {
+				category = "Początkujący";
+			}
+
+			// generowanie listy ekwipunku
+			let items = [];
+			for (let i = 1; i <= itemsCount; i++){
+				items.push("Przedmiot nr " + i)
+			}
+
+			const formatItem = item => `<li>${item}</li>`;
+
+			function showResult(){
+				const box = document.getElementById("resultBox");
+				box.style.display = "block";
+				box.innerHTML = `
+					<h3>Twoja postać:</h3>
+					<p><strong>Imię:</strong> ${name}</p>
+					<p><strong>Klasa:</strong> ${charClass}</p>
+					<p><strong>Wiek:</strong> ${age}</p>
+					<p><strong>Moc postaci:</strong> ${power.toFixed(1)}</p>
+					<p><strong>Kategoria:</strong> ${category}</p>
+					<p><strong>Ekwipunek:</strong></p>
+					<ul>
+						${items.map(formatItem).join("")}
+					</ul>
+				`;
+			}
+
+			showResult();
+			// console.log(selectedStats);
+		}
+	</script>
+</body>
+</html>

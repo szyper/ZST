@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formularz rejestracji</title>
+</head>
+<body>
+	<h3>Rejestracja użytkownika</h3>  
+	<form method="get">
+		<label for="firstName">Imię</label>
+		<input type="text" name="firstName" id="firstName" autofocus placeholder="Wpisz swoje imię"><br><br>
+		
+		<label for="lastName">Nazwisko</label>
+		<input type="text" name="lastName" id="lastName"><br><br>
+
+		<label for="email">Email</label>
+		<input type="email" name="email" id="email" placeholder="jan@o2.pl"><br><br>
+
+		<label for="message">Wiadomość</label>
+		<textarea name="message" id="message" cols="30" rows="5"></textarea><br><br>
+
+		<label>Wybierz opcję</label>
+		<label><input type="radio" name="choice" value="question">Pytanie</label>
+		<label><input type="radio" name="choice" value="support">Wsparcie techniczne</label>
+		<label><input type="radio" name="choice" value="complaint">Reklamacja</label><br><br>
+
+		<label for="category">Kategoria</label>
+		<select name="category" id="category">
+			<option value="general">Ogólne</option>
+			<option value="billing">Płatności</option>
+			<option value="technical">Techniczne</option>
+		</select><br><br>
+
+		<label><input type="checkbox" name="terms" value="accepted">Zatwierdzam regulamin</label><br><br>
+
+		<button type="submit">Wyślij</button>
+	</form>
+</body>
+</html>

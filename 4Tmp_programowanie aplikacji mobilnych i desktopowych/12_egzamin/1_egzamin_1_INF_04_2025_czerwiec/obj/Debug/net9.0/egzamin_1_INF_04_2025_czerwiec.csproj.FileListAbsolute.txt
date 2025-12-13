@@ -1,0 +1,14 @@
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\1_egzamin\egzamin_1_INF_04_2025_czerwiec\bin\Debug\net9.0\egzamin_1_INF_04_2025_czerwiec.exe
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\1_egzamin\egzamin_1_INF_04_2025_czerwiec\bin\Debug\net9.0\egzamin_1_INF_04_2025_czerwiec.deps.json
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\1_egzamin\egzamin_1_INF_04_2025_czerwiec\bin\Debug\net9.0\egzamin_1_INF_04_2025_czerwiec.runtimeconfig.json
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\1_egzamin\egzamin_1_INF_04_2025_czerwiec\bin\Debug\net9.0\egzamin_1_INF_04_2025_czerwiec.dll
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\1_egzamin\egzamin_1_INF_04_2025_czerwiec\bin\Debug\net9.0\egzamin_1_INF_04_2025_czerwiec.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\1_egzamin\egzamin_1_INF_04_2025_czerwiec\obj\Debug\net9.0\egzamin_1_INF_04_2025_czerwiec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\1_egzamin\egzamin_1_INF_04_2025_czerwiec\obj\Debug\net9.0\egzamin_1_INF_04_2025_czerwiec.AssemblyInfoInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\1_egzamin\egzamin_1_INF_04_2025_czerwiec\obj\Debug\net9.0\egzamin_1_INF_04_2025_czerwiec.AssemblyInfo.cs
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\1_egzamin\egzamin_1_INF_04_2025_czerwiec\obj\Debug\net9.0\egzamin_1_INF_04_2025_czerwiec.csproj.CoreCompileInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\1_egzamin\egzamin_1_INF_04_2025_czerwiec\obj\Debug\net9.0\egzamin_1_INF_04_2025_czerwiec.dll
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\1_egzamin\egzamin_1_INF_04_2025_czerwiec\obj\Debug\net9.0\refint\egzamin_1_INF_04_2025_czerwiec.dll
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\1_egzamin\egzamin_1_INF_04_2025_czerwiec\obj\Debug\net9.0\egzamin_1_INF_04_2025_czerwiec.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\1_egzamin\egzamin_1_INF_04_2025_czerwiec\obj\Debug\net9.0\egzamin_1_INF_04_2025_czerwiec.genruntimeconfig.cache
+C:\Users\administrator.SBSMEN.000\Desktop\czwartek\4tmp\1_egzamin\egzamin_1_INF_04_2025_czerwiec\obj\Debug\net9.0\ref\egzamin_1_INF_04_2025_czerwiec.dll
