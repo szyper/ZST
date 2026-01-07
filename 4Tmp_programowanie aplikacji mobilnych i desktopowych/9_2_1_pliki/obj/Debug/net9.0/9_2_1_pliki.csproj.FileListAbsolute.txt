@@ -12,3 +12,18 @@ C:\Users\administrator.SBSMEN.000\Desktop\czwartek_____27_11\4tmp\9_2_1_pliki\ob
 C:\Users\administrator.SBSMEN.000\Desktop\czwartek_____27_11\4tmp\9_2_1_pliki\obj\Debug\net9.0\9_2_1_pliki.pdb
 C:\Users\administrator.SBSMEN.000\Desktop\czwartek_____27_11\4tmp\9_2_1_pliki\obj\Debug\net9.0\9_2_1_pliki.genruntimeconfig.cache
 C:\Users\administrator.SBSMEN.000\Desktop\czwartek_____27_11\4tmp\9_2_1_pliki\obj\Debug\net9.0\ref\9_2_1_pliki.dll
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\9_2_1_pliki\bin\Debug\net9.0\9_2_1_pliki.exe
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\9_2_1_pliki\bin\Debug\net9.0\9_2_1_pliki.deps.json
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\9_2_1_pliki\bin\Debug\net9.0\9_2_1_pliki.runtimeconfig.json
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\9_2_1_pliki\bin\Debug\net9.0\9_2_1_pliki.dll
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\9_2_1_pliki\bin\Debug\net9.0\9_2_1_pliki.pdb
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\9_2_1_pliki\obj\Debug\net9.0\9_2_1_pliki.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\9_2_1_pliki\obj\Debug\net9.0\9_2_1_pliki.AssemblyInfoInputs.cache
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\9_2_1_pliki\obj\Debug\net9.0\9_2_1_pliki.AssemblyInfo.cs
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\9_2_1_pliki\obj\Debug\net9.0\9_2_1_pliki.csproj.CoreCompileInputs.cache
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\9_2_1_pliki\obj\Debug\net9.0\9_2_1_pliki.sourcelink.json
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\9_2_1_pliki\obj\Debug\net9.0\9_2_1_pliki.dll
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\9_2_1_pliki\obj\Debug\net9.0\refint\9_2_1_pliki.dll
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\9_2_1_pliki\obj\Debug\net9.0\9_2_1_pliki.pdb
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\9_2_1_pliki\obj\Debug\net9.0\9_2_1_pliki.genruntimeconfig.cache
+C:\xampp2\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\9_2_1_pliki\obj\Debug\net9.0\ref\9_2_1_pliki.dll

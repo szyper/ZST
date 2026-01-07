@@ -24,3 +24,8 @@
 [2025-11-27 08:56:02] [Success] Zapisano bibliotekę do pliku (2 książek)
 [2025-11-27 08:56:03] [Info   ] Dane zapisane automatycznie przy wyjściu
 [2025-11-27 08:56:09] [Info   ] === Zakończono działanie programu ===
+[2025-12-20 14:54:25] [Info   ] === Uruchomiono program biblioteki ===
+[2025-12-20 14:54:30] [Success] Wczytano 2 książek z pliku book.csv
+[2025-12-20 14:57:10] [Success] Dodano książkę: Merito1 - WSB (2025), gatunek: Epopeja)
+[2025-12-20 14:58:40] [Error  ] Nieznana opcja. Wybierz ponownie
+[2025-12-20 14:58:45] [Error  ] Nieznana opcja. Wybierz ponownie

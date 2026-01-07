@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9_2_1_pliki")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+505485d8f0917adc9d8c064cfb22502fbb358318")]
 [assembly: System.Reflection.AssemblyProductAttribute("9_2_1_pliki")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9_2_1_pliki")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
