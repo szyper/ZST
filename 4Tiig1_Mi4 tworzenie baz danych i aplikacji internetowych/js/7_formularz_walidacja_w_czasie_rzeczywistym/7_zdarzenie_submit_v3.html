@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reejstracja z walidacją hasła</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            padding: 20px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 400px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="password"] {
+            width: 100%;
+            padding: 8px;
+            margin-top: 4px;
+            margin-bottom: 12px;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 18px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        .message {
+            margin-top: 10px;
+            font-weight: bold;
+        }
+
+        .error {
+            color: red;
+        }
+
+        .success {
+            color: green;
+        }
+
+        .password-hints {
+            font-size: 12px;
+            color: #555;
+            margin-bottom: 12px;
+        }
+
+        .radio-group {
+            margin-bottom: 12px;
+        }
+
+        .checkbox-group {
+            margin-bottom: 15px;
+        }
+
+        .select-group {
+            margin-bottom: 12px;
+        }
+
+        select {
+            width: 100%;
+            padding: 8px;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+            margin-top: 4px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Formularz rejestracyjny</h2>
+
+    <form id="myForm">
+        <label>
+            Imie:
+            <input type="text" id="name">
+            <span id="nameMsg" class="message"></span>
+        </label><br><br>
+
+        <label>
+            Email:
+            <input type="email" id="email">
+            <span id="emailMsg" class="message"></span>
+        </label><br><br>
+
+        <label>
+            Hasło:
+            <input type="password" id="password" oninput="validatePassword()">
+            <span id="passwordMsg" class="message password-hints"></span>
+        </label><br><br>
+
+        <label>
+            Potwierdź hasło:
+            <input type="password" id="confirmPassword" oninput="validateConfirmPassword()">
+            <span id="confirmMsg" class="message"></span>
+        </label><br><br>
+
+        <div class="radio-group">
+            <label>Płeć</label>
+            <input type="radio" name="gender" value="Mężczyzna" id="male">Mężczyzna
+            <input type="radio" name="gender" value="Kobieta" id="female">Kobieta
+            <input type="radio" name="gender" value="Inna" id="other">Inna
+            <input type="radio" name="gender" value="Nie chcę podawać" id="none">Nie chcę podawać
+            <span id="genderMsg" class="message"></span>
+        </div>
+
+        <div class="select-group">
+            <label for="country">Kraj:</label>
+            <select id="country">
+                <option value="">-- wybierz kraj --</option>
+                <option value="Polska">Polska</option>
+                <option value="USA">USA</option>
+                <option value="Czechy">Czechy</option>
+                <option value="Inny">Inny</option>
+            </select>
+            <span id="countryMsg" class="message"></span>
+        </div>
+
+        <label>
+            Data urodzenia:
+            <input type="date" id="birthDate">
+        </label>
+        <span id="birthDateMsg" class="message"></span>
+
+        <div class="checkbox-group">
+            <label>
+                <input type="checkbox" id="terms">
+                Akceptuję regulamin
+            </label>
+            <span id="termsMsg" class="message"></span>
+        </div>
+
+        <button type="submit">Wyślij</button>
+    </form>
+
+    <p id="finalMessage" class="message"></p>
+
+    <script>
+        const form = document.getElementById("myForm");
+        const finalMessage = document.getElementById("finalMessage");
+
+        function validatePassword(){
+            const password = document.getElementById("password").value;
+            const msg = document.getElementById("passwordMsg");
+            
+            const pattern = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[\W_]).{6,}$/;
+
+            if (password === "") {
+                msg.textContent = "Hasło jest wymagane";
+                msg.className = "message error";
+            } else if (!pattern.test(password)) {
+                msg.textContent = "Hasło musi mieć min. 6 znaków, małą i dużą literę, cyfrę i znak specjalny";
+                msg.className = "message error";
+            } else {
+                msg.textContent = "Hasło spełnia wymagania 👍";
+                msg.className = "message success";
+            }
+        }
+
+        function validateConfirmPassword(){
+            const password = document.getElementById("password").value;
+            const confirm = document.getElementById("confirmPassword").value;
+            const msg = document.getElementById("confirmMsg");
+            
+            if (confirm === "") {
+                msg.textContent = "";
+            } else if (password != confirm) {
+                msg.textContent = "Hasła nie są zgodne ❗";
+                msg.className = "message error";
+            } else {
+                msg.textContent = "Hasła pasują 👍";
+                msg.className = "message success";
+            }
+        }
+
+        
+        form.addEventListener("submit", function(event){
+            event.preventDefault();
+
+            const name = document.getElementById("name").value;
+            const email = document.getElementById("email").value;
+            const password = document.getElementById("password").value;
+            const confirmPassword = document.getElementById("confirmPassword").value;
+
+
+            if (!name || !email || !password || !confirmPassword) {
+                finalMessage.textContent = "❗ Uzupełnij wszystkie pola!";
+                finalMessage.className = "message error";
+                return;
+            }
+
+            if (password !== confirmPassword) {
+                finalMessage.textContent = "❗ Hasła nie są zgodne!";
+                finalMessage.className = "message error";
+                return;
+            }
+
+            const pattern = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[\W_]).{6,}$/;
+
+            if (!pattern.test(password)) {
+                finalMessage.textContent = "❗ Hasło nie spełnia wymagań!";
+                finalMessage.className = "message error";
+                return;
+            }
+
+            // płeć
+            const genderElements = document.getElementsByName("gender");
+            const genderMsg = document.getElementById("genderMsg");
+
+            let selectedGender = "";
+
+            // sprawdzenie czy któraś opcja radio jest zaznaczona
+            for (let i = 0; i < genderElements.length; i++) {
+                if (genderElements[i].checked) {
+                    selectedGender = genderElements[i].value;
+                    break;
+                }
+            }
+
+            if (selectedGender === "") {
+                genderMsg = "❗ Wybierz jedną opcję!";
+                genderMsg.className = "message error";
+                return;
+            } else {
+                genderMsg.textContent = "";
+            }
+
+            const terms = document.getElementById("terms");
+            const termsMsg = document.getElementById("termsMsg");
+
+            if (!terms.checked) {
+                termsMsg.textContent = "❗ Musisz zaakceptować regulamin!";
+                termsMsg.className = "message error";
+                return;
+            } else {
+                termsMsg.textContent = "";
+            }
+
+            const country = document.getElementById("country");
+            const countryMsg = document.getElementById("countryMsg");
+
+            if (country.value === "") {
+                countryMsg.textContent = "❗ Wybierz kraj!";
+                countryMsg.className = "message error";
+                return;
+            } else {
+                countryMsg.textContent = "";
+            }
+
+            // pobranie daty
+            const birthDate = document.getElementById("birthDate").value;
+            const birthDateMsg = document.getElementById("birthDateMsg");
+
+            if (!birthDate) {
+                birthDateMsg.textContent = "❗ Wybierz datę urodzenia!";
+                birthDateMsg.className = "message error";
+                return;
+            } else {
+                birthDateMsg.textContent = "";
+            }
+
+            // formatowanie daty do postaci np. 13 stycznia 2026
+            const options = { year: 'numeric', month: 'long', day: 'numeric'};
+            const formattedDate = new Date(birthDate).toLocaleDateString('pl-PL', options);
+
+            finalMessage.innerHTML = `<strong>👍 Formularz poprawnie wypełniony</strong><br>
+                                    <strong>Imię:</strong> ${name}<br>
+                                    <strong>Email:</strong> ${email}<br>
+                                    <strong>Hasło:</strong> ${password}<br>
+                                    <strong>Płeć:</strong> ${selectedGender}<br>
+                                    <strong>Regulamin:</strong> zaakceptowany<br>
+                                    <strong>Kraj:</strong> ${country.value}<br>
+                                    <strong>Data urodzenia:</strong> ${birthDate}<br>
+                                    <strong>Data urodzenia:</strong> ${formattedDate}<br>
+                                    `;
+
+            finalMessage.className = "message success";
+            
+            // form.reset();
+
+        });
+
+    </script>
+</body>
+</html>
