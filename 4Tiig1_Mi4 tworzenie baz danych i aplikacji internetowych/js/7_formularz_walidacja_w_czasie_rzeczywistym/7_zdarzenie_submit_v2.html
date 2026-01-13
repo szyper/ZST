@@ -73,6 +73,9 @@
             margin-bottom: 12px;
         }
 
+        .radio-group {
+            margin-bottom: 12px;
+        }
     </style>
 </head>
 <body>
@@ -102,6 +105,15 @@
             <input type="password" id="confirmPassword" oninput="validateConfirmPassword()">
             <span id="confirmMsg" class="message"></span>
         </label><br><br>
+
+        <div class="radio-group">
+            <label>Płeć</label>
+            <input type="radio" name="gender" value="Mężczyzna" id="male">Mężczyzna
+            <input type="radio" name="gender" value="Kobieta" id="female">Kobieta
+            <input type="radio" name="gender" value="Inna" id="other">Inna
+            <input type="radio" name="gender" value="Nie chcę podawać" id="none">Nie chcę podawać
+            <span id="genderMsg" class="message"></span>
+        </div>
 
         <button type="submit">Wyślij</button>
     </form>
@@ -176,10 +188,35 @@
                 return;
             }
 
+            // płeć
+            const genderElements = document.getElementsByName("gender");
+            const genderMsg = document.getElementById("genderMsg");
+
+            let selectedGender = "";
+
+            // sprawdzenie czy któraś opcja radio jest zaznaczona
+            for (let i = 0; i < genderElements.length; i++) {
+                if (genderElements[i].checked) {
+                    selectedGender = genderElements[i].value;
+                    break;
+                }
+            }
+
+            if (selectedGender === "") {
+                genderMsg = "❗ Wybierz jedną opcję!";
+                genderMsg.className = "message error";
+                return;
+            } else {
+                genderMsg.textContent = "";
+            }
+
+
             finalMessage.innerHTML = `<strong>👍 Formularz poprawnie wypełniony</strong><br>
                                     <strong>Imię:</strong> ${name}<br>
                                     <strong>Email:</strong> ${email}<br>
-                                    <strong>Hasło:</strong> ${password}`;
+                                    <strong>Hasło:</strong> ${password}<br>
+                                    <strong>Płeć:</strong> {$selectedGender}
+                                    `;
 
             finalMessage.className = "message success";
             
