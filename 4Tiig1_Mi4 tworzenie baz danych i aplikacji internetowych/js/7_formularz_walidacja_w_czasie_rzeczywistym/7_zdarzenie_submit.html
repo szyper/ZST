@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Obsługa zdarzenia submit</title>
+</head>
+<body>
+    <h2>Formularz rejestracyjny</h2>
+    <form id="myForm">
+        <label>
+            Imie:
+            <input type="text" id="name">
+        </label><br><br>
+
+        <label>
+            Email:
+            <input type="email" id="email">
+        </label><br><br>
+
+        <label>
+            Hasło:
+            <input type="password" id="password">
+        </label><br><br>
+
+        <label>
+            Potwierdź hasło:
+            <input type="password" id="confirmPassword">
+        </label><br><br>
+
+        <button type="submit">Wyślij</button>
+    </form>
+
+    <p id="message"></p>
+
+    <script>
+        const form = document.getElementById("myForm");
+        const message = document.getElementById("message");
+
+        // dodanie nasłuchiwania na zdarzenie "submit" (wysłanie formularza)
+        form.addEventListener("submit", function(event){
+            // zatrzymanie domyślnego zachowania formularza, czyli wysłąnia danych i przełądowania strony
+            event.preventDefault();
+
+            // pobranie wartości wpisanej w pole tekstowe o id "name"
+            const name = document.getElementById("name").value;
+
+            // pobranie wartości wpisanej w pole email o id "email"
+            const email = document.getElementById("email").value;
+
+            // == porównanie luźne (porównuje tylko wartości), === porównanie ścisłe (porównuje wartości i typy)
+            // 0 == "0" true
+            // "" == 0 true
+            // false == 0 true
+            // null == undefined true
+
+            // 0 === "0" false
+            // "" === 0 false
+            // false == 0 false
+
+
+            const password = document.getElementById("password").value;
+            const confirmPassword = document.getElementById("confirmPassword").value;
+
+
+            if (name === "" || email === "" || password === "" || confirmPassword === "") {
+                // jeśli jest tak - wyświetlenie komunikatu o błędzie
+                message.textContent = "❗ Uzupełnij wszystkie pola!";
+                message.style.color = "red";
+                return;
+            }
+
+            // sprawdzenie, czy hasła się zgadzają
+            if (password !== confirmPassword) {
+                message.textContent = "❗ Hasłą nie są zgodne!";
+                message.style.color = "red";
+                return;
+            }
+
+            // walidacja hasła (min. 6 znaków, 1 mała, 1 duża, 1 cyfra, 1 znak specjalny)
+            const passwordPattern = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[\W_]).{6,}$/;
+
+            if (!passwordPattern.test(password)) {
+                message.innerHTML = `❗ Hasło musi zawierać:<br>
+                                     - Minimum 6 znaków<br>
+                                     - Przynajmniej jedną małą literę<br>
+                                     - Przynajmniej jedną dużą literę<br>
+                                     - Przynajmniej jedną cyfrę<br>
+                                     - Przynajmniej jedną znak specjalny`;
+                message.style.color = "red";
+                return;
+            }
+
+            // jeśli oba pola są wypełnione - wyświetlenie poprawnego komunikatu 
+            // message.textContent = "👍 Formularz poprawnie wypełniony";
+
+            message.innerHTML = `<strong>👍 Formularz poprawnie wypełniony</strong><br>
+                                    <strong>Imię:</strong> ${name}<br>
+                                    <strong>Email:</strong> ${email}<br>
+                                    <strong>Hasło:</strong> ${password}`;
+
+            message.style.color = "green";
+            
+            // wyczyszczenie formularza po wysłaniu
+            form.reset();
+
+        });
+
+    </script>
+</body>
+</html>

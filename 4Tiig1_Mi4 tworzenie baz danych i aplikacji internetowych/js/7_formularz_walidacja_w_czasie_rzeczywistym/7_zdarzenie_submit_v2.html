@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reejstracja z walidacją hasła</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            padding: 20px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 400px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="password"] {
+            width: 100%;
+            padding: 8px;
+            margin-top: 4px;
+            margin-bottom: 12px;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 18px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        .message {
+            margin-top: 10px;
+            font-weight: bold;
+        }
+
+        .error {
+            color: red;
+        }
+
+        .success {
+            color: green;
+        }
+
+        .password-hints {
+            font-size: 12px;
+            color: #555;
+            margin-bottom: 12px;
+        }
+
+    </style>
+</head>
+<body>
+    <h2>Formularz rejestracyjny</h2>
+
+    <form id="myForm">
+        <label>
+            Imie:
+            <input type="text" id="name">
+            <span id="nameMsg" class="message"></span>
+        </label><br><br>
+
+        <label>
+            Email:
+            <input type="email" id="email">
+            <span id="emailMsg" class="message"></span>
+        </label><br><br>
+
+        <label>
+            Hasło:
+            <input type="password" id="password" oninput="validatePassword()">
+            <span id="passwordMsg" class="message password-hints"></span>
+        </label><br><br>
+
+        <label>
+            Potwierdź hasło:
+            <input type="password" id="confirmPassword" oninput="validateConfirmPassword()">
+            <span id="confirmMsg" class="message"></span>
+        </label><br><br>
+
+        <button type="submit">Wyślij</button>
+    </form>
+
+    <p id="finalMessage" class="message"></p>
+
+    <script>
+        const form = document.getElementById("myForm");
+        const finalMessage = document.getElementById("finalMessage");
+
+        function validatePassword(){
+            const password = document.getElementById("password").value;
+            const msg = document.getElementById("passwordMsg");
+            
+            const pattern = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[\W_]).{6,}$/;
+
+            if (password === "") {
+                msg.textContent = "Hasło jest wymagane";
+                msg.className = "message error";
+            } else if (!pattern.test(password)) {
+                msg.textContent = "Hasło musi mieć min. 6 znaków, małą i dużą literę, cyfrę i znak specjalny";
+                msg.className = "message error";
+            } else {
+                msg.textContent = "Hasło spełnia wymagania 👍";
+                msg.className = "message success";
+            }
+        }
+
+        function validateConfirmPassword(){
+            const password = document.getElementById("password").value;
+            const confirm = document.getElementById("confirmPassword").value;
+            const msg = document.getElementById("confirmMsg");
+            
+            if (confirm === "") {
+                msg.textContent = "";
+            } else if (password != confirm) {
+                msg.textContent = "Hasła nie są zgodne ❗";
+                msg.className = "message error";
+            } else {
+                msg.textContent = "Hasła pasują 👍";
+                msg.className = "message success";
+            }
+        }
+
+        
+        form.addEventListener("submit", function(event){
+            event.preventDefault();
+
+            const name = document.getElementById("name").value;
+            const email = document.getElementById("email").value;
+            const password = document.getElementById("password").value;
+            const confirmPassword = document.getElementById("confirmPassword").value;
+
+
+            if (!name || !email || !password || !confirmPassword) {
+                finalMessage.textContent = "❗ Uzupełnij wszystkie pola!";
+                finalMessage.className = "message error";
+                return;
+            }
+
+            if (password !== confirmPassword) {
+                finalMessage.textContent = "❗ Hasła nie są zgodne!";
+                finalMessage.className = "message error";
+                return;
+            }
+
+            const pattern = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[\W_]).{6,}$/;
+
+            if (!pattern.test(password)) {
+                finalMessage.textContent = "❗ Hasło nie spełnia wymagań!";
+                finalMessage.className = "message error";
+                return;
+            }
+
+            finalMessage.innerHTML = `<strong>👍 Formularz poprawnie wypełniony</strong><br>
+                                    <strong>Imię:</strong> ${name}<br>
+                                    <strong>Email:</strong> ${email}<br>
+                                    <strong>Hasło:</strong> ${password}`;
+
+            finalMessage.className = "message success";
+            
+            // form.reset();
+
+        });
+
+    </script>
+</body>
+</html>
