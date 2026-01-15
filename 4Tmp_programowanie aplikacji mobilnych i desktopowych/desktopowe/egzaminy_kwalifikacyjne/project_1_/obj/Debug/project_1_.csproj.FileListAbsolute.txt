@@ -1,0 +1,11 @@
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\project_1_\bin\Debug\project_1_.exe.config
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\project_1_\bin\Debug\project_1_.exe
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\project_1_\bin\Debug\project_1_.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\project_1_\obj\Debug\project_1_.csproj.AssemblyReference.cache
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\project_1_\obj\Debug\project_1_.Form1.resources
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\project_1_\obj\Debug\project_1_.Properties.Resources.resources
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\project_1_\obj\Debug\project_1_.csproj.GenerateResource.cache
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\project_1_\obj\Debug\project_1_.csproj.CoreCompileInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\project_1_\obj\Debug\project_1_.exe
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\project_1_\obj\Debug\project_1_.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\project_1_\obj\Debug\project_1_.exe.config

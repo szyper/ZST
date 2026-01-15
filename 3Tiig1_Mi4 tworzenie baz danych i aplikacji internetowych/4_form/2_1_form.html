@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formularz rejestracji</title>
+</head>
+<body>
+	<h3>Rejestracja użytkownika</h3>  
+	<form method="get">
+		<label for="firstName">Imię</label>
+		<input type="text" name="firstName" id="firstName" autofocus placeholder="Wpisz swoje imię"><br><br>
+		
+		<label for="lastName">Nazwisko</label>
+		<input type="text" name="lastName" id="lastName"><br><br>
+
+		<label for="email">Email</label>
+		<input type="email" name="email" id="email" placeholder="jan@o2.pl"><br><br>
+
+		<label for="message">Wiadomość</label>
+		<textarea name="message" id="message" cols="30" rows="5"></textarea><br><br>
+
+		<label>Wybierz opcję</label>
+		<label><input type="radio" name="choice" value="question" checked>Pytanie</label>
+		<label><input type="radio" name="choice" value="support">Wsparcie techniczne</label>
+		<label><input type="radio" name="choice" value="complaint">Reklamacja</label><br><br>
+
+		<label for="category">Kategoria</label>
+		<select name="category" id="category">
+			<option value="general">Ogólne</option>
+			<option value="billing">Płatności</option>
+			<option value="technical">Techniczne</option>
+		</select><br><br>
+
+		<label><input type="checkbox" name="terms" value="accepted">Zatwierdzam regulamin</label><br><br>
+
+        <!-- data urodzenia -->
+        <label for="dob">Data urodzenia</label>
+        <input type="date" name="dob" id="dob"><br><br>
+
+        <!-- numer telefonu -->
+        <label for="phone">Numer telefonu</label>
+        <input type="tel" name="phone" id="phone" placeholder="123-456-789"><br><br>
+
+        <!-- Kolor ulubiony -->
+        <label for="color">Ulubiony kolor</label>
+        <input type="color" name="color" id="color" value="#5f0077"><br><br>
+
+        <!-- poziom zaawansowania -->
+         <label for="level">Poziom zaawansowania</label>
+         <input type="range" name="level" id="level" min="0" max="10" value="5"><br><br>
+
+         <!-- ulubione języki programowania -->
+          <label for="languages">Ulubione języki programowania</label>
+          <select name="languages" id="languages" multiple size="4">
+            <option value="python">Python</option>
+            <option value="javascript">JavaScript</option>
+            <option value="java">Java</option>
+            <option value="csharp">C#</option>
+            <option value="cpp">C++</option>
+          </select><br><br>
+
+          <!-- przesyłanie plików -->
+          <label for="file">Prześlij plik</label>
+          <input type="file" name="file" id="file" accept=".jpg, .pdf"><br><br>
+
+		<button type="submit">Wyślij</button>
+	</form>
+</body>
+</html>

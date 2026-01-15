@@ -1,0 +1,14 @@
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\1tmp\project_13\obj\Debug\net10.0\project_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\1tmp\project_13\obj\Debug\net10.0\project_13.AssemblyInfoInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\1tmp\project_13\obj\Debug\net10.0\project_13.AssemblyInfo.cs
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\1tmp\project_13\obj\Debug\net10.0\project_13.csproj.CoreCompileInputs.cache
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\1tmp\project_13\bin\Debug\net10.0\project_13.exe
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\1tmp\project_13\bin\Debug\net10.0\project_13.deps.json
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\1tmp\project_13\bin\Debug\net10.0\project_13.runtimeconfig.json
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\1tmp\project_13\bin\Debug\net10.0\project_13.dll
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\1tmp\project_13\bin\Debug\net10.0\project_13.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\1tmp\project_13\obj\Debug\net10.0\project_13.dll
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\1tmp\project_13\obj\Debug\net10.0\refint\project_13.dll
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\1tmp\project_13\obj\Debug\net10.0\project_13.pdb
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\1tmp\project_13\obj\Debug\net10.0\project_13.genruntimeconfig.cache
+C:\Users\administrator.SBSMEN.000\Desktop\15_01\1tmp\project_13\obj\Debug\net10.0\ref\project_13.dll
