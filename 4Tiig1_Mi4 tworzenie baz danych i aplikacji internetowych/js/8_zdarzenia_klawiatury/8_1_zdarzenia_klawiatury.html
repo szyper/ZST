@@ -1,0 +1,86 @@
+!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zdarzenia klawiatury</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+ 
+        input {
+            padding: 6px;
+            font-size: 16px;
+        }
+ 
+        .info {
+            margin-top: 10px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            width: 320px;
+        }
+ 
+        .error {
+            color: red;
+            margin-top: 5px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Zdarzenia klawiatury w polu formularza (maksymalnie 5 znaków)</h2>
+ 
+    <label>Tylko cyfry:
+        <input type="text" id="numberInput">
+    </label>
+ 
+    <div class="error" id="errorMsg"></div>
+ 
+    <div class="info">
+        <p><strong>event.key:</strong><span id="keyInfo">-</span></p>
+        <p><strong>event.code:</strong><span id="codeInfo">-</span></p>
+        <p><strong>Źródło klawisza:</strong><span id="sourceInfo">-</span></p>
+    </div>
+ 
+    <script>
+        const input = document.getElementById("numberInput");
+ 
+        const keyInfo = document.getElementById("keyInfo");
+        const codeInfo = document.getElementById("codeInfo");
+        const sourceInfo = document.getElementById("sourceInfo");
+        const errorMsg = document.getElementById("errorMsg");
+ 
+        const MAX_LENGTH = 5;
+ 
+        // keydown - uruchamia się w momencie naciśnięcia klawisza
+        input.addEventListener("keydown", function(event){
+            // wyświetlenie informacji o klawiszu
+            keyInfo.textContent = event.key;
+            codeInfo.textContent = event.code;
+ 
+            // sprawdzenie źródła klawisza
+            if (event.code.startsWith("Numpad")) {
+                sourceInfo.textContent = "Klawiatura numeryczna";
+            } else if (event.code.startsWith("Digit")) {
+                sourceInfo.textContent = "Klawiatura główna";
+            } else {
+                sourceInfo.textContent = "Inny klawisz";
+            }
+ 
+            if (!/[0-9]/.test(event.key) && event.key !== "Backspace" && event.key !== "Delete" && event.key !== "ArrowLeft" && event.key !== "ArrowRight") {
+                event.preventDefault();
+            }
+ 
+            // ograniczenie długości do 5 cyfr
+            if (/[0-9]/.test(event.key) && input.value.length >= MAX_LENGTH ) {
+                event.preventDefault();
+                errorMsg.textContent = "Można wpisać maksymalnie 5 cyfr!";
+            } else {
+                errorMsg.textContent = "";
+            }
+        });
+ 
+    </script>
+</body>
+</html>
