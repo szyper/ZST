@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zdarzenia klawiatury</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        input {
+            padding: 6px;
+            font-size: 16px;
+        }
+
+        .info {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Zdarzenia klawiatury w polu formularza</h2>
+
+    <label>Tylko cyfry:
+        <input type="text" id="numberInput">
+    </label>
+
+    <div class="info">
+        <p id="keydownInfo"></p>
+        <p id="keyupInfo"></p>
+        <p id="keypressInfo"></p>
+    </div>
+
+    <script>
+        const input = document.getElementById("numberInput");
+
+        // keydown - uruchamia się w momencie naciśnięcia klawisza
+        input.addEventListener("keydown", function(event){
+            document.getElementById("keydownInfo").textContent = "keydown: " + event.key;
+
+            // ograniczenie: tylko cyfry
+            //console.log(event.key);
+            
+            if (!/[0-9]/.test(event.key) && event.key !== "Backspace" && event.key !== "Delete" && event.key !== "ArrowLeft" && event.key !== "ArrowRight") {
+                //console.log(event.key);
+                event.preventDefault();
+            }
+        });
+
+        // keypress - uruchamia się dla znaków drukowalnych
+        // znaki niedrukowalne (non-printable) - znkai, które nie wstawiają znaku do pola np. Shift, Ctrl, Alt, Backspace, Enter, Tab, strzałki, Esc
+
+        input.addEventListener("keypress", function(event){
+            document.getElementById("keypressInfo").textContent = "keypress: " + event.key;
+        });
+
+        // keyup - uruchamia się po puszczeniu klawisza
+        input.addEventListener("keyup", function(event){
+            document.getElementById("keypressInfo").textContent = "keyup: " + event.key;
+        });
+
+    </script>
+</body>
+</html>
