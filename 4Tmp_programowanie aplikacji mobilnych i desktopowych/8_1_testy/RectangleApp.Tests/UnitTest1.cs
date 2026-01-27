@@ -70,7 +70,7 @@ public class RectangleTests
         Assert.Throws<ArgumentException>(() => new Rectangle(5, -8));
     }
 
-    // idempotentność - wywołanie CalculateArea() wielokrotnie powinno zwracaćten sam wynik
+    // idempotentność - wywołanie CalculateArea() wielokrotnie powinno zwracać ten sam wynik
     [Fact]
     public void CalculateArea_MultipleCalls_ReturnsSameResult()
     {

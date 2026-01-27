@@ -8,7 +8,7 @@ public class Rectangle
     public Rectangle(double width, double height)
     {
         if (width <= 0 || height <= 0)
-            throw new ArgumentException("Szerokośc i wysokośćmusi być liczbą dodatnią");
+            throw new ArgumentException("Szerokośc i wysokość musi być liczbą dodatnią");
 
         _width = width;
         _height = height;
