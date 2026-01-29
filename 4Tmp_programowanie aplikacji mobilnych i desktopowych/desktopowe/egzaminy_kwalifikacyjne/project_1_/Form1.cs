@@ -45,5 +45,10 @@ namespace project_1_
             ColorSave.BackColor = Color.FromArgb(RBar.Value, GBar.Value, BBar.Value);
             ColorSave.Text = $"{RBar.Value}, {GBar.Value}, {BBar.Value}";
         }
+
+    private void Form1_Load(object sender, EventArgs e)
+    {
+
     }
+  }
 }
