@@ -1,0 +1,8 @@
+C:\Users\uczen\source\repos\project_12_1_tablice_wielowymiarowe\bin\Debug\project_12_1_tablice_wielowymiarowe.exe.config
+C:\Users\uczen\source\repos\project_12_1_tablice_wielowymiarowe\bin\Debug\project_12_1_tablice_wielowymiarowe.exe
+C:\Users\uczen\source\repos\project_12_1_tablice_wielowymiarowe\bin\Debug\project_12_1_tablice_wielowymiarowe.pdb
+C:\Users\uczen\source\repos\project_12_1_tablice_wielowymiarowe\obj\Debug\project_12_1_tablice_wielowymiarowe.csproj.AssemblyReference.cache
+C:\Users\uczen\source\repos\project_12_1_tablice_wielowymiarowe\obj\Debug\project_12_1_tablice_wielowymiarowe.csproj.CoreCompileInputs.cache
+C:\Users\uczen\source\repos\project_12_1_tablice_wielowymiarowe\obj\Debug\project_12_1_tablice_wielowymiarowe.exe
+C:\Users\uczen\source\repos\project_12_1_tablice_wielowymiarowe\obj\Debug\project_12_1_tablice_wielowymiarowe.pdb
+C:\Users\uczen\source\repos\project_12_1_tablice_wielowymiarowe\obj\Debug\project_12_1_tablice_wielowymiarowe.exe.config
