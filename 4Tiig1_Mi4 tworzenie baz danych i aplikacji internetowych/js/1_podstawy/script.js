@@ -13,7 +13,7 @@ console.log("Imię: ",firstName,", nazwisko: ",lastName,", wiek: ",age," lat");
 // typy danych
 let text = "Janusz"; // string
 let num = "Janusz"; // number
-let log = "Janusz"; // boolean
+let log = false; // boolean
 
 // alert(firstName);
 
