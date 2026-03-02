@@ -1,0 +1,4 @@
+Dodawanie użytkowników:
+- formularz dodawania nowego użytkownika(username, password, age)
+- hasło automatycznie hashowane przy dodawaniu (password_hash)
+- po dodaniu użytkownik od razu pojawia się w tabeli
