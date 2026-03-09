@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\bin\Debug\net10.0\project_13_funkcje_statyczne.exe
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\bin\Debug\net10.0\project_13_funkcje_statyczne.deps.json
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\bin\Debug\net10.0\project_13_funkcje_statyczne.runtimeconfig.json
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\bin\Debug\net10.0\project_13_funkcje_statyczne.dll
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\bin\Debug\net10.0\project_13_funkcje_statyczne.pdb
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\obj\Debug\net10.0\project_13_funkcje_statyczne.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\obj\Debug\net10.0\project_13_funkcje_statyczne.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\obj\Debug\net10.0\project_13_funkcje_statyczne.AssemblyInfo.cs
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\obj\Debug\net10.0\project_13_funkcje_statyczne.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\obj\Debug\net10.0\project_13_funkcje_statyczne.sourcelink.json
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\obj\Debug\net10.0\project_13_funkcje_statyczne.dll
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\obj\Debug\net10.0\refint\project_13_funkcje_statyczne.dll
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\obj\Debug\net10.0\project_13_funkcje_statyczne.pdb
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\obj\Debug\net10.0\project_13_funkcje_statyczne.genruntimeconfig.cache
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\obj\Debug\net10.0\ref\project_13_funkcje_statyczne.dll

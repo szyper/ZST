@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\3_samogloski_2024_styczen_zad_2\bin\Debug\net10.0\3_samogloski_2024_styczen_zad_2.exe
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\3_samogloski_2024_styczen_zad_2\bin\Debug\net10.0\3_samogloski_2024_styczen_zad_2.deps.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\3_samogloski_2024_styczen_zad_2\bin\Debug\net10.0\3_samogloski_2024_styczen_zad_2.runtimeconfig.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\3_samogloski_2024_styczen_zad_2\bin\Debug\net10.0\3_samogloski_2024_styczen_zad_2.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\3_samogloski_2024_styczen_zad_2\bin\Debug\net10.0\3_samogloski_2024_styczen_zad_2.pdb
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\3_samogloski_2024_styczen_zad_2\obj\Debug\net10.0\3_samogloski_2024_styczen_zad_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\3_samogloski_2024_styczen_zad_2\obj\Debug\net10.0\3_samogloski_2024_styczen_zad_2.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\3_samogloski_2024_styczen_zad_2\obj\Debug\net10.0\3_samogloski_2024_styczen_zad_2.AssemblyInfo.cs
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\3_samogloski_2024_styczen_zad_2\obj\Debug\net10.0\3_samogloski_2024_styczen_zad_2.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\3_samogloski_2024_styczen_zad_2\obj\Debug\net10.0\3_samogloski_2024_styczen_zad_2.sourcelink.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\3_samogloski_2024_styczen_zad_2\obj\Debug\net10.0\3_samogloski_2024_styczen_zad_2.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\3_samogloski_2024_styczen_zad_2\obj\Debug\net10.0\refint\3_samogloski_2024_styczen_zad_2.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\3_samogloski_2024_styczen_zad_2\obj\Debug\net10.0\3_samogloski_2024_styczen_zad_2.pdb
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\3_samogloski_2024_styczen_zad_2\obj\Debug\net10.0\3_samogloski_2024_styczen_zad_2.genruntimeconfig.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\3_samogloski_2024_styczen_zad_2\obj\Debug\net10.0\ref\3_samogloski_2024_styczen_zad_2.dll

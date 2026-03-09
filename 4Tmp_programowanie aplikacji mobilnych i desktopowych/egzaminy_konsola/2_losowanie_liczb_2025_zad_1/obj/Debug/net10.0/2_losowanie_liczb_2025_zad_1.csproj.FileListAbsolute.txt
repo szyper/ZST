@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\2_losowanie_liczb_2025_zad_1\bin\Debug\net10.0\2_losowanie_liczb_2025_zad_1.exe
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\2_losowanie_liczb_2025_zad_1\bin\Debug\net10.0\2_losowanie_liczb_2025_zad_1.deps.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\2_losowanie_liczb_2025_zad_1\bin\Debug\net10.0\2_losowanie_liczb_2025_zad_1.runtimeconfig.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\2_losowanie_liczb_2025_zad_1\bin\Debug\net10.0\2_losowanie_liczb_2025_zad_1.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\2_losowanie_liczb_2025_zad_1\bin\Debug\net10.0\2_losowanie_liczb_2025_zad_1.pdb
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\2_losowanie_liczb_2025_zad_1\obj\Debug\net10.0\2_losowanie_liczb_2025_zad_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\2_losowanie_liczb_2025_zad_1\obj\Debug\net10.0\2_losowanie_liczb_2025_zad_1.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\2_losowanie_liczb_2025_zad_1\obj\Debug\net10.0\2_losowanie_liczb_2025_zad_1.AssemblyInfo.cs
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\2_losowanie_liczb_2025_zad_1\obj\Debug\net10.0\2_losowanie_liczb_2025_zad_1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\2_losowanie_liczb_2025_zad_1\obj\Debug\net10.0\2_losowanie_liczb_2025_zad_1.sourcelink.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\2_losowanie_liczb_2025_zad_1\obj\Debug\net10.0\2_losowanie_liczb_2025_zad_1.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\2_losowanie_liczb_2025_zad_1\obj\Debug\net10.0\refint\2_losowanie_liczb_2025_zad_1.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\2_losowanie_liczb_2025_zad_1\obj\Debug\net10.0\2_losowanie_liczb_2025_zad_1.pdb
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\2_losowanie_liczb_2025_zad_1\obj\Debug\net10.0\2_losowanie_liczb_2025_zad_1.genruntimeconfig.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\2_losowanie_liczb_2025_zad_1\obj\Debug\net10.0\ref\2_losowanie_liczb_2025_zad_1.dll
