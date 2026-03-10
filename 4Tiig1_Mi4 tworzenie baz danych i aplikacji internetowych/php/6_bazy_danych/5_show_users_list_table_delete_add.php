@@ -106,7 +106,7 @@
                           echo "<td>$firstName</td>";
                           echo "<td>$lastName</td>";
                           echo "<td>$birthady</td>";
-                          echo "<td><a href='4_show_users_list_table_delete.php?delete_id=$id'>Usuń</a></td>";
+                          echo "<td><a href='?delete_id=$id'>Usuń</a></td>";
                           echo "</tr>";
                       }
 //                    echo "<tr><th>ID</th><td>$user[id]</td></tr>";

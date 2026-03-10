@@ -53,13 +53,17 @@
                 $firstName = $_POST['first_name'];
                 $lastName = $_POST['last_name'];
                 $birthday = $_POST['birthday'];
+                $city_id = $_POST['city_id'];
 
+                if ($city_id == "" || $city_id === NULL) {
+                    $city_id = "NULL";
+                }
                 // print_r($_POST);
 
                 if ($birthday == ""){
-                    $sql = "INSERT INTO `users` (`id`, `first_name`, `last_name`, `birthday`) VALUES (NULL, '$firstName', '$lastName', NULL);";
+                    $sql = "INSERT INTO `users` (`id`, `city_id`, `first_name`, `last_name`, `birthday`) VALUES (NULL, $city_id, '$firstName', '$lastName', NULL);";
                 } else {
-                    $sql = "INSERT INTO `users` (`id`, `first_name`, `last_name`, `birthday`) VALUES (NULL, '$firstName', '$lastName', '$birthday');";
+                    $sql = "INSERT INTO `users` (`id`, `city_id`, `first_name`, `last_name`, `birthday`) VALUES (NULL, $city_id, '$firstName', '$lastName', '$birthday');";
                 }
 
                 mysqli_query($conn, $sql);
@@ -70,6 +74,7 @@
             }
 
             // link do formularza
+            // formularz dodawania użytkownika
             if (isset($_GET['add'])) {
                 ?>
                     <h2>Dodaj użytkownika</h2>
@@ -80,6 +85,23 @@
                         <input type="text" name="last_name" required><br><br>
                         Data urodzenia:<br>
                         <input type="date" name="birthday"><br><br>
+
+                        Miasto:<br>
+                        <select name="city_id">
+                            <option value="">--- wybierz miasto ---</option>
+
+                        <?php
+                            $sql = "SELECT * FROM `cities` ORDER BY name;";
+                            $result = mysqli_query($conn, $sql);
+
+                            while ($row = mysqli_fetch_assoc($result)) {
+                                $city_id = $row['id'];
+                                $city_name = $row['name'];
+                                echo "<option value='$city_id'>$city_name</option>";
+                            }
+                        ?>
+                        </select><br><br>
+
                         <input type="submit" name="add_user" value="Dodaj"><hr>
                     </form>
                 <?php
@@ -87,7 +109,7 @@
                 echo "<p><a href='?add=1'>Dodaj użytkownika</a></p>";
             }
 
-            // pobieranie użytkowników
+            // pobieranie użytkowników z bazy danych i wyświetlenie w tabeli
             $query = "SELECT * FROM users";
             $result = mysqli_query($conn, $query);
             
@@ -100,13 +122,13 @@
                           $id = $row['id'];
                           $firstName = $row['first_name'];
                           $lastName = $row['last_name'];
-                          $birthady = $row['birthday'] ?? "brak danych";
+                          $birthday = $row['birthday'] ?? "brak danych";
                           echo "<tr>";
                             echo "<td>" . $row['id'] . "</td>";
                           echo "<td>$firstName</td>";
                           echo "<td>$lastName</td>";
-                          echo "<td>$birthady</td>";
-                          echo "<td><a href='4_show_users_list_table_delete.php?delete_id=$id'>Usuń</a></td>";
+                          echo "<td>$birthday</td>";
+                          echo "<td><a href='?delete_id=$id'>Usuń</a></td>";
                           echo "</tr>";
                       }
 //                    echo "<tr><th>ID</th><td>$user[id]</td></tr>";
@@ -134,7 +156,43 @@
                 echo "<td>$name</td>";
                 echo "</tr>";
             }
-        echo "</table>";
+        echo "</table><hr>";
+
+        // pobieranie użytkowników z bazy danych i wyświetlenie w tabeli
+    $sql = "SELECT u.id, u.first_name, u.last_name, u.birthday, c.name FROM `users` as u LEFT JOIN cities as c ON u.city_id=c.id;";
+        $result = mysqli_query($conn, $sql);
+
+        if ($result && mysqli_num_rows($result) > 0) {
+
+
+            echo "<table>";
+            echo "<tr><th>Id</th><th>Imię</th><th>Nazwisko</th><th>Data urodzenia</th><th>Miasto</th><th>Akcja</th></tr>";
+            while ($row = mysqli_fetch_assoc($result)){
+                $id = $row['id'];
+                $firstName = $row['first_name'];
+                $lastName = $row['last_name'];
+                $birthday = $row['birthday'] ?? "brak danych";
+                $city_name = $row['name'];
+
+                echo "<tr>";
+                echo "<td>" . $row['id'] . "</td>";
+                echo "<td>$firstName</td>";
+                echo "<td>$lastName</td>";
+                echo "<td>$birthday</td>";
+                echo "<td>$city_name</td>";
+                echo "<td><a href='?delete_id=$id'>Usuń</a></td>";
+                echo "</tr>";
+            }
+    //                    echo "<tr><th>ID</th><td>$user[id]</td></tr>";
+    //                    echo "<tr><th>Imię</th><td>$user[first_name]</td></tr>";
+    //                    echo "<tr><th>Nazwisko</th><td>$user[last_name]</td></tr>";
+    //                    echo "<tr><th>Data urodzenia</th><td>$user[birthday]</td></tr>";
+            echo "</table>";
+        } else {
+            echo "Nie znaleziono użytkownika";
+        }
+
+
 
         mysqli_close($conn);
     ?>
