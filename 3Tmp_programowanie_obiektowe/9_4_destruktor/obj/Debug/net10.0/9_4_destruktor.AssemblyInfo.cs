@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9_4_destruktor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+036a6e69f3c1ededfa3c216e7609eb05f948bed0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb9718f29e2b1052db0b0f79cd1035e90ffc6149")]
 [assembly: System.Reflection.AssemblyProductAttribute("9_4_destruktor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9_4_destruktor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

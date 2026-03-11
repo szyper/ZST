@@ -1,0 +1,4 @@
+CancellationToken jest tekst zapisu pliku
+CancellationToken jest tekst zapisu pliku
+To jest tekst zapisu pliku
+To jest tekst zapisu pliku

@@ -37,15 +37,39 @@ namespace _9_4_destruktor
             }
 
             // destruktor - uruchamia się automatycznie
-            // gdy obiekt jest usuwany
+            // gdy obiekt jest usuwany z pamieci przez Garbage Collector
+            ~FileHandler()
+            {
+                // zamknięcie pliku
+                writer.Close();
+
+                Console.WriteLine("Plik został zamknięty przez destruktor");
+            }
 
         }
         static void Main(string[] args)
         {
+            // pamięć przed utworzeniem obiektu
+            Console.WriteLine($"Pamięć przed utworzeniem obiektu: {GC.GetTotalMemory(false)} bajtów");
+
             // utworzenie obiektuklasy FileHandler
             FileHandler file = new FileHandler();
 
-            
+            // pamięć po utworzeniu obiektu
+            Console.WriteLine($"Pamięć po utworzeniu obiektu: {GC.GetTotalMemory(false)} bajtów");
+
+            // wywołanie metody zapisującej tekst do pliku
+            file.WriteText("To jest tekst zapisu do pliku");
+
+            // usunięcie referencji do obiektu
+            file = null;
+
+            // pamieć po usunięciu referencji przez GC (Garbage Collector)
+            Console.WriteLine($"Pamięć po usunięciu referencji obiektu: {GC.GetTotalMemory(false)} bajtów");
+
+            // ręczne uruchomienie Garbage Collector
+            GC.Collect();
+            GC.WaitForPendingFinalizers();
 
         }
     }

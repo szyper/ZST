@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_1_destruktor\bin\Debug\net10.0\9_4_1_destruktor.exe
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_1_destruktor\bin\Debug\net10.0\9_4_1_destruktor.deps.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_1_destruktor\bin\Debug\net10.0\9_4_1_destruktor.runtimeconfig.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_1_destruktor\bin\Debug\net10.0\9_4_1_destruktor.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_1_destruktor\bin\Debug\net10.0\9_4_1_destruktor.pdb
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_1_destruktor\obj\Debug\net10.0\9_4_1_destruktor.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_1_destruktor\obj\Debug\net10.0\9_4_1_destruktor.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_1_destruktor\obj\Debug\net10.0\9_4_1_destruktor.AssemblyInfo.cs
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_1_destruktor\obj\Debug\net10.0\9_4_1_destruktor.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_1_destruktor\obj\Debug\net10.0\9_4_1_destruktor.sourcelink.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_1_destruktor\obj\Debug\net10.0\9_4_1_destruktor.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_1_destruktor\obj\Debug\net10.0\refint\9_4_1_destruktor.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_1_destruktor\obj\Debug\net10.0\9_4_1_destruktor.pdb
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_1_destruktor\obj\Debug\net10.0\9_4_1_destruktor.genruntimeconfig.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_1_destruktor\obj\Debug\net10.0\ref\9_4_1_destruktor.dll

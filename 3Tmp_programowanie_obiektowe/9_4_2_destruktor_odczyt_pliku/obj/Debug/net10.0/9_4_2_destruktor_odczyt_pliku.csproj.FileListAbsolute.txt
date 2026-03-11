@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_2_destruktor_odczyt_pliku\bin\Debug\net10.0\9_4_2_destruktor_odczyt_pliku.exe
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_2_destruktor_odczyt_pliku\bin\Debug\net10.0\9_4_2_destruktor_odczyt_pliku.deps.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_2_destruktor_odczyt_pliku\bin\Debug\net10.0\9_4_2_destruktor_odczyt_pliku.runtimeconfig.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_2_destruktor_odczyt_pliku\bin\Debug\net10.0\9_4_2_destruktor_odczyt_pliku.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_2_destruktor_odczyt_pliku\bin\Debug\net10.0\9_4_2_destruktor_odczyt_pliku.pdb
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_2_destruktor_odczyt_pliku\obj\Debug\net10.0\9_4_2_destruktor_odczyt_pliku.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_2_destruktor_odczyt_pliku\obj\Debug\net10.0\9_4_2_destruktor_odczyt_pliku.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_2_destruktor_odczyt_pliku\obj\Debug\net10.0\9_4_2_destruktor_odczyt_pliku.AssemblyInfo.cs
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_2_destruktor_odczyt_pliku\obj\Debug\net10.0\9_4_2_destruktor_odczyt_pliku.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_2_destruktor_odczyt_pliku\obj\Debug\net10.0\9_4_2_destruktor_odczyt_pliku.sourcelink.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_2_destruktor_odczyt_pliku\obj\Debug\net10.0\9_4_2_destruktor_odczyt_pliku.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_2_destruktor_odczyt_pliku\obj\Debug\net10.0\refint\9_4_2_destruktor_odczyt_pliku.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_2_destruktor_odczyt_pliku\obj\Debug\net10.0\9_4_2_destruktor_odczyt_pliku.pdb
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_2_destruktor_odczyt_pliku\obj\Debug\net10.0\9_4_2_destruktor_odczyt_pliku.genruntimeconfig.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_2_destruktor_odczyt_pliku\obj\Debug\net10.0\ref\9_4_2_destruktor_odczyt_pliku.dll

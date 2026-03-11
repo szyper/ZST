@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_3_destruktor_odczyt_dane_od_usera\bin\Debug\net10.0\9_4_3_destruktor_odczyt_dane_od_usera.exe
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_3_destruktor_odczyt_dane_od_usera\bin\Debug\net10.0\9_4_3_destruktor_odczyt_dane_od_usera.deps.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_3_destruktor_odczyt_dane_od_usera\bin\Debug\net10.0\9_4_3_destruktor_odczyt_dane_od_usera.runtimeconfig.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_3_destruktor_odczyt_dane_od_usera\bin\Debug\net10.0\9_4_3_destruktor_odczyt_dane_od_usera.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_3_destruktor_odczyt_dane_od_usera\bin\Debug\net10.0\9_4_3_destruktor_odczyt_dane_od_usera.pdb
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_3_destruktor_odczyt_dane_od_usera\obj\Debug\net10.0\9_4_3_destruktor_odczyt_dane_od_usera.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_3_destruktor_odczyt_dane_od_usera\obj\Debug\net10.0\9_4_3_destruktor_odczyt_dane_od_usera.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_3_destruktor_odczyt_dane_od_usera\obj\Debug\net10.0\9_4_3_destruktor_odczyt_dane_od_usera.AssemblyInfo.cs
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_3_destruktor_odczyt_dane_od_usera\obj\Debug\net10.0\9_4_3_destruktor_odczyt_dane_od_usera.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_3_destruktor_odczyt_dane_od_usera\obj\Debug\net10.0\9_4_3_destruktor_odczyt_dane_od_usera.sourcelink.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_3_destruktor_odczyt_dane_od_usera\obj\Debug\net10.0\9_4_3_destruktor_odczyt_dane_od_usera.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_3_destruktor_odczyt_dane_od_usera\obj\Debug\net10.0\refint\9_4_3_destruktor_odczyt_dane_od_usera.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_3_destruktor_odczyt_dane_od_usera\obj\Debug\net10.0\9_4_3_destruktor_odczyt_dane_od_usera.pdb
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_3_destruktor_odczyt_dane_od_usera\obj\Debug\net10.0\9_4_3_destruktor_odczyt_dane_od_usera.genruntimeconfig.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\9_4_3_destruktor_odczyt_dane_od_usera\obj\Debug\net10.0\ref\9_4_3_destruktor_odczyt_dane_od_usera.dll
