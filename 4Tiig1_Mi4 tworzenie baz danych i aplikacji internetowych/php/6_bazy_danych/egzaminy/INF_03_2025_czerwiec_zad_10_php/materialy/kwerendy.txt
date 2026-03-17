@@ -1,0 +1,4 @@
+kw1: SELECT kod, nazwa, cena FROM `kursy` ORDER BY cena;
+kw2: SELECT nazwa FROM `kursy`;
+kw3: INSERT INTO `uczestnicy` (`id_uczestnika`, `imie`, `nazwisko`, `wiek`) VALUES ('', 'Tadeusz ', 'Wysocki', '36');
+kw4: SELECT nazwa, COUNT(kod_kursu) as 'Zapisanych' FROM `kursy` LEFT JOIN kursy_uczestnicy ON kursy.kod = kursy_uczestnicy.kod_kursu GROUP BY nazwa;
