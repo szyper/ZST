@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\10_dziedziczenie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F15A28CC-6E46-4DE5-80AC-8075788ED91E}|10_dziedziczenie.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\10_dziedziczenie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F15A28CC-6E46-4DE5-80AC-8075788ED91E}|10_dziedziczenie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{073E496C-7ED6-AF0B-5D2D-17980EBCFF88}|10_dziedziczenie.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\10_dziedziczenie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073E496C-7ED6-AF0B-5D2D-17980EBCFF88}|10_dziedziczenie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\10_dziedziczenie\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T07:36:31.889Z",
               "EditorCaption": ""
