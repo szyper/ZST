@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\git\\ZST\\1Tip_podstawy programowania\\project_13_1_funkcje_statyczne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF6C7C90-1239-4629-BB38-79C53173E790}|project_13_1_funkcje_statyczne.csproj|c:\\xampp\\htdocs\\git\\zst\\1tip_podstawy programowania\\project_13_1_funkcje_statyczne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF6C7C90-1239-4629-BB38-79C53173E790}|project_13_1_funkcje_statyczne.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{435A3A96-9A4B-6425-EF4B-7D53E685F595}|project_13_1_funkcje_statyczne.csproj|c:\\xampp\\htdocs\\git\\zst\\1tip_podstawy programowania\\project_13_1_funkcje_statyczne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435A3A96-9A4B-6425-EF4B-7D53E685F595}|project_13_1_funkcje_statyczne.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\1Tip_podstawy programowania\\project_13_1_funkcje_statyczne\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAQwDwAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwEQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T12:14:34.515Z",
               "EditorCaption": ""

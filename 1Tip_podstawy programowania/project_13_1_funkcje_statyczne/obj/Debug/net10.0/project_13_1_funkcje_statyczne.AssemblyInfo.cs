@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("project_13_1_funkcje_statyczne")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3425b29031f0379bfacef447e1321822d482b0eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7d2ccd103453125b16f3a5f306e21c4062b8cb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("project_13_1_funkcje_statyczne")]
 [assembly: System.Reflection.AssemblyTitleAttribute("project_13_1_funkcje_statyczne")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

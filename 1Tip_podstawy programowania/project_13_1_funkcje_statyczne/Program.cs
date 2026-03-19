@@ -45,7 +45,31 @@ namespace project_13_1_funkcje_statyczne
 
         private static void CreateMultiDimensionalArray()
         {
-            throw new NotImplementedException();
+            Console.Write("Podaj liczbę wierszy: ");
+            int rows = int.Parse(Console.ReadLine());
+            Console.Write("Podaj liczbę kolumn: ");
+            int cols = int.Parse(Console.ReadLine());
+
+            int[,] array = new int[rows, cols];
+
+            for (int i = 0; i < rows; i++)
+            {
+                for (int j = 0; j < cols; j++)
+                {
+                    Console.Write($"Podaj element[{i}, {j}]: ");
+                    array[i, j] = int.Parse(Console.ReadLine());
+                }
+            }
+
+            Console.WriteLine("Tablica dwuwymiarowa:");
+            for (int i = 0; i < rows; i++)
+            {
+                for (int j = 0; j < cols; j++)
+                {
+                    Console.Write($"{array[i, j], -3}");
+                }
+                Console.WriteLine();
+            }
         }
 
         private static void CreateOneDimensionalArray()
@@ -60,6 +84,13 @@ namespace project_13_1_funkcje_statyczne
                 Console.Write($"Podaj element {i+1}: ");
                 array[i] = int.Parse(Console.ReadLine());
             }
+
+            Console.WriteLine("Tablica jednowymiarowa:");
+            foreach (var item in array)
+            {
+                Console.Write(item + " ");
+            }
+            Console.WriteLine();
         }
     }
 }
