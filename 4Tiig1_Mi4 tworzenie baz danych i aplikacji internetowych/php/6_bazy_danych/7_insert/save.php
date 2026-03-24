@@ -1,6 +1,7 @@
 <?php
     // print_r($_POST);
     require_once 'db.php';
+    // dodać pola select (narodowość), radio button (płeć)
     
     if (!empty($_POST['first_name']) && !empty($_POST['last_name']) &&!empty($_POST['email']) && !empty($_POST['birthday'])) {
         $first_name = $_POST['first_name'];
