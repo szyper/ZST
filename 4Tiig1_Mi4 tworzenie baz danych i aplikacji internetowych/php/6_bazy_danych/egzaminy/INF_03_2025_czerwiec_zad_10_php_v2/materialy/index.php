@@ -61,6 +61,41 @@
         } else {
             echo "<p>Wprowadź wszystkie dane</p>";
         }
+
+        // aktualizacja rekordu
+        if (isset($_GET['edit'])) {
+            $id = $_GET['edit'];
+
+            $sql = "SELECT * FROM kursy WHERE kod=$id";
+            $result = mysqli_query($conn, $sql);
+            $kurs = mysqli_fetch_assoc($result);
+        }
+
+        if (isset($kurs)) {
+            echo "<h4>Edytuj kurs o id=".$kurs['kod']."</h4>";
+            echo "<form method='post'>";
+            echo "<input type='text' name='kod' value='".$kurs['kod']."' hidden>";
+            echo "<input type='text' name='nazwa' value='".$kurs['nazwa']."'><br><br>";
+            echo "<input type='number' name='cena' value='".$kurs['cena']."'><br><br>";
+            echo "<input type='number' name='max_liczba_miejsc' value='".$kurs['max_liczba_miejsc']."'><br><br>";
+            
+            echo "<input type='submit' name='update' value='Zapisz zmiany'><br><br>";
+        echo "</form>";
+        }
+
+        if (isset($_POST['update'])) {
+            // print_r($_POST);
+            $id = $_POST['kod'];
+            $nazwa = $_POST['nazwa'];
+            $cena = $_POST['cena'];
+            $maxLiczbaMiejsc = $_POST['max_liczba_miejsc'];
+
+            $sql = "UPDATE `kursy` SET `nazwa`='$nazwa',`cena`='$cena',`max_liczba_miejsc`='$maxLiczbaMiejsc' WHERE kod=$id";
+
+            if (mysqli_query($conn, $sql)) {
+                echo "<p>Kurs został zaktualizowany</p>";y
+            }
+        }
     ?>  
     
           
