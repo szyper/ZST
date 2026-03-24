@@ -38,7 +38,7 @@
 
             for (int i = 1; i < text.Length; i++)
             {
-                // jeśli znka różni się od poprzedniego to dodajemy go do wyniku
+                // jeśli znak różni się od poprzedniego to dodajemy go do wyniku
                 if (text[i] != text[i - 1])
                     result += text[i];
             }
