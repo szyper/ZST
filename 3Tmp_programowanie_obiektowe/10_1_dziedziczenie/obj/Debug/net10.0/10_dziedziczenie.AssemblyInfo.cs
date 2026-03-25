@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10_dziedziczenie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0e0e8ec6fa18bdc250fa28aabe319d262e7a240")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb500107cc093b528dd3f25c151e3d6fe5705ecb")]
 [assembly: System.Reflection.AssemblyProductAttribute("10_dziedziczenie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10_dziedziczenie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

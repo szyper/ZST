@@ -1,4 +1,6 @@
-﻿namespace _10_dziedziczenie
+﻿
+
+namespace _10_dziedziczenie
 {
     public class Person
     {
@@ -112,6 +114,52 @@
                 }
             }
         }
+
+        internal void DisplayAuthorsTable()
+        {
+            if (AuthorList.Count == 0)
+            {
+                Console.WriteLine("Brak książek w bibliotece");
+                return;
+            }
+
+            Console.WriteLine("Lista autorów:");
+            // Console.WriteLine("{0, -3} {1, -13} {2, -13}", "ID", "Imię", "Nazwisko");
+            Console.WriteLine("+-----+---------------+---------------+");
+            Console.WriteLine($"| { "ID", -3 } | { "Imię", -13} | { "Nazwisko", -13} |");
+            Console.WriteLine("+-----+---------------+---------------+");
+
+            for (int i = 0; i < AuthorList.Count; i++)
+            {
+                Console.WriteLine($"| {i + 1, -3} | {AuthorList[i].FirstName, -13} | {AuthorList[i].LastName, -13} |");
+            }
+            Console.WriteLine("+-----+---------------+---------------+");
+        }
+
+        internal void DisplayBooks()
+        {
+            if (BooksList.Count == 0)
+            {
+                Console.WriteLine("Brak książek w bibliotece");
+                return;
+            }
+
+            Console.WriteLine("Książki w bibliotece:");
+            const int titleWidth = 30;
+            const int authorWidth = 25;
+            const int yearWidth = 6;
+
+            string line = "+" + new string('-', titleWidth + 2) + "+" + new string('-', authorWidth + 2) + "+" + new string('-',yearWidth + 2) + "+";
+
+            Console.WriteLine(line);
+            Console.WriteLine($"| {"Tytuł",-titleWidth} | {"Autor",-authorWidth} | {"Rok",-yearWidth} |");
+
+            foreach (var book in BooksList)
+            {
+                string authorFullName = $"{book.Author.FirstName} {book.Author.LastName}";
+                Console.WriteLine($"| {book.Title, -titleWidth} | {authorFullName, -authorWidth} | {book.PublicationYear, -yearWidth} |");
+            }
+        }
     }
     internal class Program
     {
@@ -134,8 +182,14 @@
                 Console.Clear();
                 Console.WriteLine("Menu");
                 Console.WriteLine("1. Dodaj autora");
+                Console.WriteLine("2. Dodaj książkę");
+                Console.WriteLine("3. Dodaj czytelnika");
                 Console.WriteLine("4. Wypożycz książkę");
+                Console.WriteLine("5. Wyświetl wszystkie książki");
+                Console.WriteLine("6. Wyświetl wszystkich autorów");
                 Console.WriteLine("7. Wyświetl wszystkie wypożyczone książki");
+                Console.WriteLine("8. Wyjście");
+                Console.Write("Wybierz opcję: ");
 
                 string choice = Console.ReadLine();
                 switch (choice) 
@@ -146,6 +200,40 @@
                         Console.Write("Podaj nazwisko autora:");
                         string authorLastName = Console.ReadLine();
                         library.AddAuthor(new Author(authorFirstName, authorLastName));
+                        break;
+                    case "2":
+                        if (library.AuthorList.Count == 0)
+                        {
+                            Console.WriteLine("Brak autorów w bibliotece. Najpierw dodaj autora!");
+                            Console.WriteLine("Naciśnij dowolny klawisz, aby kontynuować...");
+                            Console.ReadKey();
+                            break;
+                        }
+                        library.DisplayAuthorsTable();
+                        Console.Write("Podaj ID autora: ");
+                        int authorIndex = int.Parse(Console.ReadLine()) - 1;
+                        if (authorIndex >= 0 && authorIndex < library.AuthorList.Count)
+                        {
+                            Author selectedAuthor = library.AuthorList[authorIndex];
+                            Console.Write("Podaj tytuł książki: ");
+                            string bookTitle = Console.ReadLine();
+                            Console.Write("Podaj rok publikacji: ");
+                            int publicationYear = int.Parse(Console.ReadLine());
+                            Book newBook = new Book(bookTitle, selectedAuthor, publicationYear);
+                            library.AddBook(newBook);
+                            selectedAuthor.AddBook(newBook);
+                        } 
+                        else
+                        {
+                            Console.WriteLine("Nieprawidłowy numer autora");
+                        }
+                        break;
+                    case "3":
+                        Console.Write("Podaj imię czytelnika:");
+                        string readerFirstName = Console.ReadLine();
+                        Console.Write("Podaj nazwisko czytelnika:");
+                        string readerLastName = Console.ReadLine();
+                        library.AddReader(new Reader(readerFirstName, readerLastName));
                         break;
                     case "4":
                         Console.Write("Podaj imię czytelnika: ");
@@ -171,10 +259,21 @@
                             Console.WriteLine("Czytelnik nie został znaleziony");
                         }
                         break;
+                    case "5":
+                        library.DisplayBooks();
+                        break;
+                    case "6":
+                        library.DisplayAuthorsTable();
+                        break;
                     case "7":
                         library.DisplayBorrowedBooks();
                         break;
+                    case "8":
+                        exit = true;
+                        break;
                 }
+                Console.WriteLine("\n\nNaciśnij dowolny klawisz, aby kontynuować...");
+                Console.ReadKey();
             }
         }
     }
