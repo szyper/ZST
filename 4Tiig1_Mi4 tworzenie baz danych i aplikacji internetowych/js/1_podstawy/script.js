@@ -12,7 +12,7 @@ console.log("Imię: ",firstName,", nazwisko: ",lastName,", wiek: ",age," lat");
 
 // typy danych
 let text = "Janusz"; // string
-let num = "Janusz"; // number
+let num = 30; // number
 let log = false; // boolean
 
 // alert(firstName);

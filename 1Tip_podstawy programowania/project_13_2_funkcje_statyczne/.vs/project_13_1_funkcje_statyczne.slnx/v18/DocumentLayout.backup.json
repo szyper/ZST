@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\xampp\\htdocs\\git\\ZST\\1Tip_podstawy programowania\\project_13_1_funkcje_statyczne\\",
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\git\\ZST\\1Tip_podstawy programowania\\project_13_2_funkcje_statyczne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{435A3A96-9A4B-6425-EF4B-7D53E685F595}|project_13_1_funkcje_statyczne.csproj|c:\\xampp\\htdocs\\git\\zst\\1tip_podstawy programowania\\project_13_1_funkcje_statyczne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{435A3A96-9A4B-6425-EF4B-7D53E685F595}|project_13_1_funkcje_statyczne.csproj|c:\\xampp\\htdocs\\git\\zst\\1tip_podstawy programowania\\project_13_2_funkcje_statyczne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{435A3A96-9A4B-6425-EF4B-7D53E685F595}|project_13_1_funkcje_statyczne.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\1Tip_podstawy programowania\\project_13_1_funkcje_statyczne\\Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\1Tip_podstawy programowania\\project_13_2_funkcje_statyczne\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\1Tip_podstawy programowania\\project_13_1_funkcje_statyczne\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\1Tip_podstawy programowania\\project_13_2_funkcje_statyczne\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAUwEQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T12:14:34.515Z",
               "EditorCaption": ""
