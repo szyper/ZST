@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\4_pesel\obj\Debug\net10.0\4_pesel.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\4_pesel\obj\Debug\net10.0\4_pesel.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\4_pesel\obj\Debug\net10.0\4_pesel.AssemblyInfo.cs
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\4_pesel\obj\Debug\net10.0\4_pesel.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\4_pesel\obj\Debug\net10.0\4_pesel.sourcelink.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\4_pesel\bin\Debug\net10.0\4_pesel.exe
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\4_pesel\bin\Debug\net10.0\4_pesel.deps.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\4_pesel\bin\Debug\net10.0\4_pesel.runtimeconfig.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\4_pesel\bin\Debug\net10.0\4_pesel.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\4_pesel\bin\Debug\net10.0\4_pesel.pdb
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\4_pesel\obj\Debug\net10.0\4_pesel.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\4_pesel\obj\Debug\net10.0\refint\4_pesel.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\4_pesel\obj\Debug\net10.0\4_pesel.pdb
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\4_pesel\obj\Debug\net10.0\4_pesel.genruntimeconfig.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\egzaminy_konsola\4_pesel\obj\Debug\net10.0\ref\4_pesel.dll
