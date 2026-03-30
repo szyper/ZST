@@ -1,84 +1,84 @@
 body {
-    font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f4f6f8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #dbeafe, #bfdbfe);
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* viewport height - 100% wysokości okna przeglądarki) */
+    height: 100vh;
     margin: 0;
 }
 
+/* FORMULARZ */
 form {
-    background-color: #de0e0e;
+    background: #ffffff;
     padding: 2rem;
     border-radius: 16px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 8px 25px rgba(0, 123, 255, 0.15);
     width: 100%;
-    max-width: 400px;
+    max-width: 420px;
 }
 
+/* TYTUŁ */
 h2 {
     text-align: center;
-    color: #333;
-    margin-bottom: 1.5rem; /* root em */
+    color: #1e3a8a;
+    margin-right: 1.5rem;
 }
 
+/* LABEL */
 label {
     display: block;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.4rem;
     font-weight: 600;
-    color: #555;
+    color: #1e40af;
 }
 
+/* INPUTY */
 input, textarea, select {
     width: 100%;
-    padding: 0.75rem;
+    padding: 0.7rem;
     margin-bottom: 1rem;
-    border: 1px solid #ccc;
+    border: 1px solid #bfdbfe;
     border-radius: 8px;
     font-size: 1rem;
-    transition: border-color 0.3;
+    background-color: #f8fbff;
+    transition: all 0.25s ease;
 }
 
-input:focus {
-    border-color: #007bff;
-    outline: none;
-}
-
+/* FOCUS */
 input:focus, textarea:focus, select:focus {
-    border-color: #007bff;
+    border-color: #3b82f6;
+    background-color: #ffffff;
+    box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2);
     outline: none;
 }
 
+/* CHECKBOX */
 input[type="checkbox"] {
     width: auto;
     margin-right: 0.5rem;
 }
 
+/* BUTTON */
 button {
-    background-color: #007bff;
+    background: linear-gradient(135deg, #3b82f6, #2563eb);
     color: white;
     border: none;
-    padding: 0.75rem 1.5rem;
-    border-radius: 8px;
+    padding: 0.8rem;
+    border-radius: 10px;
     font-size: 1rem;
     width: 100%;
     cursor: pointer;
-    transition: background-color 0.3s;
+    transition: all 0.3s ease;
 }
 
 button:hover {
-    background-color: #0053b3;
+    background: linear-gradient(135deg, #2563eb, #1d4ed8);
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(37, 99, 235, 0.3);
 }
 
-input[type="date"] {
-    appearance: none;
-    -webkit-appearance: none;
-    background-color: #f9fafb;
-    color: #333;
-    cursor: pointer;
-}
-
+/* RANGE */
 .range-group {
     display: flex;
     align-items: center;
@@ -89,12 +89,9 @@ input[type="date"] {
 input[type="range"] {
     flex: 1;
     appearance: none;
-    -webkit-appearance: none;
     height: 6px;
-    background: #ddd;
+    background: #bfdbfe;
     border-radius: 5px;
-    outline: none;
-    transition: background 0.3s;
 }
 
 input[type="range"]::-webkit-slider-thumb {
@@ -102,17 +99,24 @@ input[type="range"]::-webkit-slider-thumb {
     width: 18px;
     height: 18px;
     border-radius: 50%;
-    background: #007bff;
+    background: #3b82f6;
     cursor: pointer;
-    transition: transform 0.2s;
+    transition: 0.2s;
 }
 
 input[type="range"]::-webkit-slider-thumb:hover {
-    transform: scale(1.1);
+    transform: scale(1.2);
 }
 
+/* WARTOŚĆ RANGE */
 #rangeValue {
     min-width: 24px;
-    font-weight: 600;
-    color: #007bff;
+    font-weight: bold;
+    color: #1d4ed8;
+}
+
+/* DATA */
+input[type="date"] {
+    background-color: #f8fbff;
+    cursor: pointer;
 }

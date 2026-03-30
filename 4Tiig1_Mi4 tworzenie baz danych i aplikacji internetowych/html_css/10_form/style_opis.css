@@ -1,0 +1,310 @@
+/* =========================
+   USTAWIENIA CAŁEJ STRONY
+   ========================= */
+body {
+
+    /* Lista czcionek:
+       - przeglądarka próbuje użyć pierwszej (Segoe UI),
+       - jeśli jej nie ma → bierze następną itd.
+       - na końcu sans-serif = dowolna bezszeryfowa */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    /* Gradient tła:
+       - 135deg = kierunek (z lewego górnego do prawego dolnego)
+       - #dbeafe → jasny niebieski
+       - #bfdbfe → trochę ciemniejszy
+       - daje efekt nowoczesnego tła */
+    background: linear-gradient(135deg, #dbeafe, #bfdbfe);
+
+    /* Włączenie FLEXBOXA dla body:
+       - pozwala łatwo centrować elementy (np. formularz) */
+    display: flex;
+
+    /* Wyśrodkowanie w poziomie:
+       - element (form) trafia na środek szerokości strony */
+    justify-content: center;
+
+    /* Wyśrodkowanie w pionie:
+       - element trafia na środek wysokości strony */
+    align-items: center;
+
+    /* 100vh = 100% wysokości okna przeglądarki
+       - dzięki temu centrowanie w pionie działa poprawnie */
+    height: 100vh;
+
+    /* Usunięcie domyślnego marginesu przeglądarki
+       - inaczej byłyby białe odstępy wokół strony */
+    margin: 0;
+}
+
+
+/* =========================
+   FORMULARZ (KARTA)
+   ========================= */
+form {
+
+    /* Białe tło – kontrast do niebieskiego tła strony */
+    background: #ffffff;
+
+    /* Wewnętrzne odstępy:
+       - 2rem ≈ 32px (zależne od font-size)
+       - daje "oddech" elementom */
+    padding: 2rem;
+
+    /* Zaokrąglenie rogów:
+       - nowoczesny wygląd */
+    border-radius: 16px;
+
+    /* Cień:
+       - 0 = brak przesunięcia poziomego
+       - 8px = przesunięcie w dół
+       - 25px = rozmycie
+       - rgba = kolor z przezroczystością */
+    box-shadow: 0 8px 25px rgba(0, 123, 255, 0.15);
+
+    /* Formularz zajmuje całą szerokość kontenera */
+    width: 100%;
+
+    /* Ale maksymalnie 420px (żeby nie był za szeroki na desktopie) */
+    max-width: 420px;
+}
+
+
+/* =========================
+   NAGŁÓWEK
+   ========================= */
+h2 {
+
+    /* Wyśrodkowanie tekstu */
+    text-align: center;
+
+    /* Ciemny niebieski – lepsza czytelność */
+    color: #1e3a8a;
+
+    /* Odstęp od formularza */
+    margin-right: 1.5rem;
+}
+
+
+/* =========================
+   LABEL (ETYKIETY)
+   ========================= */
+label {
+
+    /* Każdy label w osobnej linii */
+    display: block;
+
+    /* Mały odstęp od inputa */
+    margin-bottom: 0.4rem;
+
+    /* Pogrubienie – lepsza widoczność */
+    font-weight: 600;
+
+    /* Kolor dopasowany do stylu */
+    color: #1e40af;
+}
+
+
+/* =========================
+   INPUTY / TEXTAREA / SELECT
+   ========================= */
+input, textarea, select {
+
+    /* Szerokość 100% formularza */
+    width: 100%;
+
+    /* Wewnętrzne odstępy (komfort pisania) */
+    padding: 0.7rem;
+
+    /* Odstęp między polami */
+    margin-bottom: 1rem;
+
+    /* Ramka (border) */
+    border: 1px solid #bfdbfe;
+
+    /* Zaokrąglenie */
+    border-radius: 8px;
+
+    /* Rozmiar tekstu */
+    font-size: 1rem;
+
+    /* Delikatne tło */
+    background-color: #f8fbff;
+
+    /* Animacja wszystkich zmian (np. focus)
+       - 0.25s = czas trwania
+       - ease = płynne przyspieszanie */
+    transition: all 0.25s ease;
+}
+
+
+/* =========================
+   FOCUS (KLIKNIĘCIE W POLE)
+   ========================= */
+input:focus, textarea:focus, select:focus {
+
+    /* Zmiana koloru ramki */
+    border-color: #3b82f6;
+
+    /* Białe tło po kliknięciu */
+    background-color: #ffffff;
+
+    /* "Poświata" wokół pola:
+       - 0 0 0 2px = cienka obwódka
+       - rgba = półprzezroczysty niebieski */
+    box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2);
+
+    /* Usunięcie domyślnego outline przeglądarki */
+    outline: none;
+}
+
+
+/* =========================
+   CHECKBOX
+   ========================= */
+input[type="checkbox"] {
+
+    /* checkbox nie może być szeroki jak input */
+    width: auto;
+
+    /* odstęp od tekstu */
+    margin-right: 0.5rem;
+}
+
+
+/* =========================
+   PRZYCISK
+   ========================= */
+button {
+
+    /* Gradient – bardziej nowoczesny niż jednolity kolor */
+    background: linear-gradient(135deg, #3b82f6, #2563eb);
+
+    color: white;
+
+    /* Usunięcie obramowania */
+    border: none;
+
+    /* Wewnętrzny odstęp */
+    padding: 0.8rem;
+
+    /* Zaokrąglenie */
+    border-radius: 10px;
+
+    font-size: 1rem;
+
+    /* Pełna szerokość */
+    width: 100%;
+
+    /* Zmiana kursora na "rękę" */
+    cursor: pointer;
+
+    /* Animacja hover */
+    transition: all 0.3s ease;
+}
+
+
+/* =========================
+   HOVER (NAJECHANIE)
+   ========================= */
+button:hover {
+
+    /* Ciemniejszy gradient */
+    background: linear-gradient(135deg, #2563eb, #1d4ed8);
+
+    /* Lekkie podniesienie przycisku */
+    transform: translateY(-2px);
+
+    /* Mocniejszy cień */
+    box-shadow: 0 5px 15px rgba(37, 99, 235, 0.3);
+}
+
+
+/* =========================
+   RANGE (SUWAK)
+   ========================= */
+.range-group {
+
+    /* Flex – elementy obok siebie */
+    display: flex;
+
+    /* Wyrównanie pionowe */
+    align-items: center;
+
+    /* Odstęp między elementami */
+    gap: 1rem;
+
+    margin-bottom: 1rem;
+}
+
+
+/* Pasek suwaka */
+input[type="range"] {
+
+    /* zajmuje całą szerokość */
+    flex: 1;
+
+    /* usunięcie domyślnego wyglądu */
+    appearance: none;
+
+    height: 6px;
+
+    /* kolor paska */
+    background: #bfdbfe;
+
+    border-radius: 5px;
+}
+
+
+/* "Gałka" suwaka */
+input[type="range"]::-webkit-slider-thumb {
+
+    /* usunięcie domyślnego stylu */
+    -webkit-appearance: none;
+
+    width: 18px;
+    height: 18px;
+
+    /* okrąg */
+    border-radius: 50%;
+
+    /* kolor */
+    background: #3b82f6;
+
+    cursor: pointer;
+
+    transition: 0.2s;
+}
+
+
+/* Powiększenie po najechaniu */
+input[type="range"]::-webkit-slider-thumb:hover {
+    transform: scale(1.2);
+}
+
+
+/* =========================
+   WARTOŚĆ SUWAKA
+   ========================= */
+#rangeValue {
+
+    /* minimalna szerokość (żeby nie "skakało") */
+    min-width: 24px;
+
+    font-weight: bold;
+
+    color: #1d4ed8;
+}
+
+
+/* =========================
+   INPUT DATE
+   ========================= */
+input[type="date"] {
+
+    /* lekkie tło */
+    background-color: #f8fbff;
+
+    /* ręka zamiast kursora tekstowego */
+    cursor: pointer;
+}
