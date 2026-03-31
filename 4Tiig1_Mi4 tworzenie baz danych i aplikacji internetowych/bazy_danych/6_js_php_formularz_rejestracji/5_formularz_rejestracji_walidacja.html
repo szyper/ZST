@@ -249,6 +249,12 @@
 				}
 			});
 
+			// wiek
+			const ageInput = document.querySelector('#age');
+			if (!checkAge(ageInput)) {
+				isValid = false;
+			}
+
 			const email = document.querySelector('#email');
 			if (email.value && !checkEmail(email)) {
 				isValid = false;
@@ -280,6 +286,11 @@
 			let isValid = true;
 
 			if (!checkRequired(input)) isValid = false;
+
+			// wiek
+			if (input.id === 'age') {
+				if (!checkAge(input)) isValid = false;
+			}
 
 			if (isValid && input.minLength > 0) {
 				if (!checkLength(input, input.minLength, input.maxLength)) {
