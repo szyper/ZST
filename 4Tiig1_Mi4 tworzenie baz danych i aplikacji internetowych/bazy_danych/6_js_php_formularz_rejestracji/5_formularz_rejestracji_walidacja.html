@@ -49,7 +49,7 @@
 				<!-- Wiek -->
 				<div class="form-group">
 					<label for="age">Wiek</label>
-					<input type="number" name="age" id="age" min="13" max="120" required>
+					<input type="number" name="age" id="age" min="13" max="140" required>
 					<div class="error-message">Musisz mieć co najmniej 13 lat</div>
 				</div>
 
@@ -136,15 +136,42 @@
 
 		const checkRequired = (input) => {
 			if (input.type === 'checkbox') {
-				if (!input.checked) {
+				if (input.id === 'terms' && !input.checked ) {
 					showError(input, 'Musisz zaakceptować regulamin');
 					return false;
 				}
-				return true;
 			}
-
+			
 			if (input.value.trim() === '') {
 				showError(input, `${input.previousElementSibling.textContent} jest wymagane`);
+				return false;
+			}
+			return true;
+		};
+
+		// walidacja wieku
+		const checkAge = (input) => {
+			const value = input.value.trim();
+
+			if (value === '') {
+				showError(input, 'Wiek jest wymagany');
+				return false;
+			}
+
+			const age = Number(value);
+
+			if (isNaN(age)) {
+				showError(input, 'Wiek musi być liczbą');
+				return false;
+			}
+
+			if (!Number.isInteger(age)) {
+				showError(input, 'Wiek musi być liczbą całkowitą');
+				return false;
+			}
+
+			if (age < 13 || age > 140) {
+				showError(input, 'Wiek musi być w zakresie 13-140');
 				return false;
 			}
 			return true;
@@ -157,7 +184,7 @@
 			}
 
 			if (max > 0 && input.value.length > max) {
-				showError(input, `${input.previousElementSibling.textContent} nie może mnieć więcej niż ${max} znaki`);
+				showError(input, `${input.previousElementSibling.textContent} nie może mieć więcej niż ${max} znaki`);
 				return false;
 			}
 			return true;
@@ -216,7 +243,7 @@
 
 			inputs.forEach(input => {
 				if (!checkRequired(input)) {
-					isvalid = false;
+					isValid = false;
 				} else {
 					showSuccess(input);
 				}
@@ -224,17 +251,18 @@
 
 			const email = document.querySelector('#email');
 			if (email.value && !checkEmail(email)) {
-				isvalid = false;
+				isValid = false;
 			}
 
-			const confirmPassword = document.querySelector('#confirmPassword');
+			const password = document.querySelector('#password');
+
 
 			if (password.value !== confirmPassword.value) {
 				showError(confirmPassword, 'Hasła nie są takie same');
-				isvalid = false;
+				isValid = false;
 			}
 
-			if (isvalid) {
+			if (isValid) {
 				successMessage.style.display = 'block';
 				form.reset();
 
@@ -245,7 +273,7 @@
 
 		inputs.forEach(input => {
 			input.addEventListener('input', () => validateField(input));
-			// input.addEventListener('change', () => validateField(input));
+			input.addEventListener('change', () => validateField(input));
 		});
 
 		const validateField = (input) => {
@@ -260,7 +288,7 @@
 			}
 
 			if (isValid && input.type === 'email') {
-				if (!checkEmail(email)) isvalid = false;
+				if (!checkEmail(email)) isValid = false;
 			}
 
 			if (input.id === 'password') {
@@ -272,11 +300,11 @@
 
 				if (input.value !== password.value) {
 					showError(input, 'Hasła są różne');
-					isvalid = false;
+					isValid = false;
 				}
 			}
 
-			if (isvalid) {
+			if (isValid) {
 				showSuccess(input);
 			}
 		};
