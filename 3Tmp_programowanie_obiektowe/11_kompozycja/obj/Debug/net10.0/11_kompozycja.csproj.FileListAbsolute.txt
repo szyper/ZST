@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\11_kompozycja\bin\Debug\net10.0\11_kompozycja.exe
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\11_kompozycja\bin\Debug\net10.0\11_kompozycja.deps.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\11_kompozycja\bin\Debug\net10.0\11_kompozycja.runtimeconfig.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\11_kompozycja\bin\Debug\net10.0\11_kompozycja.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\11_kompozycja\bin\Debug\net10.0\11_kompozycja.pdb
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\11_kompozycja\obj\Debug\net10.0\11_kompozycja.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\11_kompozycja\obj\Debug\net10.0\11_kompozycja.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\11_kompozycja\obj\Debug\net10.0\11_kompozycja.AssemblyInfo.cs
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\11_kompozycja\obj\Debug\net10.0\11_kompozycja.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\11_kompozycja\obj\Debug\net10.0\11_kompozycja.sourcelink.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\11_kompozycja\obj\Debug\net10.0\11_kompozycja.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\11_kompozycja\obj\Debug\net10.0\refint\11_kompozycja.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\11_kompozycja\obj\Debug\net10.0\11_kompozycja.pdb
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\11_kompozycja\obj\Debug\net10.0\11_kompozycja.genruntimeconfig.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\11_kompozycja\obj\Debug\net10.0\ref\11_kompozycja.dll
