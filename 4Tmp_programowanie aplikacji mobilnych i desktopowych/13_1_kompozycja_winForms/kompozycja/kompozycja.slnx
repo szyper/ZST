@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../VehiclesApp/VehiclesApp.csproj" />
+  <Project Path="kompozycja.csproj" />
+</Solution>

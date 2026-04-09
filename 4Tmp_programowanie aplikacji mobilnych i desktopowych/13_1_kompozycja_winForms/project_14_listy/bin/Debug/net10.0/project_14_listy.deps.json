@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "project_14_listy/1.0.0": {
+        "runtime": {
+          "project_14_listy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "project_14_listy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

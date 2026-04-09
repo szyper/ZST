@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\kompozycja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F42BBE2-E2CE-4955-8202-524DBDCDA6BE}|kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\kompozycja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F42BBE2-E2CE-4955-8202-524DBDCDA6BE}|kompozycja.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEFDB0F-3232-4D26-9B83-E5C475B44DF2}|..\\VehiclesApp\\VehiclesApp.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\vehiclesapp\\models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEFDB0F-3232-4D26-9B83-E5C475B44DF2}|..\\VehiclesApp\\VehiclesApp.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\vehiclesapp\\models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEFDB0F-3232-4D26-9B83-E5C475B44DF2}|..\\VehiclesApp\\VehiclesApp.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\vehiclesapp\\models\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEFDB0F-3232-4D26-9B83-E5C475B44DF2}|..\\VehiclesApp\\VehiclesApp.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\vehiclesapp\\services\\faultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEFDB0F-3232-4D26-9B83-E5C475B44DF2}|..\\VehiclesApp\\VehiclesApp.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\vehiclesapp\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEFDB0F-3232-4D26-9B83-E5C475B44DF2}|..\\VehiclesApp\\VehiclesApp.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\vehiclesapp\\models\\enums\\enginetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F42BBE2-E2CE-4955-8202-524DBDCDA6BE}|kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\kompozycja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F42BBE2-E2CE-4955-8202-524DBDCDA6BE}|kompozycja.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEFDB0F-3232-4D26-9B83-E5C475B44DF2}|..\\VehiclesApp\\VehiclesApp.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\vehiclesapp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEFDB0F-3232-4D26-9B83-E5C475B44DF2}|..\\VehiclesApp\\VehiclesApp.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\vehiclesapp\\models\\enums\\motorcycletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEFDB0F-3232-4D26-9B83-E5C475B44DF2}|..\\VehiclesApp\\VehiclesApp.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\vehiclesapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEFDB0F-3232-4D26-9B83-E5C475B44DF2}|..\\VehiclesApp\\VehiclesApp.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\vehiclesapp\\models\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEFDB0F-3232-4D26-9B83-E5C475B44DF2}|..\\VehiclesApp\\VehiclesApp.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\vehiclesapp\\models\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEFDB0F-3232-4D26-9B83-E5C475B44DF2}|..\\VehiclesApp\\VehiclesApp.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\vehiclesapp\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F42BBE2-E2CE-4955-8202-524DBDCDA6BE}|kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\kompozycja\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2F42BBE2-E2CE-4955-8202-524DBDCDA6BE}|kompozycja.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEFDB0F-3232-4D26-9B83-E5C475B44DF2}|..\\VehiclesApp\\VehiclesApp.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\vehiclesapp\\vehiclesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F42BBE2-E2CE-4955-8202-524DBDCDA6BE}|kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\kompozycja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F42BBE2-E2CE-4955-8202-524DBDCDA6BE}|kompozycja.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F42BBE2-E2CE-4955-8202-524DBDCDA6BE}|kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\kompozycja\\kompozycja.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F42BBE2-E2CE-4955-8202-524DBDCDA6BE}|kompozycja.csproj|solutionrelative:kompozycja.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F42BBE2-E2CE-4955-8202-524DBDCDA6BE}|kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\kompozycja\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F42BBE2-E2CE-4955-8202-524DBDCDA6BE}|kompozycja.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatisticsService.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Services\\StatisticsService.cs",
+              "RelativeDocumentMoniker": "..\\VehiclesApp\\Services\\StatisticsService.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Services\\StatisticsService.cs",
+              "RelativeToolTip": "..\\VehiclesApp\\Services\\StatisticsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:18:11.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FaultService.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Services\\FaultService.cs",
+              "RelativeDocumentMoniker": "..\\VehiclesApp\\Services\\FaultService.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Services\\FaultService.cs",
+              "RelativeToolTip": "..\\VehiclesApp\\Services\\FaultService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:18:06.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EngineType.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\Enums\\EngineType.cs",
+              "RelativeDocumentMoniker": "..\\VehiclesApp\\Models\\Enums\\EngineType.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\Enums\\EngineType.cs",
+              "RelativeToolTip": "..\\VehiclesApp\\Models\\Enums\\EngineType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:18:00.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MotorcycleType.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\Enums\\MotorcycleType.cs",
+              "RelativeDocumentMoniker": "..\\VehiclesApp\\Models\\Enums\\MotorcycleType.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\Enums\\MotorcycleType.cs",
+              "RelativeToolTip": "..\\VehiclesApp\\Models\\Enums\\MotorcycleType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:17:54.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\Bicycle.cs",
+              "RelativeDocumentMoniker": "..\\VehiclesApp\\Models\\Bicycle.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\Bicycle.cs",
+              "RelativeToolTip": "..\\VehiclesApp\\Models\\Bicycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:17:46.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "..\\VehiclesApp\\Models\\Car.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\Car.cs",
+              "RelativeToolTip": "..\\VehiclesApp\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:17:41.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ElectricCar.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\ElectricCar.cs",
+              "RelativeDocumentMoniker": "..\\VehiclesApp\\Models\\ElectricCar.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\ElectricCar.cs",
+              "RelativeToolTip": "..\\VehiclesApp\\Models\\ElectricCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:17:35.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\Engine.cs",
+              "RelativeDocumentMoniker": "..\\VehiclesApp\\Models\\Engine.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\Engine.cs",
+              "RelativeToolTip": "..\\VehiclesApp\\Models\\Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:17:12.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "..\\VehiclesApp\\Models\\Motorcycle.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\Motorcycle.cs",
+              "RelativeToolTip": "..\\VehiclesApp\\Models\\Motorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:17:01.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Radio.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\Radio.cs",
+              "RelativeDocumentMoniker": "..\\VehiclesApp\\Models\\Radio.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\Radio.cs",
+              "RelativeToolTip": "..\\VehiclesApp\\Models\\Radio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:16:56.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "..\\VehiclesApp\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Models\\Vehicle.cs",
+              "RelativeToolTip": "..\\VehiclesApp\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:16:12.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VehiclesApp",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\VehiclesApp.csproj",
+              "RelativeDocumentMoniker": "..\\VehiclesApp\\VehiclesApp.csproj",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\VehiclesApp.csproj",
+              "RelativeToolTip": "..\\VehiclesApp\\VehiclesApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-09T10:06:29.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "kompozycja",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\kompozycja\\kompozycja.csproj",
+              "RelativeDocumentMoniker": "kompozycja.csproj",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\kompozycja\\kompozycja.csproj",
+              "RelativeToolTip": "kompozycja.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-09T09:54:07.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\VehiclesApp\\Class1.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\VehiclesApp\\Class1.cs",
+              "RelativeToolTip": "..\\VehiclesApp\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:53:10.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\kompozycja\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\kompozycja\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-09T09:44:14.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\kompozycja\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\kompozycja\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:44:12.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\kompozycja\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\kompozycja\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:43:45.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\kompozycja\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\kompozycja\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:43:32.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\kompozycja\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\kompozycja\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:39:56.018Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

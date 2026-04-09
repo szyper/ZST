@@ -1,0 +1,12 @@
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\VehiclesApp\bin\Debug\net10.0\VehiclesApp.deps.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\VehiclesApp\bin\Debug\net10.0\VehiclesApp.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\VehiclesApp\bin\Debug\net10.0\VehiclesApp.pdb
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\VehiclesApp\obj\Debug\net10.0\VehiclesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\VehiclesApp\obj\Debug\net10.0\VehiclesApp.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\VehiclesApp\obj\Debug\net10.0\VehiclesApp.AssemblyInfo.cs
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\VehiclesApp\obj\Debug\net10.0\VehiclesApp.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\VehiclesApp\obj\Debug\net10.0\VehiclesApp.sourcelink.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\VehiclesApp\obj\Debug\net10.0\VehiclesApp.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\VehiclesApp\obj\Debug\net10.0\refint\VehiclesApp.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\VehiclesApp\obj\Debug\net10.0\VehiclesApp.pdb
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\VehiclesApp\obj\Debug\net10.0\ref\VehiclesApp.dll
