@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\project_14_listy\bin\Debug\net10.0\project_14_listy.exe
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\project_14_listy\bin\Debug\net10.0\project_14_listy.deps.json
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\project_14_listy\bin\Debug\net10.0\project_14_listy.runtimeconfig.json
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\project_14_listy\bin\Debug\net10.0\project_14_listy.dll
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\project_14_listy\bin\Debug\net10.0\project_14_listy.pdb
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\project_14_listy\obj\Debug\net10.0\project_14_listy.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\project_14_listy\obj\Debug\net10.0\project_14_listy.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\project_14_listy\obj\Debug\net10.0\project_14_listy.AssemblyInfo.cs
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\project_14_listy\obj\Debug\net10.0\project_14_listy.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\project_14_listy\obj\Debug\net10.0\project_14_listy.sourcelink.json
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\project_14_listy\obj\Debug\net10.0\project_14_listy.dll
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\project_14_listy\obj\Debug\net10.0\refint\project_14_listy.dll
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\project_14_listy\obj\Debug\net10.0\project_14_listy.pdb
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\project_14_listy\obj\Debug\net10.0\project_14_listy.genruntimeconfig.cache
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_13_funkcje_statyczne\project_14_listy\obj\Debug\net10.0\ref\project_14_listy.dll

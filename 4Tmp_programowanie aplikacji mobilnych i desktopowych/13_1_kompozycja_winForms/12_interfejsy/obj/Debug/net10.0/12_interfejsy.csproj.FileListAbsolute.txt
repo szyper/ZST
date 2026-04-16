@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_interfejsy\obj\Debug\net10.0\12_interfejsy.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_interfejsy\obj\Debug\net10.0\12_interfejsy.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_interfejsy\obj\Debug\net10.0\12_interfejsy.AssemblyInfo.cs
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_interfejsy\obj\Debug\net10.0\12_interfejsy.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_interfejsy\obj\Debug\net10.0\12_interfejsy.sourcelink.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_interfejsy\bin\Debug\net10.0\12_interfejsy.exe
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_interfejsy\bin\Debug\net10.0\12_interfejsy.deps.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_interfejsy\bin\Debug\net10.0\12_interfejsy.runtimeconfig.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_interfejsy\bin\Debug\net10.0\12_interfejsy.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_interfejsy\bin\Debug\net10.0\12_interfejsy.pdb
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_interfejsy\obj\Debug\net10.0\12_interfejsy.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_interfejsy\obj\Debug\net10.0\refint\12_interfejsy.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_interfejsy\obj\Debug\net10.0\12_interfejsy.pdb
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_interfejsy\obj\Debug\net10.0\12_interfejsy.genruntimeconfig.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_interfejsy\obj\Debug\net10.0\ref\12_interfejsy.dll

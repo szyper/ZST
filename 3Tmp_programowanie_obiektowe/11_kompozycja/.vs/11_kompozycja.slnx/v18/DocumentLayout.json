@@ -3,52 +3,52 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\11_kompozycja\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|solutionrelative:models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\enums\\enginetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|solutionrelative:models\\enums\\enginetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|solutionrelative:models\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\enums\\motorcycletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|solutionrelative:models\\enums\\motorcycletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\enums\\enginetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|solutionrelative:models\\enums\\enginetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|solutionrelative:services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\enums\\motorcycletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|solutionrelative:models\\enums\\motorcycletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\services\\faultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|solutionrelative:services\\faultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|solutionrelative:models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|solutionrelative:models\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|solutionrelative:models\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|solutionrelative:models\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|solutionrelative:models\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|solutionrelative:models\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|solutionrelative:models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|solutionrelative:models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|solutionrelative:models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|solutionrelative:services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\services\\faultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A54EB627-21FC-4D4B-B2CE-98A5B123B9DF}|11_kompozycja.csproj|solutionrelative:services\\faultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\11_kompozycja\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6CF879-91A3-A50F-5D6D-CC85A4AAE91C}|11_kompozycja.csproj|solutionrelative:models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,15 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 11,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "EngineType.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\11_kompozycja\\Models\\Enums\\EngineType.cs",
               "RelativeDocumentMoniker": "Models\\Enums\\EngineType.cs",
@@ -74,12 +70,11 @@
               "RelativeToolTip": "Models\\Enums\\EngineType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T11:58:09.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T11:58:09.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MotorcycleType.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\11_kompozycja\\Models\\Enums\\MotorcycleType.cs",
               "RelativeDocumentMoniker": "Models\\Enums\\MotorcycleType.cs",
@@ -87,12 +82,11 @@
               "RelativeToolTip": "Models\\Enums\\MotorcycleType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T11:48:46.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T11:48:46.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "StatisticsService.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\11_kompozycja\\Services\\StatisticsService.cs",
               "RelativeDocumentMoniker": "Services\\StatisticsService.cs",
@@ -100,12 +94,11 @@
               "RelativeToolTip": "Services\\StatisticsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T10:18:22.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T10:18:22.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "FaultService.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\11_kompozycja\\Services\\FaultService.cs",
               "RelativeDocumentMoniker": "Services\\FaultService.cs",
@@ -113,12 +106,11 @@
               "RelativeToolTip": "Services\\FaultService.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAArwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T09:39:28.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T09:39:28.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Radio.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\11_kompozycja\\Models\\Radio.cs",
               "RelativeDocumentMoniker": "Models\\Radio.cs",
@@ -126,12 +118,11 @@
               "RelativeToolTip": "Models\\Radio.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAQwAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T07:31:05.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T07:31:05.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Engine.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\11_kompozycja\\Models\\Engine.cs",
               "RelativeDocumentMoniker": "Models\\Engine.cs",
@@ -139,12 +130,11 @@
               "RelativeToolTip": "Models\\Engine.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwB8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T07:30:51.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T07:30:51.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ElectricCar.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\11_kompozycja\\Models\\ElectricCar.cs",
               "RelativeDocumentMoniker": "Models\\ElectricCar.cs",
@@ -152,8 +142,7 @@
               "RelativeToolTip": "Models\\ElectricCar.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAUwAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T07:30:41.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T07:30:41.001Z"
             },
             {
               "$type": "Document",
@@ -165,12 +154,11 @@
               "RelativeToolTip": "Models\\Bicycle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAUwA4AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T07:30:27.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T07:30:27.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Motorcycle.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\11_kompozycja\\Models\\Motorcycle.cs",
               "RelativeDocumentMoniker": "Models\\Motorcycle.cs",
@@ -178,12 +166,11 @@
               "RelativeToolTip": "Models\\Motorcycle.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwBYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T07:30:15.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T07:30:15.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\11_kompozycja\\Models\\Car.cs",
               "RelativeDocumentMoniker": "Models\\Car.cs",
@@ -191,12 +178,11 @@
               "RelativeToolTip": "Models\\Car.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAASwA4AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T07:20:15.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T07:20:15.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\11_kompozycja\\Models\\Vehicle.cs",
               "RelativeDocumentMoniker": "Models\\Vehicle.cs",
@@ -204,8 +190,7 @@
               "RelativeToolTip": "Models\\Vehicle.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAA1wBsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T07:18:13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T07:18:13Z"
             },
             {
               "$type": "Document",
