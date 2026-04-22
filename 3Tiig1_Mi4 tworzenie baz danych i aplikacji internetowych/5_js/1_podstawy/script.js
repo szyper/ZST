@@ -54,6 +54,30 @@ document.writeln(10 + 20 + "30"); // "3030" -> (10 + 20) + "30" -> 30 + "30" -> 
 document.writeln(10 + "30" + 20); // "103020" -> (10 + "30") + 20 -> "1030" + 20 -> "103020"
 document.writeln("30" + 10 + 20); // "301020" -> "30" + 10 + 20 -> "3010" + 20 -> 301020
 
+// konwersja jawna 
+let c = "10.5";
+let d = "5";
+
+console.log(c + d); // 10.55
+console.log(Number(c) + Number(d)); // 15.5
+console.log(parseInt(c) + d); // 105
+console.log(parseInt(c) + Number(d)); // 15
+console.log(parseFloat(d)); // 5
+console.log(parseFloat(c) + parseFloat(d)); // 15.5
+
+// pułapki
+console.log("5" + 1); // "51" -> tekst
+console.log("5" - 1); // 4 -> liczba
+console.log("5" * "2"); // 10 -> liczba
+console.log("5" * "a"); // NaN -> błąd konwersji
+console.log(1 + true); // 2
+console.log(1 + false); // 1
+console.log("true" + 1); // "true1" -> tekst
+
+
+
+
+
 
 
 
