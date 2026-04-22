@@ -1,0 +1,45 @@
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_1_interfejsy\bin\Debug\net10.0\12_1_interfejsy.exe
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_1_interfejsy\bin\Debug\net10.0\12_1_interfejsy.deps.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_1_interfejsy\bin\Debug\net10.0\12_1_interfejsy.runtimeconfig.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_1_interfejsy\bin\Debug\net10.0\12_1_interfejsy.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_1_interfejsy\bin\Debug\net10.0\12_1_interfejsy.pdb
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_1_interfejsy\obj\Debug\net10.0\12_1_interfejsy.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_1_interfejsy\obj\Debug\net10.0\12_1_interfejsy.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_1_interfejsy\obj\Debug\net10.0\12_1_interfejsy.AssemblyInfo.cs
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_1_interfejsy\obj\Debug\net10.0\12_1_interfejsy.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_1_interfejsy\obj\Debug\net10.0\12_1_interfejsy.sourcelink.json
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_1_interfejsy\obj\Debug\net10.0\12_1_interfejsy.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_1_interfejsy\obj\Debug\net10.0\refint\12_1_interfejsy.dll
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_1_interfejsy\obj\Debug\net10.0\12_1_interfejsy.pdb
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_1_interfejsy\obj\Debug\net10.0\12_1_interfejsy.genruntimeconfig.cache
+C:\xampp\htdocs\git\ZST\4Tmp_programowanie aplikacji mobilnych i desktopowych\13_1_kompozycja_winForms\12_1_interfejsy\obj\Debug\net10.0\ref\12_1_interfejsy.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_1_interfejsy_rozwiazanie_zadania\bin\Debug\net10.0\12_1_interfejsy.exe
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_1_interfejsy_rozwiazanie_zadania\bin\Debug\net10.0\12_1_interfejsy.deps.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_1_interfejsy_rozwiazanie_zadania\bin\Debug\net10.0\12_1_interfejsy.runtimeconfig.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_1_interfejsy_rozwiazanie_zadania\bin\Debug\net10.0\12_1_interfejsy.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_1_interfejsy_rozwiazanie_zadania\bin\Debug\net10.0\12_1_interfejsy.pdb
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_1_interfejsy_rozwiazanie_zadania\obj\Debug\net10.0\12_1_interfejsy.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_1_interfejsy_rozwiazanie_zadania\obj\Debug\net10.0\12_1_interfejsy.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_1_interfejsy_rozwiazanie_zadania\obj\Debug\net10.0\12_1_interfejsy.AssemblyInfo.cs
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_1_interfejsy_rozwiazanie_zadania\obj\Debug\net10.0\12_1_interfejsy.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_1_interfejsy_rozwiazanie_zadania\obj\Debug\net10.0\12_1_interfejsy.sourcelink.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_1_interfejsy_rozwiazanie_zadania\obj\Debug\net10.0\12_1_interfejsy.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_1_interfejsy_rozwiazanie_zadania\obj\Debug\net10.0\refint\12_1_interfejsy.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_1_interfejsy_rozwiazanie_zadania\obj\Debug\net10.0\12_1_interfejsy.pdb
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_1_interfejsy_rozwiazanie_zadania\obj\Debug\net10.0\12_1_interfejsy.genruntimeconfig.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_1_interfejsy_rozwiazanie_zadania\obj\Debug\net10.0\ref\12_1_interfejsy.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_2_interfejsy__modułowo\obj\Debug\net10.0\12_1_interfejsy.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_2_interfejsy__modułowo\obj\Debug\net10.0\12_1_interfejsy.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_2_interfejsy__modułowo\obj\Debug\net10.0\12_1_interfejsy.AssemblyInfo.cs
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_2_interfejsy__modułowo\obj\Debug\net10.0\12_1_interfejsy.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_2_interfejsy__modułowo\obj\Debug\net10.0\12_1_interfejsy.sourcelink.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_2_interfejsy__modułowo\obj\Debug\net10.0\12_1_interfejsy.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_2_interfejsy__modułowo\obj\Debug\net10.0\refint\12_1_interfejsy.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_2_interfejsy__modułowo\obj\Debug\net10.0\12_1_interfejsy.pdb
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_2_interfejsy__modułowo\bin\Debug\net10.0\12_1_interfejsy.exe
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_2_interfejsy__modułowo\bin\Debug\net10.0\12_1_interfejsy.deps.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_2_interfejsy__modułowo\bin\Debug\net10.0\12_1_interfejsy.runtimeconfig.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_2_interfejsy__modułowo\bin\Debug\net10.0\12_1_interfejsy.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_2_interfejsy__modułowo\bin\Debug\net10.0\12_1_interfejsy.pdb
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_2_interfejsy__modułowo\obj\Debug\net10.0\12_1_interfejsy.genruntimeconfig.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\12_1_2_interfejsy__modułowo\obj\Debug\net10.0\ref\12_1_interfejsy.dll

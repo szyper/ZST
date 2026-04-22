@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|solutionrelative:models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|solutionrelative:models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|solutionrelative:models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\interfaces\\irun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|solutionrelative:interfaces\\irun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\interfaces\\iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|solutionrelative:interfaces\\iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\interfaces\\ihasowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|solutionrelative:interfaces\\ihasowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|solutionrelative:models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRun.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\Interfaces\\IRun.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRun.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\Interfaces\\IRun.cs",
+              "RelativeToolTip": "Interfaces\\IRun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:22:44.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISwim.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\Interfaces\\ISwim.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISwim.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\Interfaces\\ISwim.cs",
+              "RelativeToolTip": "Interfaces\\ISwim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:22:19.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHasOwner.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\Interfaces\\IHasOwner.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IHasOwner.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\Interfaces\\IHasOwner.cs",
+              "RelativeToolTip": "Interfaces\\IHasOwner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:22:04.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\Models\\Fish.cs",
+              "RelativeDocumentMoniker": "Models\\Fish.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\Models\\Fish.cs",
+              "RelativeToolTip": "Models\\Fish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:21:30.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "Models\\Dog.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\Models\\Dog.cs",
+              "RelativeToolTip": "Models\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:20:51.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "Models\\Cat.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\Models\\Cat.cs",
+              "RelativeToolTip": "Models\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:20:01.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Models\\Animal.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\Models\\Animal.cs",
+              "RelativeToolTip": "Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:18:50.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_2_interfejsy__modu\u0142owo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:46:25.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

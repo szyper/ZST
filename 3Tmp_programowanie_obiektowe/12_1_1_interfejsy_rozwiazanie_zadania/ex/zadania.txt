@@ -20,4 +20,54 @@ Dodaj obiekt fish do listy animals
 Sprawdź czy zwierzę ryba implementuje IRun
 
 zad. 5
+Modułowy przykład projektu w C# (.NET 10) skupiony na interfejsach, wstrzykiwaniu zależności i separacji odpowiedzialności. Kod jest podzielony na logiczne moduły (interfejsy, implementacje, serwis, program).
+
+ZooApp
+│
+├── Interfaces
+│   ├── IAnimal.cs
+│   ├── IRun.cs
+│   ├── ISwim.cs
+│
+├── Models
+│   ├── Dog.cs
+│   ├── Cat.cs
+│   ├── Fish.cs
+│
+├── Services
+│   └── AnimalService.cs
+│
+└── Program.cs
+
+-----------------------------------
+
+zad. 5.1
+AnimalServices
+
+Utwórz prywatne pole
+	lista List<Animal> przechowująca zwierzęta.
+Zaimplementuj metodę AddAnimal(Animal animal)
+	metoda powinna dodawać zwierzę do listy animals.
+Zaimplementuj metodę ShowAllAnimals()
+	metoda powinna wyświetlić wszystkie zwierzęta z listy
+	dla każdego zwierzęcia wywołaj metodę ShowInfo().
+Zaimplementuj metodę MakeAllSounds()
+	metoda powinna przejść przez wszystkie zwierzęta
+	dla każdego zwierzęcia wywołaj metodę MakeSound().
+Zaimplementuj metodę SortAnimalsByAge()
+	metoda powinna posortować listę zwierząt według wieku
+	użyj metody Sort() z klasy List.
+Zaimplementuj metodę ShowRunningAnimals()
+	metoda powinna sprawdzić które zwierzęta implementują interfejs IRun
+	użyj operatora is
+	dla tych zwierząt wywołaj metodę Run().
+
+
+
+
+
+
+
+
+
 

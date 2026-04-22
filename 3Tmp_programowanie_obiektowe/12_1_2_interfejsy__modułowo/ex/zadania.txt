@@ -1,0 +1,23 @@
+zad. 1
+// dodać właściwość rasa psa w Dog
+// dodać metodę pokazująca informacje o zwierzęciu ShowInfo()\
+// nowa klasa Cat, dziedziczy po Animal i implementuje interfejs IRun 
+// Cat -> metody: Run(), MakeSound()
+// lista zwierząt, w któej są zwierzęta (pies, kot)
+// pętla wywołująca metodę MakeSound() dla wszystkich elementów listy
+
+zad. 2
+Utwórz interfejs IHasOwner, który zawiera właściwość:
+	- string Owner
+
+zad. 3
+utwórz interfejs, który pozwala sprawdzać obiekty (np. porównywanie wieku zwierząt)
+
+zad. 4
+Dodaj klasę Fish (ryba nie implementuje interfejsu IRun)
+Utwórz obiekt fish
+Dodaj obiekt fish do listy animals
+Sprawdź czy zwierzę ryba implementuje IRun
+
+zad. 5
+
