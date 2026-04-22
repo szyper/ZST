@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\12_1_interfejsy\\",
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_interfejsy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|c:\\xampp\\htdocs\\git\\zst\\4tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winforms\\12_1_interfejsy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|c:\\xampp\\htdocs\\git\\zst\\3tmp_programowanie_obiektowe\\12_1_interfejsy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{331F189A-98E2-B2FE-91F7-3CA93A4DBB42}|12_1_interfejsy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\12_1_interfejsy\\Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_interfejsy\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\4Tmp_programowanie aplikacji mobilnych i desktopowych\\13_1_kompozycja_winForms\\12_1_interfejsy\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\ZST\\3Tmp_programowanie_obiektowe\\12_1_interfejsy\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAmwEUAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
