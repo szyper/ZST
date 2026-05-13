@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\13_klasy_abstrakcyjne\bin\Debug\net10.0\13_klasy_abstrakcyjne.exe
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\13_klasy_abstrakcyjne\bin\Debug\net10.0\13_klasy_abstrakcyjne.deps.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\13_klasy_abstrakcyjne\bin\Debug\net10.0\13_klasy_abstrakcyjne.runtimeconfig.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\13_klasy_abstrakcyjne\bin\Debug\net10.0\13_klasy_abstrakcyjne.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\13_klasy_abstrakcyjne\bin\Debug\net10.0\13_klasy_abstrakcyjne.pdb
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\13_klasy_abstrakcyjne\obj\Debug\net10.0\13_klasy_abstrakcyjne.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\13_klasy_abstrakcyjne\obj\Debug\net10.0\13_klasy_abstrakcyjne.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\13_klasy_abstrakcyjne\obj\Debug\net10.0\13_klasy_abstrakcyjne.AssemblyInfo.cs
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\13_klasy_abstrakcyjne\obj\Debug\net10.0\13_klasy_abstrakcyjne.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\13_klasy_abstrakcyjne\obj\Debug\net10.0\13_klasy_abstrakcyjne.sourcelink.json
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\13_klasy_abstrakcyjne\obj\Debug\net10.0\13_klasy_abstrakcyjne.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\13_klasy_abstrakcyjne\obj\Debug\net10.0\refint\13_klasy_abstrakcyjne.dll
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\13_klasy_abstrakcyjne\obj\Debug\net10.0\13_klasy_abstrakcyjne.pdb
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\13_klasy_abstrakcyjne\obj\Debug\net10.0\13_klasy_abstrakcyjne.genruntimeconfig.cache
+C:\xampp\htdocs\git\ZST\3Tmp_programowanie_obiektowe\13_klasy_abstrakcyjne\obj\Debug\net10.0\ref\13_klasy_abstrakcyjne.dll
