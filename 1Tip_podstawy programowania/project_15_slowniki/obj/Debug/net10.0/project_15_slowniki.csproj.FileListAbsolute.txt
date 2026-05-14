@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_15_slowniki\bin\Debug\net10.0\project_15_slowniki.exe
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_15_slowniki\bin\Debug\net10.0\project_15_slowniki.deps.json
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_15_slowniki\bin\Debug\net10.0\project_15_slowniki.runtimeconfig.json
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_15_slowniki\bin\Debug\net10.0\project_15_slowniki.dll
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_15_slowniki\bin\Debug\net10.0\project_15_slowniki.pdb
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_15_slowniki\obj\Debug\net10.0\project_15_slowniki.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_15_slowniki\obj\Debug\net10.0\project_15_slowniki.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_15_slowniki\obj\Debug\net10.0\project_15_slowniki.AssemblyInfo.cs
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_15_slowniki\obj\Debug\net10.0\project_15_slowniki.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_15_slowniki\obj\Debug\net10.0\project_15_slowniki.sourcelink.json
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_15_slowniki\obj\Debug\net10.0\project_15_slowniki.dll
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_15_slowniki\obj\Debug\net10.0\refint\project_15_slowniki.dll
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_15_slowniki\obj\Debug\net10.0\project_15_slowniki.pdb
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_15_slowniki\obj\Debug\net10.0\project_15_slowniki.genruntimeconfig.cache
+C:\xampp\htdocs\git\ZST\1Tip_podstawy programowania\project_15_slowniki\obj\Debug\net10.0\ref\project_15_slowniki.dll

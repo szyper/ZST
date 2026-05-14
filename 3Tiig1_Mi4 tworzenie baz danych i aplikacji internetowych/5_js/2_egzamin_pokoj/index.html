@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="number" id="length" placeholder="Długość"><br><br>
+    <input type="number" id="width" placeholder="Szerokość"><br><br>
+    <input type="checkbox" id="paintCeiling"> Malować sufit?<br><br>
+    <button type="submit" onclick="calculateCost()">OBLICZ KOSZT</button>
+    <script>
+        function calculateCost() {
+            // console.log("test funkcji");
+            let length = document.getElementById("length");
+            let width = document.getElementById("width").value;
+            // console.log(length.type);
+            console.log(length.value);
+            console.log(width);
+            let area = length.value * width;
+            console.log("Długość * szerokość = " + area);
+            
+        }
+    </script>
+</body>
+</html>
